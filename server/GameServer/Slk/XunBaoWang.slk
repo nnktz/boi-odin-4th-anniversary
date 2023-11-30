@@ -1,0 +1,381 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+P;E??;M200
+F;P0;DG0G8;M285
+B;Y43;X5;D0 0 42 4
+O;L;S;F;D;V0;K47;T0;G100 0.001
+F;W1 1 10
+F;W2 2 13
+F;W3 3 21
+C;Y2;X3;AMC SYSTEM: :SingleHandBlade ??? :Sword  ?????? :DoubleHandBlade  ??? :SingleHandStick  ??? :DoubleHandStick   ??? :Dagger  ? :Archery? :
+C;A? :Singl
+C;Y1;X1;K"Item style"
+C;X2;K"Item information"
+C;X3;K"Weapon list"
+C;X4;K"This type"
+C;X5;K"Item Comment"
+C;Y2;X1;K"ControlID"
+C;X2;K"Type"
+F;P0;FG0L;X3
+C;K"Secondtype"
+C;X4;K"Tree"
+F;SM13;Y3;X1
+C;K100
+C;X2;K"weapon"
+F;P0;FG0L;X3
+C;K"DoubleHandBlade"
+C;X4;K1
+C;X5;K"Two-hand Sword"
+F;SM13;Y4;X1
+C;K101
+C;X2;K"weapon"
+F;SM7;X3
+C;K"SingleHandBlade"
+C;X4;K1
+C;X5;K"Sword"
+F;SM13;Y5;X1
+C;K102
+C;X2;K"weapon"
+F;P0;FG0L;X3
+C;K"Dagger"
+C;X4;K1
+C;X5;K"Dagger"
+F;SM13;Y6;X1
+C;K103
+C;X2;K"weapon"
+F;P0;FG0L;X3
+C;K"SingleHandStick"
+C;X4;K1
+C;X5;K"One-handed Staff"
+F;SM13;Y7;X1
+C;K104
+C;X2;K"weapon"
+F;P0;FG0L;X3
+C;K"DoubleHandStick"
+C;X4;K1
+C;X5;K"Two-handed Staff"
+F;SM13;Y8;X1
+C;K105
+C;X2;K"weapon"
+F;SM7;X3
+C;K"SingleDecorSword"
+C;X4;K1
+C;X5;K"Mageblade"
+F;SM13;Y9;X1
+C;K106
+C;X2;K"weapon"
+F;P0;FG0L;X3
+C;K"TwoHandBlade"
+C;X4;K1
+C;X5;K"NJ"
+F;SM13;Y10;X1
+C;K107
+C;X2;K"weapon"
+F;P0;FG0L;X3
+C;K"Archery"
+C;X4;K1
+C;X5;K"Bow"
+F;SM13;Y11;X1
+C;K108
+C;X2;K"armour"
+F;P0;FG0L;X3
+C;K"helmet"
+C;X4;K2
+C;X5;K"Helm"
+F;SM13;Y12;X1
+C;K109
+C;X2;K"armour"
+F;P0;FG0L;X3
+C;K"shoulder"
+C;X4;K2
+C;X5;K"Shoulder"
+F;SM13;Y13;X1
+C;K110
+C;X2;K"armour"
+F;P0;FG0L;X3
+C;K"armour"
+C;X4;K2
+C;X5;K"Armor"
+F;SM13;Y14;X1
+C;K111
+C;X2;K"armour"
+F;P0;FG0L;X3
+C;K"glove"
+C;X4;K2
+C;X5;K"Gloves"
+F;SM13;Y15;X1
+C;K112
+C;X2;K"armour"
+F;P0;FG0L;X3
+C;K"sash"
+C;X4;K2
+C;X5;K"Belt"
+F;SM13;Y16;X1
+C;K113
+C;X2;K"armour"
+F;P0;FG0L;X3
+C;K"trousers"
+C;X4;K2
+C;X5;K"Greaves"
+F;SM13;Y17;X1
+C;K114
+C;X2;K"armour"
+F;P0;FG0L;X3
+C;K"shoe"
+C;X4;K2
+C;X5;K"Boots"
+F;SM13;Y18;X1
+C;K115
+C;X2;K"armour"
+F;P0;FG0L;X3
+C;K"shield"
+C;X4;K2
+C;X5;K"Shield"
+F;SM13;Y19;X1
+C;K116
+C;X2;K"armour"
+F;P0;FG0L;X3
+C;K"neck"
+C;X4;K2
+C;X5;K"Necklace\nThe ultimate accessory"
+F;SM13;Y20;X1
+C;K117
+C;X2;K"armour"
+F;P0;FG0L;X3
+C;K"ring"
+C;X4;K2
+C;X5;K"Ring\nThe ultimate accessory"
+F;SM13;Y21;X1
+C;K118
+C;X2;K"armour"
+F;P0;FG0L;X3
+C;K"amulet"
+C;X4;K2
+C;X5;K"Charm\nThe ultimate accessory"
+F;SM13;Y22;X1
+C;K119
+C;X2;K"armour"
+F;P0;FG0L;X3
+C;K"art1"
+C;X4;K2
+C;X5;K"Chalice"
+F;SM13;Y23;X1
+C;K120
+C;X2;K"armour"
+F;P0;FG0L;X3
+C;K"art2"
+C;X4;K2
+C;X5;K"Odin's Soul Jade"
+F;SM13;Y24;X1
+C;K121
+C;X2;K"armour"
+F;P0;FG0L;X3
+C;K"art3"
+C;X4;K2
+C;X5;K"Badge"
+F;SM13;Y25;X1
+C;K122
+C;X2;K"armour"
+C;X3;K"spiritweapon"
+C;X4;K2
+C;X5;K"Adornment Weapon"
+F;SM13;Y26;X1
+C;K123
+C;X2;K"armour"
+C;X3;K"spiritclothes"
+C;X4;K2
+C;X5;K"Adornment Armor"
+F;SM13;Y27;X1
+C;K124
+C;X2;K"armour"
+C;X3;K"spiritorna"
+C;X4;K2
+C;X5;K"Saint Realm Signet (Basic) "
+F;SM13;Y28;X1
+C;K125
+C;X2;K"armour"
+C;X3;K"spiritemblem"
+C;X4;K2
+C;X5;K"Vanished Deity Pendant (Basic) "
+F;SM13;Y29;X1
+C;K126
+F;P0;FG0L;SM13;X2
+C;K"gem"
+F;P0;FG0L;X3
+C;K0
+C;X4;K3
+C;X5;K"Gem"
+F;SM13;Y30;X1
+C;K127
+F;P0;FG0L;SM13;X2
+C;K"gem"
+F;P0;FG0L;X3
+C;K0
+C;X4;K3
+C;X5;K"Asteroid"
+F;SM13;Y31;X1
+C;K128
+F;P0;FG0L;SM13;X2
+C;K"gem"
+F;P0;FG0L;X3
+C;K0
+C;X4;K3
+C;X5;K"Ethereal Seal"
+F;SM13;Y32;X1
+C;K129
+F;P0;FG0L;SM13;X2
+C;K"stardust"
+F;P0;FG0L;X3
+C;K0
+C;X4;K4
+C;X5;K"Stardust"
+F;SM13;Y33;X1
+C;K130
+F;P0;FG0L;SM13;X2
+C;K"stardustwords"
+F;P0;FG0L;X3
+C;K0
+C;X4;K4
+C;X5;K"Starword"
+F;SM13;Y34;X1
+C;K131
+F;P0;FG0L;SM13;X2
+C;K"sangreal"
+F;P0;FG0L;X3
+C;K0
+C;X4;K5
+C;X5;K"Soulbead"
+F;SM13;Y35;X1
+C;K132
+F;P0;FG0L;SM13;X2
+C;K"charm"
+F;P0;FG0L;X3
+C;K0
+C;X4;K6
+C;X5;K"Functional"
+F;SM13;Y36;X1
+C;K133
+F;P0;FG0L;SM13;X2
+C;K"crystal"
+F;P0;FG0L;X3
+C;K0
+C;X4;K7
+C;X5;K"Fortify Crystal"
+F;SM13;Y37;X1
+C;K134
+F;P0;FG0L;SM13;X2
+C;K"restore"
+F;P0;FG0L;X3
+C;K0
+C;X4;K8
+C;X5;K"Consumable item"
+F;SM13;Y38;X1
+C;K135
+F;P0;FG0L;SM13;X2
+C;K"material"
+F;P0;FG0L;X3
+C;K0
+C;X4;K9
+C;X5;K"Production Material"
+F;SM13;Y39;X1
+C;K136
+F;P0;FG0L;SM13;X2
+C;K"other"
+F;P0;FG0L;X3
+C;K0
+C;X4;K10
+C;X5;K"NJ"
+F;SM13;Y40;X1
+C;K137
+F;P0;FG0L;SM13;X2
+C;K"pet"
+F;P0;FG0L;X3
+C;K0
+C;X4;K11
+C;X5;K"Pet"
+F;SM13;Y41;X1
+C;K138
+F;P0;FG0L;SM13;X2
+C;K"petsoul"
+F;P0;FG0L;X3
+C;K0
+C;X4;K12
+C;X5;K"Pet Gear"
+F;SM13;Y42;X1
+C;K139
+F;P0;FG0L;SM13;X2
+C;K"money"
+F;P0;FG0L;X3
+C;K0
+C;X4;K13
+C;X5;K"Coin"
+F;SM13;Y43;X1
+C;K140
+F;P0;FG0L;SM13;X2
+C;K"role"
+F;P0;FG0L;X3
+C;K0
+C;X4;K14
+C;X5;K"Character"
+E

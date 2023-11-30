@@ -1,0 +1,1126 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M200
+P;E??;M200
+P;E??;M240
+P;E??;M200
+P;E??;M200
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M200
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M200
+P;E??;M200
+P;E??;M200
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+P;ETimes New Roman;M240
+P;E??;M200
+P;E??;M240;SB;L13
+P;E??;M200;L9
+P;ETimes New Roman;M200
+P;E??;M240
+P;E??;M240;L9
+P;E??;M240
+P;E??;M200;L11
+P;E??;M240;SU;L13
+P;E??;M240;SU;L37
+F;P0;DG0G8;SM1;M285
+B;Y190;X3;D0 0 189 2
+O;L;S;D;V0;K47;T0;G100 0.001
+F;W1 1 13
+F;W2 2 60
+F;W3 3 51
+F;M315;R2
+F;P0;FG0C;SLRTBM1;Y1;X1
+C;K"N/A??????"
+F;SLRTBM1;X2
+C;K"N/A?????"
+F;SLRTBM1;X3
+C;K"Comment"
+F;P0;FG0C;SLRTBM1;Y2;X1
+C;K"RefMapID"
+F;SLRTBM1;X2
+C;K"FileName"
+F;SLRTBM1;X3
+C;Y3;X1;K222
+C;X2;K"Script\Ectype\Ectype-kuloudao-Init.s"
+C;X3;K"Devil Island"
+C;Y4;X1;K223
+C;X2;K"Script\Ectype\Ectype-RYMC-Init.s"
+C;X3;K"Lava Heights Proof"
+C;Y5;X1;K226
+C;X2;K"Script\Ectype\Ectype-DE-init-DE.s"
+C;X3;K"Dragon Emperor's Catacomb"
+C;Y6;X1;K166
+C;X2;K"Script\Ectype\Ectype-HAQX-Init.s"
+C;X3;K"Fallen Darkness"
+C;Y7;X1;K232
+C;X2;K"Script\Ectype\Ectype-Pyramid-init.s"
+C;X3;K"Giza Pyramid"
+C;Y8;X1;K187
+C;X2;K"Script\Ectype\Ectype-ShenLong-init.s"
+C;X3;K"Dragon Island"
+C;Y9;X1;K233
+C;X2;K"Script\Ectype\Ectype-shiliandongku-enter.s"
+C;X3;K"Cavern of Trials"
+C;Y10;X1;K25
+C;X2;K"Script\Ectype\Ectype-Frozen-enter.s"
+C;X3;K"Fort Glacier"
+C;Y11;X1;K228
+C;X2;K"Script\Ectype\shenpanshenyuan\Ectype-shenpanshenyuan-Init.s"
+C;X3;K"Pit of Reckoning"
+C;Y12;X1;K242
+C;X2;K"Script\Ectype\Maintask\90-Milya-Ectype-242-enter.s"
+C;X3;K"Crypt of the Arch Priestess"
+C;Y13;X1;K243
+C;X2;K"Script\Ectype\Maintask\90-Saisi-Ectype-243-enter.s"
+C;X3;K"Set's Temple"
+C;Y14;X1;K217
+C;X2;K"Script\Ectype\Maintask\Hellgate-creat.s"
+C;X3;K"Gates of Hell"
+C;Y15;X1;K244
+C;X2;K"Script\Ectype\Maintask\90-Minghe-Ectype-244-enter.s"
+C;X3;K"Styx"
+C;Y16;X1;K249
+C;X2;K"Script\Ectype\nengyuanzhijing\Ectype-nengyuanzhijing-Init.s"
+C;X3;K"Energy Well"
+C;Y17;X1;K250
+C;X2;K"Script\Ectype\Ectype-WorldTree-init.s"
+C;X3;K"Garden of the World Tree"
+C;Y18;X1;K237
+C;X2;K"Script\Ectype\Ectype-yijiwaiwei-enter.s"
+C;X3;K"Ruin 2 Periphery"
+C;Y19;X1;K254
+C;X2;K"Script\Ectype\Maintask100\Swb-Mjmy-Ectype-enter.s"
+C;X3;K"Nightmare Domain"
+C;Y20;X1;K255
+C;X2;K"Script\Ectype\Maintask100\D-jianzhong-Init.s"
+C;X3;K"Swordgrave"
+C;Y21;X1;K253
+C;X2;K"Script\Ectype\Maintask100\Zhenshizhijing-Ectype-Init.s"
+C;X3;K"Waking World"
+C;Y22;X1;K261
+C;X2;K"Script\Ectype\Maintask100\Emogu-Ectype-Init.s"
+C;X3;K"Diabolic Valley"
+C;Y23;X1;K265
+C;X2;K"Script\Ectype\Maintask100\Ectype-init-shuishen.s"
+C;X3;K"Empty Temple of Osiris"
+C;Y24;X1;K258
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Init.s"
+C;X3;K"Shadow Manor"
+C;Y25;X1;K303
+C;X2;K"Script\Ectype\TiTan\Ectype-Titan-init.s"
+C;X3;K"Titan Throne Lower Level"
+C;Y26;X1;K313
+C;X2;K"Script\Ectype\TiTan\Ectype-TitanMid-init.s"
+C;X3;K"Titan Throne Hallway "
+C;Y27;X1;K332
+C;X2;K"Script\Ectype\TiTan\Ectype-TitanLast-init.s"
+C;X3;K"Titan Throne Upper Level"
+C;Y28;X1;K458
+C;X2;K"Script\HuoDong\zhounianQ2\FQ-ectype-458-enter.s"
+C;X3;K"Burning Realm"
+C;Y29;X1;K411
+C;X2;K"Script\Ectype\gonghuifuben\Ectype-shilianchang-Init.s"
+C;X3;K"Guild Trial Ground"
+F;P0;FG0R;Y30;X1
+C;K480
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Gold Island South (TW)"
+F;P0;FG0R;Y31;X1
+C;K481
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Gold Island Centre (TW)"
+F;P0;FG0R;Y32;X1
+C;K482
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Easter Island South (TW)"
+F;P0;FG0R;Y33;X1
+C;K483
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Easter Island North (TW)"
+F;P0;FG0R;Y34;X1
+C;K484
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Atlantis Waterway (TW)"
+F;P0;FG0R;Y35;X1
+C;K485
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Gold Island North (TW)"
+F;P0;FG0R;Y36;X1
+C;K486
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Bermuda (TW)"
+F;P0;FG0R;Y37;X1
+C;K487
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Nordic Lands (TW)"
+F;P0;FG0R;Y38;X1
+C;K488
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Frostcovered Land (TW)"
+F;P0;FG0R;Y39;X1
+C;K489
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Frostcovered Plains (TW)"
+F;P0;FG0R;Y40;X1
+C;K490
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Fort Glacier (TW)"
+F;P0;FG0R;Y41;X1
+C;K491
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Dwarves' Forest (TW)"
+F;P0;FG0R;Y42;X1
+C;K492
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Viking Steppe East (TW)"
+F;P0;FG0R;Y43;X1
+C;K493
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Viking Steppe West (TW)"
+F;P0;FG0R;Y44;X1
+C;K494
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Soulbound Crypt (TW)"
+F;P0;FG0R;Y45;X1
+C;K495
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Nile River West (TW)"
+F;P0;FG0R;Y46;X1
+C;K496
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"King's Gorge (TW)"
+F;P0;FG0R;Y47;X1
+C;K497
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Aegean (TW)"
+F;P0;FG0R;Y48;X1
+C;K498
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Angkor Jungle (TW)"
+F;P0;FG0R;Y49;X1
+C;K499
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Angkor Temple (TW)"
+F;P0;FG0R;Y50;X1
+C;K500
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Temple of Osiris (TW)"
+F;P0;FG0R;Y51;X1
+C;K501
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Plains of Despair (TW)"
+F;P0;FG0R;Y52;X1
+C;K502
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Land of the Dead (TW)"
+F;P0;FG0R;Y53;X1
+C;K503
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Everstill Land (TW)"
+F;P0;FG0R;Y54;X1
+C;K504
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Gates of Hell (TW)"
+F;P0;FG0R;Y55;X1
+C;K505
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Burning Land (TW)"
+F;P0;FG0R;Y56;X1
+C;K506
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Deity Realm South (TW)"
+F;P0;FG0R;Y57;X1
+C;K507
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Deity Realm North (TW)"
+F;P0;FG0R;Y58;X1
+C;K508
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Dragon Lair (TW)"
+F;P0;FG0R;Y59;X1
+C;K509
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Valley of Ashes (TW)"
+F;P0;FG0R;Y60;X1
+C;K510
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Killing Grounds (TW)"
+F;P0;FG0R;Y61;X1
+C;K511
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Kingdom of Giants (TW)"
+F;P0;FG0R;Y62;X1
+C;K512
+C;X2;K"Script\Domain\Ectype-Domain-Init.s"
+F;P0;FG0L;X3
+C;K"Olympus (TW)"
+F;P0;FG0R;Y63;X1
+C;K478
+C;X2;K"Script\Ectype\Dixialingmu\DXLM-int.s"
+F;P0;FG0L;X3
+C;K"Underground Tomb - Reality"
+F;P0;FG0R;Y64;X1
+C;K479
+C;X2;K"Script\Ectype\Dixialingmu\DXLM2-int.s"
+F;P0;FG0L;X3
+C;K"Underground Tomb - Ghostdom"
+F;P0;FG0R;Y65;X1
+C;K1001
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta1-4-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y66;X1
+C;K1002
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y67;X1
+C;K1003
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta1-4-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y68;X1
+C;K1004
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y69;X1
+C;K1005
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta6-9-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y70;X1
+C;K1006
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y71;X1
+C;K1007
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta6-9-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y72;X1
+C;K1008
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y73;X1
+C;K1009
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta6-9-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y74;X1
+C;K1010
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta10-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y75;X1
+C;K1011
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta11-14-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y76;X1
+C;K1012
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y77;X1
+C;K1013
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta11-14-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y78;X1
+C;K1014
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y79;X1
+C;K1015
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta16-19-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y80;X1
+C;K1016
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y81;X1
+C;K1017
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta16-19-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y82;X1
+C;K1018
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y83;X1
+C;K1019
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta16-19-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y84;X1
+C;K1020
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta20-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y85;X1
+C;K1021
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta21-24-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y86;X1
+C;K1022
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y87;X1
+C;K1023
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta21-24-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y88;X1
+C;K1024
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y89;X1
+C;K1025
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta26-29-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y90;X1
+C;K1026
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y91;X1
+C;K1027
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta26-29-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y92;X1
+C;K1028
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y93;X1
+C;K1029
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta26-29-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y94;X1
+C;K1030
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta30-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y95;X1
+C;K1031
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta31-34-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y96;X1
+C;K1032
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y97;X1
+C;K1033
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta31-34-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y98;X1
+C;K1034
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y99;X1
+C;K1035
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta36-39-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y100;X1
+C;K1036
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y101;X1
+C;K1037
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta36-39-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y102;X1
+C;K1038
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y103;X1
+C;K1039
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta36-39-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y104;X1
+C;K1040
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta40-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y105;X1
+C;K1041
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta41-44-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y106;X1
+C;K1042
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y107;X1
+C;K1043
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta41-44-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y108;X1
+C;K1044
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y109;X1
+C;K1045
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta46-49-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y110;X1
+C;K1046
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y111;X1
+C;K1047
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta46-49-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y112;X1
+C;K1048
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y113;X1
+C;K1049
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta46-49-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y114;X1
+C;K1050
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta50-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y115;X1
+C;K1051
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta51-54-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y116;X1
+C;K1052
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y117;X1
+C;K1053
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta51-54-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y118;X1
+C;K1054
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y119;X1
+C;K1055
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta56-59-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y120;X1
+C;K1056
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y121;X1
+C;K1057
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta56-59-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y122;X1
+C;K1058
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y123;X1
+C;K1059
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta56-59-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y124;X1
+C;K1060
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta60-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y125;X1
+C;K1061
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta61-64-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y126;X1
+C;K1062
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y127;X1
+C;K1063
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta61-64-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y128;X1
+C;K1064
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y129;X1
+C;K1065
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta66-69-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y130;X1
+C;K1066
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y131;X1
+C;K1067
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta66-69-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y132;X1
+C;K1068
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y133;X1
+C;K1069
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta66-69-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y134;X1
+C;K1070
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta70-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y135;X1
+C;K1071
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta71-74-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y136;X1
+C;K1072
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y137;X1
+C;K1073
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta71-74-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y138;X1
+C;K1074
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y139;X1
+C;K1075
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta76-79-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y140;X1
+C;K1076
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y141;X1
+C;K1077
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta76-79-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y142;X1
+C;K1078
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y143;X1
+C;K1079
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta76-79-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y144;X1
+C;K1080
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta80-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y145;X1
+C;K1081
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta81-89-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y146;X1
+C;K1082
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y147;X1
+C;K1083
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta81-89-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y148;X1
+C;K1084
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y149;X1
+C;K1085
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta81-89-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y150;X1
+C;K1086
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y151;X1
+C;K1087
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta81-89-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y152;X1
+C;K1088
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y153;X1
+C;K1089
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta81-89-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y154;X1
+C;K1090
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta90-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y155;X1
+C;K1091
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta91-99-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y156;X1
+C;K1092
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y157;X1
+C;K1093
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta91-99-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y158;X1
+C;K1094
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y159;X1
+C;K1095
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta91-99-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y160;X1
+C;K1096
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y161;X1
+C;K1097
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta91-99-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y162;X1
+C;K1098
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta-GrandTeam-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y163;X1
+C;K1099
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta91-99-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+F;P0;FG0R;Y164;X1
+C;K1100
+C;X2;K"Script\Ectype\baicengta\Ectype-baicengta100-Init.s"
+F;P0;FG0L;X3
+C;K"Endless Stairs"
+C;Y165;X1;K531
+C;X2;K"Script\Ectype\Anxizhidi\01-AnxiInt.s"
+F;P0;FG0L;X3
+C;K"The Sepulcher"
+F;P0;FG0R;Y166;X1
+C;K532
+C;X2;K"Script\Ectype\Glory\int.s"
+F;P0;FG0L;X3
+C;K"Radiant Temple"
+F;P0;FG0R;Y167;X1
+C;K259
+C;X2;K"Script\Battle\New\Ectype-Battle-259-Init.s"
+F;P0;FG0L;X3
+C;K"Champion's Arena"
+F;P0;FG0R;Y168;X1
+C;K557
+C;X2;K"Script\Ectype\magicyard\00-MagicInt.s"
+F;P0;FG0L;X3
+C;K"Old Dragon Emperor's Crypt"
+F;P0;FG0R;Y169;X1
+C;K558
+C;X2;K"Script\Ectype\caihong\00-CaihongInt.s"
+F;P0;FG0L;X3
+C;K"Dream Rainbow Valley"
+F;P0;FG0R;Y170;X1
+C;K539
+C;X2;K"Script\Ectype\Ectype-tianyu20-Init.s"
+F;P0;FG0L;X3
+C;K"Exalted 20 Main Quest"
+F;P0;FG0R;Y171;X1
+C;K540
+C;X2;K"Script\Ectype\GoldCoast\int.s"
+F;P0;FG0L;X3
+C;K"Golden Coast Exalted Instance"
+C;Y172;X1;K541
+C;X2;K"Script\Ectype\ElfAltar\init.s"
+C;X3;K"Fae Shrine - Exalted Lands Instance"
+C;Y173;X1;K559
+C;X2;K"Script\Ectype\Ectype-datanbao-Init.s"
+C;X3;K"Gate of Fate"
+F;P0;FG0R;Y174;X1
+C;K545
+C;X2;K"Script\Ectype\Cristalking\Ectype-Skyship-Init.s"
+F;P0;FG0L;X3
+C;K"The Zephyr"
+F;P0;FG0R;Y175;X1
+C;K546
+C;X2;K"Script\Ectype\Cristalking\Ectype-Endway-Init.s"
+F;P0;FG0L;X3
+C;K"Eurus' Wasteland"
+F;P0;FG0R;Y176;X1
+C;K561
+C;X2;K"Script\Ectype\Cristalking\Ectype-Cristalking-Init.s"
+F;P0;FG0L;X3
+C;K"Throne of Boreas"
+F;P0;FG0R;Y177;X1
+C;K544
+C;X2;K"Script\Ectype\Ectype-GaiYa-Init.s"
+F;P0;FG0L;X3
+C;K"Gaia's Dwelling"
+F;P0;FG0R;Y178;X1
+C;K566
+C;X2;K"Script\Ectype\NoMercy\init.s"
+F;P0;FG0L;X3
+C;K"Heartless Canyon"
+C;Y179;X1;K570
+C;X2;K"Script\Ectype\Disneyland\int.s"
+C;X3;K"Fairground of the Battle of The Immortals"
+C;Y180;X1;K569
+C;X2;K"Script\Ectype\Disneyland\FireIntheHole\FireIntheHole_int.s"
+C;X3;K"BoI Wonderland 2 Bang-Up Time"
+F;P0;FG0R;Y181;X1
+C;K567
+C;X2;K"Script\3V3project\GameMapLoad.s"
+F;P0;FG0L;X3
+C;K"3v3 Instance Initialization"
+F;P0;FG0R;Y182;X1
+C;K565
+C;X2;K"Script\Ectype\Field45Mask\Ectype-565-Init.s"
+F;P0;FG0L;X3
+C;K"Exalted 45 Main Quest"
+F;P0;FG0R;Y183;X1
+C;K568
+C;X2;K"Script\Ectype\DFW-2\00-DFWInt.s"
+F;P0;FG0L;X3
+C;K"Pursuit of Rapture"
+C;Y184;X1;K573
+C;X2;K"Script\Ectype\Crystal\init.s"
+C;X3;K"Quartz Grotto Instance"
+F;P0;FG0R;Y185;X1
+C;K575
+C;X2;K"Script\HuoDong\HD-jinzita-Ectype-575.s"
+C;X3;K"Pyramid - Corridor of Death"
+F;P0;FG0R;Y186;X1
+C;K576
+C;X2;K"Script\HuoDong\HD-jinzita-Ectype-576.s"
+C;X3;K"Pyramid - Pharaoh's Throne"
+F;P0;FG0R;Y187;X1
+C;K577
+C;X2;K"Script\HuoDong\HD-jinzita-Ectype-577.s"
+C;X3;K"Pyramid - Queen's Catacomb"
+F;P0;FG0R;Y188;X1
+C;K578
+C;X2;K"Script\HuoDong\HD-jinzita-Ectype-578.s"
+C;X3;K"Pyramid - Behemoth's Lair"
+F;P0;FG0R;Y189;X1
+C;K579
+C;X2;K"Script\HuoDong\HD-jinzita-Ectype-579.s"
+C;X3;K"Pyramid - Maze of Mystery"
+F;P0;FG0R;Y190;X1
+C;K580
+C;X2;K"Script\HuoDong\HD-jinzita-Ectype-580.s"
+C;X3;K"Pyramid - Hexagram Array"
+E

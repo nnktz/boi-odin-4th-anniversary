@@ -1,0 +1,50 @@
+	//****************************************
+	//
+	//		Copyright:PERFECT WORLD
+	//		Modified:2012/10/09
+	//		Author:??
+	//		TaskName:44877-baoshi.s
+	//		TaskID:???????
+	//
+	//****************************************
+	
+	function OnUseItem(){	
+		//???????id
+		$only = 409
+		if $only == 1
+			return
+		endif
+		//????id
+		$del_item = 44877
+		//????id?num
+		$add_id1 = 59840
+		$add_num1 = 7
+		$add_id2 = 2211
+		$add_num2 = 7
+		$add_id3 = 2264
+		$add_num3 = 12
+//		$add_id4 = 44381
+//		$add_num4 = 1
+		
+		//????
+		$bag_count = GetPlayerInfo( -1, "nullitem", 0 )
+		if $bag_count < 3
+			BC( "screen", "player", -1, "You do not have enough space in your Bag." )
+			return
+		endif	
+//		$bag_count = GetPlayerInfo( -1, "nullitem", 1 )
+//		if $bag_count < 1
+//			BC( "screen", "player", -1, "GUID:05718000001" )
+//			return
+//		endif		
+		//????id
+		$result = SubPlayerInfo(-1,"item",$del_item,1)
+		if $result == 0
+			AddPlayerInfo(-1,"item",$add_id1,$add_num1)
+			AddPlayerInfo(-1,"item",$add_id2,$add_num2)
+			AddPlayerInfo(-1,"item",$add_id3,$add_num3)
+//			AddPlayerInfo(-1,"item",$add_id4,$add_num4)
+			SetPlayerVar(-1,$only,1)
+		endif
+//		BC( "screen", "player", -1, "GUID:05718000002" )
+	}

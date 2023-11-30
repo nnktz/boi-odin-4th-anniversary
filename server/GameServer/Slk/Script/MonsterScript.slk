@@ -1,0 +1,5419 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;Pd\-mmm\-yy
+P;Pd\-mmm
+P;Pmmm\-yy
+P;F??;M220;L9
+P;F??;M220;L9
+P;F??;M220;L9
+P;F??;M220;L9
+P;E??;M240
+P;E??;M220;L9
+P;E??;M360;SB;L57
+P;E??;M300;SB;L57
+P;E??;M260;SB;L57
+P;E??;M220;SB;L57
+P;E??;M220;L18
+P;E??;M220;L21
+P;E??;M220;L61
+P;E??;M220;L63
+P;E??;M220;SB;L64
+P;E??;M220;SB;L53
+P;E??;M220;L53
+P;E??;M220;SB;L10
+P;E??;M220;L11
+P;E??;M220;SI;L24
+P;E??;M220;SB;L9
+P;E??;M220;L10
+P;E??;M180
+F;P0;DG0G8;M270
+B;Y1910;X4;D0 0 1909 3
+O;L;S;F;D;V0;K47;T0;G100 0.001
+F;W1 1 10
+F;W2 2 85
+C;Y1;X1;K"Monster"
+C;X2;K"N/A?????"
+C;X3;K"Comment"
+C;Y2;X1;K"MonsterID"
+C;X2;K"FileName"
+C;Y3;X1;K30101
+C;X2;K"SCRIPT\HuoDong\HD-xihongduopo-M-30101.s"
+C;X3;K"N/A????BOSS"
+C;Y4;X1;K30102
+C;X2;K"SCRIPT\HuoDong\HD-xihongduopo-M-30102.s"
+C;X3;K"N/A????BOSS"
+C;Y5;X1;K30103
+C;X2;K"SCRIPT\HuoDong\HD-xihongduopo-M-30103.s"
+C;X3;K"N/A????BOSS"
+C;Y6;X1;K30104
+C;X2;K"SCRIPT\HuoDong\HD-xihongduopo-M-30104.s"
+C;X3;K"N/A????BOSS"
+C;Y7;X1;K30105
+C;X2;K"SCRIPT\HuoDong\HD-xihongduopo-M-30105.s"
+C;X3;K"N/A????BOSS"
+C;Y9;X1;K32011
+C;X2;K"Script\HuoDong\HD-aodingdeenci-32011.s"
+C;X3;K"Chest Odin's Blessing"
+C;Y10;X1;K32012
+C;X2;K"Script\HuoDong\HD-aodingdeenci-32012.s"
+C;X3;K"Chest Odin's Blessing"
+C;Y11;X1;K32013
+C;X2;K"Script\HuoDong\HD-aodingdeenci-32013.s"
+C;X3;K"Chest Odin's Blessing"
+C;Y12;X1;K32014
+C;X2;K"Script\HuoDong\HD-aodingdeenci-32014.s"
+C;X3;K"Chest Odin's Blessing"
+C;Y13;X1;K32015
+C;X2;K"Script\HuoDong\HD-aodingdeenci-32015.s"
+C;X3;K"Chest Odin's Blessing"
+C;Y15;X1;K30141
+C;X2;K"SCRIPT\HuoDong\HD-leishengdezhufu-M.s"
+C;X3;K"Thor's Blessing, Khar's Shadow"
+C;Y16;X1;K30142
+C;X2;K"SCRIPT\HuoDong\HD-leishengdezhufu-M.s"
+C;X3;K"Thor's Blessing, Khar's Shadow"
+C;Y17;X1;K30143
+C;X2;K"SCRIPT\HuoDong\HD-leishengdezhufu-M.s"
+C;X3;K"Thor's Blessing, Khar's Shadow"
+C;Y18;X1;K30144
+C;X2;K"SCRIPT\HuoDong\HD-leishengdezhufu-M.s"
+C;X3;K"Thor's Blessing, Khar's Shadow"
+C;Y19;X1;K30145
+C;X2;K"SCRIPT\HuoDong\HD-leishengdezhufu-M.s"
+C;X3;K"Thor's Blessing, Khar's Shadow"
+C;Y20;X1;K30146
+C;X2;K"SCRIPT\HuoDong\HD-leishengdezhufu-M.s"
+C;X3;K"Thor's Blessing, Khar's Shadow"
+C;Y21;X1;K30147
+C;X2;K"SCRIPT\HuoDong\HD-leishengdezhufu-M.s"
+C;X3;K"Thor's Blessing, Khar's Shadow"
+C;Y22;X1;K30148
+C;X2;K"SCRIPT\HuoDong\HD-leishengdezhufu-M.s"
+C;X3;K"Thor's Blessing, Khar's Shadow"
+C;Y24;X1;K30151
+C;X2;K"SCRIPT\HuoDong\HD-emoliesha-M.s"
+C;X3;K"N/A????BOSS??"
+C;Y25;X1;K40391
+C;X2;K"SCRIPT\Monster\Monster-40391.s"
+C;X3;K"Notice of True Scorpion Lord Drum"
+C;Y27;X1;K43031
+C;X2;K"Script\Monster\Tansuo\TS-jiagongsu-M-43031.s"
+C;X3;K"Spectacular Pillar"
+C;Y28;X1;K43032
+C;X2;K"Script\Monster\Tansuo\TS-jiashanbi-M-43032.s"
+C;X3;K"Totem"
+C;Y29;X1;K43033
+C;X2;K"Script\Monster\Tansuo\TS-jiamingzhong-M-43033.s"
+C;X3;K"Lesser Pyramid"
+C;Y31;X1;K32254
+C;X2;K"Script\Monster\Xingpan\xingpan-shenminengliangti.s"
+C;X3;K"Stargrid Daily Quest-??????"
+C;Y32;X1;K32255
+C;X2;K"Script\Monster\Xingpan\xingpan-yigounengliangti.s"
+C;X3;K"Stargrid Daily Quest-??????"
+C;Y34;X1;K43001
+C;X2;K"Script\Monster\TanSuo\TS-M-43001.s"
+C;X3;K"Deluxe Chest"
+C;Y35;X1;K43002
+C;X2;K"Script\Monster\TanSuo\TS-M-43002.s"
+C;X3;K"Stone Chest"
+C;Y36;X1;K43003
+C;X2;K"Script\Monster\TanSuo\TS-M-43002.s"
+C;X3;K"Wooden Chest"
+C;Y37;X1;K43004
+C;X2;K"Script\Monster\Tansuo\TS-M-43004.s"
+C;X3;K"Stone Coffin"
+C;Y38;X1;K43005
+C;X2;K"Script\Monster\Tansuo\TS-M-43004.s"
+C;X3;K"Wooden Coffin"
+C;Y39;X1;K43006
+C;X2;K"Script\Monster\Tansuo\TS-M-43006.s"
+C;X3;K"Sitting Corpse"
+C;Y40;X1;K43007
+C;X2;K"Script\Monster\Tansuo\TS-M-43006.s"
+C;X3;K"Sitting Corpse"
+C;Y41;X1;K43008
+C;X2;K"Script\Monster\Tansuo\TS-M-43006.s"
+C;X3;K"Lying Corpse"
+C;Y42;X1;K43009
+C;X2;K"Script\Monster\Tansuo\TS-M-43006.s"
+C;X3;K"Lying Corpse"
+C;Y43;X1;K43010
+C;X2;K"Script\Monster\Tansuo\TS-M-43006.s"
+C;X3;K"Rotten Corpse"
+C;Y44;X1;K43011
+C;X2;K"Script\Monster\Tansuo\TS-M-43011.s"
+C;X3;K"Bone Pile"
+C;Y45;X1;K43012
+C;X2;K"Script\Monster\Tansuo\TS-M-43011.s"
+C;X3;K"Lying Skeleton"
+C;Y46;X1;K43013
+C;X2;K"Script\Monster\Tansuo\TS-M-43011.s"
+C;X3;K"Sitting Skeleton"
+C;Y47;X1;K43014
+C;X2;K"Script\Monster\Tansuo\TS-M-43014.s"
+C;X3;K"Clay Urn"
+C;Y48;X1;K43015
+C;X2;K"Script\Monster\Tansuo\TS-M-43014.s"
+C;X3;K"Clay Pot"
+C;Y49;X1;K43016
+C;X2;K"Script\Monster\Tansuo\TS-M-43014.s"
+C;X3;K"Clay Pitcher"
+C;Y50;X1;K43017
+C;X2;K"Script\Monster\Tansuo\TS-M-43017.s"
+C;X3;K"Sneck Pile"
+C;Y51;X1;K43018
+C;X2;K"Script\Monster\Tansuo\TS-M-43017.s"
+C;X3;K"Hogweed"
+C;Y52;X1;K43020
+C;X2;K"Script\Monster\Tansuo\TS-M-43017.s"
+C;X3;K"Wooden Shelf"
+C;Y53;X1;K43021
+C;X2;K"Script\Monster\Tansuo\TS-M-43021.s"
+C;X3;K"Weapon Shelf"
+C;Y54;X1;K43022
+C;X2;K"Script\Monster\Tansuo\TS-M-43022.s"
+C;X3;K"Armor Shelf"
+C;Y55;X1;K43023
+C;X2;K"Script\Monster\Tansuo\TS-M-43006.s"
+C;X3;K"Hanged Person"
+C;Y56;X1;K43024
+C;X2;K"Script\Monster\Tansuo\TS-M-43024.s"
+C;X3;K"Book Shelf"
+C;Y57;X1;K43025
+C;X2;K"Script\Monster\Tansuo\TS-M-43024.s"
+C;X3;K"Thor's Altar"
+C;Y58;X1;K43051
+C;X2;K"Script\Monster\Tansuo\TS-M-43025.s"
+C;X3;K"Mysterious Quartz Grotto"
+C;Y60;X1;K10806
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10806.s"
+C;X3;K"N/A???BOSS??"
+C;Y61;X1;K10816
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10816.s"
+C;X3;K"N/A???BOSS??"
+C;Y62;X1;K10826
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10826.s"
+C;X3;K"N/A???BOSS??"
+C;Y63;X1;K10836
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10836.s"
+C;X3;K"N/A???BOSS??"
+C;Y64;X1;K10846
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10846.s"
+C;X3;K"N/A???BOSS??"
+C;Y66;X1;K11491
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10806.s"
+C;X3;K"N/A???BOSS??"
+C;Y67;X1;K11492
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10816.s"
+C;X3;K"N/A???BOSS??"
+C;Y68;X1;K11493
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10826.s"
+C;X3;K"N/A???BOSS??"
+C;Y69;X1;K11494
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10836.s"
+C;X3;K"N/A???BOSS??"
+C;Y70;X1;K11495
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10846.s"
+C;X3;K"N/A???BOSS??"
+C;Y72;X1;K11501
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10806.s"
+C;X3;K"N/A???BOSS??"
+C;Y73;X1;K11502
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10816.s"
+C;X3;K"N/A???BOSS??"
+C;Y74;X1;K11503
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10826.s"
+C;X3;K"N/A???BOSS??"
+C;Y75;X1;K11504
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10836.s"
+C;X3;K"N/A???BOSS??"
+C;Y76;X1;K11505
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10846.s"
+C;X3;K"N/A???BOSS??"
+C;Y78;X1;K11511
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10806.s"
+C;X3;K"N/A???BOSS??"
+C;Y79;X1;K11512
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10816.s"
+C;X3;K"N/A???BOSS??"
+C;Y80;X1;K11513
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10826.s"
+C;X3;K"N/A???BOSS??"
+C;Y81;X1;K11514
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10836.s"
+C;X3;K"N/A???BOSS??"
+C;Y82;X1;K11515
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10846.s"
+C;X3;K"N/A???BOSS??"
+C;Y84;X1;K11521
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10806.s"
+C;X3;K"N/A???BOSS??"
+C;Y85;X1;K11522
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10816.s"
+C;X3;K"N/A???BOSS??"
+C;Y86;X1;K11523
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10826.s"
+C;X3;K"N/A???BOSS??"
+C;Y87;X1;K11524
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10836.s"
+C;X3;K"N/A???BOSS??"
+C;Y88;X1;K11525
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10846.s"
+C;X3;K"N/A???BOSS??"
+C;Y90;X1;K11531
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10806.s"
+C;X3;K"N/A???BOSS??"
+C;Y91;X1;K11532
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10816.s"
+C;X3;K"N/A???BOSS??"
+C;Y92;X1;K11533
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10826.s"
+C;X3;K"N/A???BOSS??"
+C;Y93;X1;K11534
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10836.s"
+C;X3;K"N/A???BOSS??"
+C;Y94;X1;K11535
+C;X2;K"SCRIPT\HuoDong\HD-jinzita-M-10846.s"
+C;X3;K"N/A???BOSS??"
+C;Y96;X1;K12050
+C;X2;K"Script\Monster\ghjy-12050.s"
+C;X3;K"Common Guild Beast"
+C;Y97;X1;K12051
+C;X2;K"Script\Monster\ghjy-12051.s"
+C;X3;K"Advanced Guild Beast"
+C;Y98;X1;K12052
+C;X2;K"Script\Monster\ghjy-12052.s"
+C;X3;K"Ultimate Guild Beast"
+C;Y100;X1;K30161
+C;X2;K"SCRIPT\HuoDong\HD-duobaoqibing-M30161.s"
+C;X3;K"Bountyhunter Chest"
+C;Y101;X1;K30162
+C;X2;K"SCRIPT\HuoDong\HD-duobaoqibing-M30162.s"
+C;X3;K"Bountyhunter Coins"
+C;Y103;X1;K40383
+C;X2;K"Script\Monster\Monster-40383.s"
+C;X3;K"Mayring Herb"
+C;Y105;X1;K40132
+C;X2;K"Script\Monster\TanSuo\TS-jinshudui-M-40132.s"
+C;X3;K"Sutra Pile"
+C;Y106;X1;K40136
+C;X2;K"Script\Monster\TanSuo\TS-fotou-M-40136.s"
+C;X3;K"Buddha Head"
+C;Y107;X1;K40212
+C;X2;K"Script\Monster\TanSuo\TS-pingguan-M-40212.s"
+C;X3;K"Bottles and Vases"
+C;Y108;X1;K40223
+C;X2;K"Script\Monster\TanSuo\TS-bihua-M-40223.s"
+C;X3;K"Fresco"
+C;Y110;X1;K43101
+C;X2;K"Script\Monster\TanSuo\TS-43101.s"
+C;X3;K"N/A????"
+C;Y111;X1;K43102
+C;X2;K"Script\Monster\TanSuo\TS-43102.s"
+C;X3;K"N/A????"
+C;Y112;X1;K43111
+C;X2;K"Script\Monster\TanSuo\TS-43111.s"
+C;X3;K"N/A????"
+C;Y113;X1;K43112
+C;X2;K"Script\Monster\TanSuo\TS-43112.s"
+C;X3;K"N/A????"
+C;Y114;X1;K43121
+C;X2;K"Script\Monster\TanSuo\TS-43121.s"
+C;X3;K"N/A????"
+C;Y115;X1;K43122
+C;X2;K"Script\Monster\TanSuo\TS-43122.s"
+C;X3;K"N/A????"
+C;Y116;X1;K43131
+C;X2;K"Script\Monster\TanSuo\TS-43131.s"
+C;X3;K"N/A????"
+C;Y117;X1;K43132
+C;X2;K"Script\Monster\TanSuo\TS-43132.s"
+C;X3;K"N/A????"
+C;Y118;X1;K43141
+C;X2;K"Script\Monster\TanSuo\TS-43141.s"
+C;X3;K"N/A?????"
+C;Y119;X1;K43142
+C;X2;K"Script\Monster\TanSuo\TS-43142.s"
+C;X3;K"N/A?????"
+C;Y120;X1;K43151
+C;X2;K"Script\Monster\TanSuo\TS-43151.s"
+C;X3;K"N/A?????"
+C;Y121;X1;K43152
+C;X2;K"Script\Monster\TanSuo\TS-43152.s"
+C;X3;K"N/A?????"
+C;Y122;X1;K43161
+C;X2;K"Script\Monster\TanSuo\TS-43161.s"
+C;X3;K"N/A?????"
+C;Y123;X1;K43162
+C;X2;K"Script\Monster\TanSuo\TS-43162.s"
+C;X3;K"N/A?????"
+C;Y124;X1;K43171
+C;X2;K"Script\Monster\TanSuo\TS-43171.s"
+C;X3;K"N/A?????"
+C;Y125;X1;K43172
+C;X2;K"Script\Monster\TanSuo\TS-43172.s"
+C;X3;K"N/A?????"
+C;Y126;X1;K43181
+C;X2;K"Script\Monster\TanSuo\TS-43181.s"
+C;X3;K"N/A?????"
+C;Y127;X1;K43182
+C;X2;K"Script\Monster\TanSuo\TS-43182.s"
+C;X3;K"N/A?????"
+C;Y128;X1;K43191
+C;X2;K"Script\Monster\TanSuo\TS-43191.s"
+C;X3;K"N/A?????"
+C;Y129;X1;K43192
+C;X2;K"Script\Monster\TanSuo\TS-43192.s"
+C;X3;K"N/A?????"
+C;Y130;X1;K43201
+C;X2;K"Script\Monster\TanSuo\TS-43201.s"
+C;X3;K"N/A????"
+C;Y131;X1;K43202
+C;X2;K"Script\Monster\TanSuo\TS-43202.s"
+C;X3;K"N/A????"
+C;Y132;X1;K43211
+C;X2;K"Script\Monster\TanSuo\TS-43211.s"
+C;X3;K"N/A????"
+C;Y133;X1;K43212
+C;X2;K"Script\Monster\TanSuo\TS-43212.s"
+C;X3;K"N/A????"
+C;Y134;X1;K43221
+C;X2;K"Script\Monster\TanSuo\TS-43221.s"
+C;X3;K"N/A??????"
+C;Y135;X1;K43222
+C;X2;K"Script\Monster\TanSuo\TS-43222.s"
+C;X3;K"N/A??????"
+C;Y136;X1;K43231
+C;X2;K"Script\Monster\TanSuo\TS-43231.s"
+C;X3;K"N/A??????"
+C;Y137;X1;K43232
+C;X2;K"Script\Monster\TanSuo\TS-43232.s"
+C;X3;K"N/A??????"
+C;Y138;X1;K43241
+C;X2;K"Script\Monster\TanSuo\TS-43241.s"
+C;X3;K"N/A??????"
+C;Y139;X1;K43242
+C;X2;K"Script\Monster\TanSuo\TS-43242.s"
+C;X3;K"N/A??????"
+C;Y140;X1;K43251
+C;X2;K"Script\Monster\TanSuo\TS-43251.s"
+C;X3;K"N/A??????"
+C;Y141;X1;K43252
+C;X2;K"Script\Monster\TanSuo\TS-43252.s"
+C;X3;K"N/A??????"
+C;Y142;X1;K43261
+C;X2;K"Script\Monster\TanSuo\TS-43261.s"
+C;X3;K"King Gorge's Chest"
+C;Y143;X1;K43262
+C;X2;K"Script\Monster\TanSuo\TS-43262.s"
+C;X3;K"N/A?????"
+C;Y144;X1;K43271
+C;X2;K"Script\Monster\TanSuo\TS-43271.s"
+C;X3;K"N/A????"
+C;Y145;X1;K43272
+C;X2;K"Script\Monster\TanSuo\TS-43272.s"
+C;X3;K"N/A????"
+C;Y146;X1;K43281
+C;X2;K"Script\Monster\TanSuo\TS-43281.s"
+C;X3;K"N/A?????"
+C;Y147;X1;K43282
+C;X2;K"Script\Monster\TanSuo\TS-43282.s"
+C;X3;K"N/A?????"
+C;Y148;X1;K43291
+C;X2;K"Script\Monster\TanSuo\TS-43291.s"
+C;X3;K"N/A????"
+C;Y149;X1;K43292
+C;X2;K"Script\Monster\TanSuo\TS-43292.s"
+C;X3;K"N/A????"
+C;Y150;X1;K43301
+C;X2;K"Script\Monster\TanSuo\TS-43301.s"
+C;X3;K"N/A????"
+C;Y151;X1;K43302
+C;X2;K"Script\Monster\TanSuo\TS-43302.s"
+C;X3;K"N/A????"
+C;Y152;X1;K43311
+C;X2;K"Script\Monster\TanSuo\TS-43311.s"
+C;X3;K"N/A????"
+C;Y153;X1;K43312
+C;X2;K"Script\Monster\TanSuo\TS-43312.s"
+C;X3;K"N/A???"
+C;Y154;X1;K43321
+C;X2;K"Script\Monster\TanSuo\TS-43321.s"
+C;X3;K"N/A????"
+C;Y155;X1;K43322
+C;X2;K"Script\Monster\TanSuo\TS-43322.s"
+C;X3;K"N/A????"
+C;Y157;X1;K44001
+C;X2;K"SCRIPT\Monster\Monster-44001.s"
+C;X3;K"N/A????????"
+C;Y158;X1;K44002
+C;X2;K"SCRIPT\Monster\Monster-44002.s"
+C;X3;K"N/A????????"
+C;Y159;X1;K44003
+C;X2;K"SCRIPT\Monster\Monster-44003.s"
+C;X3;K"N/A????????"
+C;Y160;X1;K44004
+C;X2;K"SCRIPT\Monster\Monster-44004.s"
+C;X3;K"N/A????????"
+C;Y161;X1;K44005
+C;X2;K"SCRIPT\Monster\Monster-44005.s"
+C;X3;K"N/A????????"
+C;Y164;X1;K30019
+C;X2;K"SCRIPT\Monster\Monster-30019.s"
+C;X3;K"N/A????????"
+C;Y165;X1;K41012
+C;X2;K"SCRIPT\Monster\Monster41012.s"
+C;X3;K"Rainbow Valley Ring Quest"
+C;Y166;X1;K41013
+C;X2;K"SCRIPT\Monster\Monster41013.s"
+C;X3;K"Rainbow Valley Ring Quest"
+C;Y167;X1;K41014
+C;X2;K"SCRIPT\Monster\Monster41014.s"
+C;X3;K"Rainbow Valley Ring Quest"
+C;Y168;X1;K41017
+C;X2;K"SCRIPT\Monster\Monster41017.s"
+C;X3;K"Rainbow Valley Ring Quest"
+C;Y169;X1;K40128
+C;X2;K"SCRIPT\Monster\Monster40128.s"
+C;X3;K"Main Line"
+C;Y170;X1;K40157
+C;X2;K"SCRIPT\Monster\Monster40157.s"
+C;X3;K"N/A????"
+C;Y173;X1;K30173
+C;X2;K"SCRIPT\Monster\Monster30173.s"
+C;X3;K"N/A??"
+C;Y175;X1;K41021
+C;X2;K"Script\HuoDong\HD-shikongzhixue-M-41021.s"
+C;X3;K"Chrono Relic"
+C;Y176;X1;K41022
+C;X2;K"Script\HuoDong\HD-shikongzhixue-M-41022.s"
+C;X3;K"Chrono Chest"
+C;Y178;X1;K41023
+C;X2;K"Script\Monster\AV-Monster41023.s"
+C;Y179;X1;K41024
+C;X2;K"Script\Monster\AV-Monster41024.s"
+C;Y180;X1;K41026
+C;X2;K"Script\Monster\AV-Monster41026.s"
+C;Y181;X1;K41027
+C;X2;K"Script\Monster\AV-Monster41027.s"
+C;Y182;X1;K41028
+C;X2;K"Script\Monster\AV-Monster41028.s"
+C;Y183;X1;K41029
+C;X2;K"Script\Monster\AV-Monster41029.s"
+C;Y184;X1;K41030
+C;X2;K"Script\Monster\AV-Monster41030.s"
+C;Y185;X1;K32114
+C;X2;K"Script\Monster\AV-Monster32114-32116.s"
+C;Y186;X1;K32115
+C;X2;K"Script\Monster\AV-Monster32115-32117.s"
+C;Y187;X1;K32116
+C;X2;K"Script\Monster\AV-Monster32114-32116.s"
+C;Y188;X1;K32117
+C;X2;K"Script\Monster\AV-Monster32115-32117.s"
+C;Y189;X1;K40424
+C;X2;K"Script\Monster\Monster-40424.s"
+C;X3;K"Branch"
+C;Y191;X1;K41042
+C;X2;K"Script\Monster\Explor-Monster-41042.s"
+C;X3;K"Outer Starway"
+C;Y192;X1;K41041
+C;X2;K"Script\Monster\Explor-Monster-41041.s"
+C;X3;K"Outer Starway"
+C;Y193;X1;K41043
+C;X2;K"Script\Monster\Explor-Monster-41043.s"
+C;X3;K"Outer Starway"
+C;Y194;X1;K41044
+C;X2;K"Script\Monster\Explor-Monster-41044.s"
+C;X3;K"Outer Starway"
+C;Y196;X1;K30038
+C;X2;K"Script\Monster\HD-Pyramid-M-30038.s"
+C;X3;K"Pyramid Hallucination"
+C;Y197;X1;K30040
+C;X2;K"Script\Monster\HD-Pyramid-M-30040.s"
+C;X3;K"Pyramid Hallucination"
+C;Y198;X1;K30041
+C;X2;K"Script\Monster\HD-Pyramid-M-30041.s"
+C;X3;K"Pyramid Hallucination"
+C;Y199;X1;K30042
+C;X2;K"Script\Monster\HD-Pyramid-M-30042.s"
+C;X3;K"Pyramid Hallucination"
+C;Y200;X1;K30044
+C;X2;K"Script\Monster\HD-Pyramid-M-30044.s"
+C;X3;K"Pyramid Hallucination"
+C;Y201;X1;K41046
+C;X2;K"Script\Monster\HD-Pyramid-M-41046.s"
+C;X3;K"Pyramid Hallucination"
+C;Y203;X1;K11851
+C;X2;K"Script\Monster\HD-Pyramid-M-30038.s"
+C;X3;K"Illusion-Queen's Shadow"
+C;Y204;X1;K11852
+C;X2;K"Script\Monster\HD-Pyramid-M-30040.s"
+C;X3;K"Illusion-Molmes"
+C;Y205;X1;K11853
+C;X2;K"Script\Monster\HD-Pyramid-M-30041.s"
+C;X3;K"Illusion-Prince Arbyss"
+C;Y206;X1;K11854
+C;X2;K"Script\Monster\HD-Pyramid-M-30042.s"
+C;X3;K"Illusion-Arch Priest Britacesk"
+C;Y207;X1;K11855
+C;X2;K"Script\Monster\HD-Pyramid-M-30044.s"
+C;X3;K"Set"
+C;Y208;X1;K11861
+C;X2;K"Script\Monster\HD-Pyramid-M-30038.s"
+C;X3;K"Illusion-Queen's Shadow"
+C;Y209;X1;K11862
+C;X2;K"Script\Monster\HD-Pyramid-M-30040.s"
+C;X3;K"Illusion-Molmes"
+C;Y210;X1;K11863
+C;X2;K"Script\Monster\HD-Pyramid-M-30041.s"
+C;X3;K"Illusion-Prince Arbyss"
+C;Y211;X1;K11864
+C;X2;K"Script\Monster\HD-Pyramid-M-30042.s"
+C;X3;K"Illusion-Arch Priest Britacesk"
+C;Y212;X1;K11865
+C;X2;K"Script\Monster\HD-Pyramid-M-30044.s"
+C;X3;K"Set"
+C;Y213;X1;K11871
+C;X2;K"Script\Monster\HD-Pyramid-M-30038.s"
+C;X3;K"Illusion-Queen's Shadow"
+C;Y214;X1;K11872
+C;X2;K"Script\Monster\HD-Pyramid-M-30040.s"
+C;X3;K"Illusion-Molmes"
+C;Y215;X1;K11873
+C;X2;K"Script\Monster\HD-Pyramid-M-30041.s"
+C;X3;K"Illusion-Prince Arbyss"
+C;Y216;X1;K11874
+C;X2;K"Script\Monster\HD-Pyramid-M-30042.s"
+C;X3;K"Illusion-Arch Priest Britacesk"
+C;Y217;X1;K11875
+C;X2;K"Script\Monster\HD-Pyramid-M-30044.s"
+C;X3;K"Set"
+C;Y218;X1;K11881
+C;X2;K"Script\Monster\HD-Pyramid-M-30038.s"
+C;X3;K"Illusion-Queen's Shadow"
+C;Y219;X1;K11882
+C;X2;K"Script\Monster\HD-Pyramid-M-30040.s"
+C;X3;K"Illusion-Molmes"
+C;Y220;X1;K11883
+C;X2;K"Script\Monster\HD-Pyramid-M-30041.s"
+C;X3;K"Illusion-Prince Arbyss"
+C;Y221;X1;K11884
+C;X2;K"Script\Monster\HD-Pyramid-M-30042.s"
+C;X3;K"Illusion-Arch Priest Britacesk"
+C;Y222;X1;K11885
+C;X2;K"Script\Monster\HD-Pyramid-M-30044.s"
+C;X3;K"Set"
+C;Y223;X1;K11891
+C;X2;K"Script\Monster\HD-Pyramid-M-30038.s"
+C;X3;K"Illusion-Queen's Shadow"
+C;Y224;X1;K11892
+C;X2;K"Script\Monster\HD-Pyramid-M-30040.s"
+C;X3;K"Illusion-Molmes"
+C;Y225;X1;K11893
+C;X2;K"Script\Monster\HD-Pyramid-M-30041.s"
+C;X3;K"Illusion-Prince Arbyss"
+C;Y226;X1;K11894
+C;X2;K"Script\Monster\HD-Pyramid-M-30042.s"
+C;X3;K"Illusion-Arch Priest Britacesk"
+C;Y227;X1;K11895
+C;X2;K"Script\Monster\HD-Pyramid-M-30044.s"
+C;X3;K"Set"
+C;Y230;X1;K20179
+C;X2;K"Script\Monster\Monster-20179.s"
+C;X3;K"N/A33????"
+C;Y231;X1;K30119
+C;X2;K"Script\Monster\Monster30119.s"
+C;X3;K"Surveillant of Jail"
+C;Y232;X1;K41052
+C;X2;K"Script\Monster\Monster-41052.s"
+C;X3;K"Prince's Curse"
+C;Y233;X1;K40191
+C;X2;K"Script\Monster\Monster-40191.s"
+C;X3;K"Corruption"
+C;Y235;X1;K32139
+C;X2;K"Script\Monster\AV-Monster32139.s"
+C;Y236;X1;K32153
+C;X2;K"Script\Monster\AV-Monster32153.s"
+C;Y237;X1;K32154
+C;X2;K"Script\Monster\AV-Monster32154.s"
+C;Y238;X1;K32155
+C;X2;K"Script\Monster\AV-Monster32155.s"
+C;Y239;X1;K32156
+C;X2;K"Script\Monster\AV-Monster32156.s"
+C;Y240;X1;K32157
+C;X2;K"Script\Monster\AV-Monster32157.s"
+C;Y241;X1;K32158
+C;X2;K"Script\Monster\AV-Monster32158.s"
+C;Y242;X1;K32159
+C;X2;K"Script\Monster\AV-Monster32159.s"
+C;Y243;X1;K43081
+C;X2;K"Script\Monster\AV-Monster43081.s"
+C;Y244;X1;K43082
+C;X2;K"Script\Monster\AV-Monster43082.s"
+C;Y245;X1;K32129
+C;X2;K"Script\Monster\AV-Monster32129.s"
+C;Y246;X1;K30049
+C;X2;K"Script\Monster\AV-Monster30049.s"
+C;Y247;X1;K32138
+C;X2;K"Script\Monster\AV-Monster32138.s"
+C;Y248;X1;K43075
+C;X2;K"Script\Monster\AV-Monster43075.s"
+C;Y249;X1;K43084
+C;X2;K"Script\Monster\AV-Monster43084.s"
+C;Y250;X1;K43072
+C;X2;K"Script\Monster\AV-Monster43072.s"
+C;Y251;X1;K43076
+C;X2;K"Script\Monster\AV-Monster43076.s"
+C;Y252;X1;K41047
+C;X2;K"Script\Monster\SY-Monster-41047.s"
+C;Y254;X1;K30021
+C;X2;K"Script\Monster\Monster-30021.s"
+C;X3;K"Chrono Lair"
+C;Y255;X1;K30022
+C;X2;K"Script\Monster\Monster-30022.s"
+C;X3;K"Chrono Lair"
+C;Y256;X1;K30023
+C;X2;K"Script\Monster\Monster-30023.s"
+C;X3;K"Chrono Lair"
+C;Y257;X1;K30024
+C;X2;K"Script\Monster\Monster-30024.s"
+C;X3;K"Chrono Lair"
+C;Y258;X1;K30025
+C;X2;K"Script\Monster\Monster-30025.s"
+C;X3;K"Chrono Lair"
+C;Y260;X1;K32147
+C;X2;K"Script\Monster\AV-Monster32147.s"
+C;X3;K"N/A??"
+C;Y261;X1;K44006
+C;X2;K"Script\Monster\AV-Monster-44006.s"
+C;X3;K"N/A??"
+C;Y263;X1;K41061
+C;X2;K"Script\Monster\Monster41061.s"
+C;X3;K"N/A??"
+C;Y264;X1;K43078
+C;X2;K"Script\Monster\Monster43078.s"
+C;X3;K"N/A??"
+C;Y265;X1;K43079
+C;X2;K"Script\Monster\Monster43079.s"
+C;X3;K"N/A??"
+C;Y266;X1;K43080
+C;X2;K"Script\Monster\Monster43080.s"
+C;X3;K"N/A??"
+C;Y268;X1;K32124
+C;X2;K"Script\Monster\Explor-Monster-32124.s"
+C;X3;K"Outer Starway"
+C;Y269;X1;K32125
+C;X2;K"Script\Monster\Explor-Monster-32125.s"
+C;X3;K"Outer Starway"
+C;Y271;X1;K51102
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51102.s"
+C;X3;K"Devil Island"
+C;Y272;X1;K51122
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51102.s"
+C;X3;K"Devil Island"
+C;Y273;X1;K51103
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51103.s"
+C;X3;K"Devil Island"
+C;Y274;X1;K51123
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51103.s"
+C;X3;K"Devil Island"
+C;Y275;X1;K51104
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51104.s"
+C;X3;K"Devil Island"
+C;Y276;X1;K51124
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51104.s"
+C;X3;K"Devil Island"
+C;Y277;X1;K51111
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51111.s"
+C;X3;K"Devil Island"
+C;Y278;X1;K51112
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51112.s"
+C;X3;K"Devil Island"
+C;Y279;X1;K51113
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51113.s"
+C;X3;K"Devil Island"
+C;Y280;X1;K51114
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51114.s"
+C;X3;K"Devil Island"
+C;Y281;X1;K51115
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51115.s"
+C;X3;K"Devil Island"
+C;Y282;X1;K51131
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51111.s"
+C;X3;K"Devil Island"
+C;Y283;X1;K51132
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51112.s"
+C;X3;K"Devil Island"
+C;Y284;X1;K51133
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51113.s"
+C;X3;K"Devil Island"
+C;Y285;X1;K51134
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51114.s"
+C;X3;K"Devil Island"
+C;Y286;X1;K51135
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51115.s"
+C;X3;K"Devil Island"
+C;Y287;X1;K51142
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51142.s"
+C;X3;K"Devil Island"
+C;Y288;X1;K51137
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51137.s"
+C;X3;K"Devil Island"
+C;Y290;X1;K51442
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51102.s"
+C;X3;K"Devil Island Instance (Easy)"
+C;Y291;X1;K51443
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51103.s"
+C;X3;K"Devil Island Instance (Easy)"
+C;Y292;X1;K51444
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51104.s"
+C;X3;K"Devil Island Instance (Easy)"
+C;Y293;X1;K51451
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51111.s"
+C;X3;K"Devil Island Instance (Easy)"
+C;Y294;X1;K51452
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51112.s"
+C;X3;K"Devil Island Instance (Easy)"
+C;Y295;X1;K51453
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51113.s"
+C;X3;K"Devil Island Instance (Easy)"
+C;Y296;X1;K51454
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51114.s"
+C;X3;K"Devil Island Instance (Easy)"
+C;Y297;X1;K51455
+C;X2;K"Script\Ectype\Ectype-kuloudao-Monster-51115.s"
+C;X3;K"Devil Island Instance (Easy)"
+C;Y299;X1;K30051
+C;X2;K"Script\Monster\AV-Monster-30051.s"
+C;X3;K"N/A??BOSS"
+C;Y300;X1;K30007
+C;X2;K"Script\Monster\Monster-30007.s"
+C;X3;K"Behemoth"
+C;Y301;X1;K44007
+C;X2;K"Script\Monster\Monster-44007.s"
+C;X3;K"Behemoth"
+C;Y302;X1;K12049
+C;X2;K"Script\Monster\Monster-12049.s"
+C;X3;K"Nexus of Hunger"
+C;Y304;X1;K51201
+C;X2;K"Script\Ectype\Ectype-DE-Monster-51201.s"
+C;X3;K"Dragon Emperor's Catacomb"
+C;Y305;X1;K51202
+C;X2;K"Script\Ectype\Ectype-DE-Monster-51202.s"
+C;X3;K"Dragon Emperor's Catacomb"
+C;Y307;X1;K51161
+C;X2;K"Script\Ectype\Ectype-RYMC-Monster-51161.s"
+C;X3;K"Lava Heights Proof"
+C;Y308;X1;K51162
+C;X2;K"Script\Ectype\Ectype-RYMC-Monster-51162.s"
+C;X3;K"Lava Heights Proof"
+C;Y309;X1;K51163
+C;X2;K"Script\Ectype\Ectype-RYMC-Monster-51163.s"
+C;X3;K"Lava Heights Proof"
+C;Y310;X1;K51164
+C;X2;K"Script\Ectype\Ectype-RYMC-Monster-51164.s"
+C;X3;K"Lava Heights Proof"
+C;Y311;X1;K51165
+C;X2;K"Script\Ectype\Ectype-RYMC-Monster-51165.s"
+C;X3;K"Lava Heights Proof"
+C;Y312;X1;K51181
+C;X2;K"Script\Ectype\Ectype-RYMC-Monster-51161.s"
+C;X3;K"Lava Heights Proof"
+C;Y313;X1;K51182
+C;X2;K"Script\Ectype\Ectype-RYMC-Monster-51162.s"
+C;X3;K"Lava Heights Proof"
+C;Y314;X1;K51183
+C;X2;K"Script\Ectype\Ectype-RYMC-Monster-51163.s"
+C;X3;K"Lava Heights Proof"
+C;Y315;X1;K51184
+C;X2;K"Script\Ectype\Ectype-RYMC-Monster-51164.s"
+C;X3;K"Lava Heights Proof"
+C;Y316;X1;K51185
+C;X2;K"Script\Ectype\Ectype-RYMC-Monster-51165.s"
+C;X3;K"Lava Heights Proof"
+C;Y317;X1;K51186
+C;X2;K"Script\Ectype\Ectype-RYMC-Monster-51186.s"
+C;X3;K"Lava Heights Proof"
+C;Y318;X1;K51191
+C;X2;K"Script\Ectype\Ectype-RYMC-Monster-51191.s"
+C;X3;K"Lava Heights Proof"
+C;Y319;X1;K51192
+C;X2;K"Script\Ectype\Ectype-RYMC-Monster-51192.s"
+C;X3;K"Lava Heights Proof"
+C;Y321;X1;K51471
+C;X2;K"Script\Ectype\Ectype-RYMC-Monster-51161.s"
+C;X3;K"Lava Heights (Easy)"
+C;Y322;X1;K51472
+C;X2;K"Script\Ectype\Ectype-RYMC-Monster-51162.s"
+C;X3;K"Lava Heights (Easy)"
+C;Y323;X1;K51473
+C;X2;K"Script\Ectype\Ectype-RYMC-Monster-51163.s"
+C;X3;K"Lava Heights (Easy)"
+C;Y324;X1;K51474
+C;X2;K"Script\Ectype\Ectype-RYMC-Monster-51164.s"
+C;X3;K"Lava Heights (Easy)"
+C;Y325;X1;K51475
+C;X2;K"Script\Ectype\Ectype-RYMC-Monster-51165.s"
+C;X3;K"Lava Heights (Easy)"
+C;Y327;X1;K59001
+C;X2;K"Script\Battle\Battle-Monster-zhongli-59001.s"
+C;X3;K"Battlefield"
+C;Y328;X1;K59002
+C;X2;K"Script\Battle\Battle-Monster-guodu-59002.s"
+C;X3;K"Battlefield"
+C;Y329;X1;K59003
+C;X2;K"Script\Battle\Battle-Monster-guodu-59003.s"
+C;X3;K"Battlefield"
+C;Y330;X1;K59004
+C;X2;K"Script\Battle\Battle-Monster-zhanling-59004.s"
+C;X3;K"Battlefield"
+C;Y331;X1;K59005
+C;X2;K"Script\Battle\Battle-Monster-zhanling-59005.s"
+C;X3;K"Battlefield"
+C;Y332;X1;K59006
+C;X2;K"Script\Battle\Battle-Monster-zhongli-59006.s"
+C;X3;K"Battlefield"
+C;Y333;X1;K59007
+C;X2;K"Script\Battle\Battle-Monster-guodu-59007.s"
+C;X3;K"Battlefield"
+C;Y334;X1;K59008
+C;X2;K"Script\Battle\Battle-Monster-guodu-59008.s"
+C;X3;K"Battlefield"
+C;Y335;X1;K59009
+C;X2;K"Script\Battle\Battle-Monster-zhanling-59009.s"
+C;X3;K"Battlefield"
+C;Y336;X1;K59010
+C;X2;K"Script\Battle\Battle-Monster-zhanling-59010.s"
+C;X3;K"Battlefield"
+C;Y337;X1;K59011
+C;X2;K"Script\Battle\Battle-Monster-zhongli-59011.s"
+C;X3;K"Battlefield"
+C;Y338;X1;K59012
+C;X2;K"Script\Battle\Battle-Monster-guodu-59012.s"
+C;X3;K"Battlefield"
+C;Y339;X1;K59013
+C;X2;K"Script\Battle\Battle-Monster-guodu-59013.s"
+C;X3;K"Battlefield"
+C;Y340;X1;K59014
+C;X2;K"Script\Battle\Battle-Monster-zhanling-59014.s"
+C;X3;K"Battlefield"
+C;Y341;X1;K59015
+C;X2;K"Script\Battle\Battle-Monster-zhanling-59015.s"
+C;X3;K"Battlefield"
+C;Y343;X1;K51158
+C;X2;K"Script\Ectype\Ectype-RYMC-Monster-51158.s"
+C;X3;K"Lava Heights"
+C;Y344;X1;K51178
+C;X2;K"Script\Ectype\Ectype-RYMC-Monster-51178.s"
+C;X3;K"Lava Heights"
+C;Y345;X1;K51468
+C;X2;K"Script\Ectype\Ectype-RYMC-Monster-51178.s"
+C;X3;K"Lava Heights"
+C;Y346;X1;K51203
+C;X2;K"Script\Ectype\Ectype-DE-Monster-51203.s"
+C;X3;K"Dragon Emperor's Catacomb"
+C;Y347;X1;K51204
+C;X2;K"Script\Ectype\Ectype-DE-Monster-51204.s"
+C;X3;K"Dragon Emperor's Catacomb"
+C;Y349;X1;K24041
+C;X2;K"Script\Battle\BFYS-Monster24041.s"
+C;X3;K"Fort Glacier, Icemoss"
+C;Y350;X1;K24042
+C;X2;K"Script\Battle\BFYS-Monster24042.s"
+C;X3;K"Fort Glacier, Ferrostone"
+C;Y351;X1;K24044
+C;X2;K"Script\Battle\BFYS-Monster24044.s"
+C;X3;K"Fort Glacier, Frozen Crystal"
+C;Y352;X1;K24049
+C;X2;K"Script\Battle\Battle-Monster-Frozen-24049.s"
+C;X3;K"Fort Glacier, Eerie Crystal"
+C;Y354;X1;K51211
+C;X2;K"Script\Ectype\Ectype-HAQX-Monster-51211.s"
+C;X3;K"Fallen Darkness"
+C;Y355;X1;K51212
+C;X2;K"Script\Ectype\Ectype-HAQX-Monster-51212.s"
+C;X3;K"Fallen Darkness"
+C;Y356;X1;K51213
+C;X2;K"Script\Ectype\Ectype-HAQX-Monster-51213.s"
+C;X3;K"Fallen Darkness"
+C;Y357;X1;K51214
+C;X2;K"Script\Ectype\Ectype-HAQX-Monster-51214.s"
+C;X3;K"Fallen Darkness"
+C;Y358;X1;K51215
+C;X2;K"Script\Ectype\Ectype-HAQX-Monster-51215.s"
+C;X3;K"Fallen Darkness"
+C;Y359;X1;K51216
+C;X2;K"Script\Ectype\Ectype-HAQX-Monster-51216.s"
+C;X3;K"Fallen Darkness"
+C;Y360;X1;K51217
+C;X2;K"Script\Ectype\Ectype-HAQX-Monster-51217.s"
+C;X3;K"Fallen Darkness"
+C;Y361;X1;K51218
+C;X2;K"Script\Ectype\Ectype-HAQX-Monster-51218.s"
+C;X3;K"Fallen Darkness"
+C;Y362;X1;K51219
+C;X2;K"Script\Ectype\Ectype-HAQX-Monster-51219.s"
+C;X3;K"Fallen Darkness"
+C;Y364;X1;K51229
+C;X2;K"Script\Ectype\Ectype-Pyramid-Monster-51229.s"
+C;X3;K"Giza Pyramid"
+C;Y365;X1;K51231
+C;X2;K"Script\Ectype\Ectype-Pyramid-Monster-51231.s"
+C;X3;K"Giza Pyramid"
+C;Y366;X1;K51221
+C;X2;K"Script\Ectype\Ectype-Pyramid-Monster-BOSS.s"
+C;X3;K"Giza Pyramid"
+C;Y367;X1;K51223
+C;X2;K"Script\Ectype\Ectype-Pyramid-Monster-BOSS.s"
+C;X3;K"Giza Pyramid"
+C;Y368;X1;K51224
+C;X2;K"Script\Ectype\Ectype-Pyramid-Monster-BOSS.s"
+C;X3;K"Giza Pyramid"
+C;Y369;X1;K51225
+C;X2;K"Script\Ectype\Ectype-Pyramid-Monster-BOSS.s"
+C;X3;K"Giza Pyramid"
+C;Y370;X1;K30050
+C;X2;K"Script\Monster\Explor-Monster-30050.s"
+C;X3;K"Void Emperor"
+C;Y372;X1;K59021
+C;X2;K"Script\Battle\Battle-Monster-zhongli-59021.s"
+C;X3;K"Battlefield"
+C;Y373;X1;K59022
+C;X2;K"Script\Battle\Battle-Monster-guodu-59022.s"
+C;X3;K"Battlefield"
+C;Y374;X1;K59023
+C;X2;K"Script\Battle\Battle-Monster-guodu-59023.s"
+C;X3;K"Battlefield"
+C;Y375;X1;K59024
+C;X2;K"Script\Battle\Battle-Monster-zhanling-59024.s"
+C;X3;K"Battlefield"
+C;Y376;X1;K59025
+C;X2;K"Script\Battle\Battle-Monster-zhanling-59025.s"
+C;X3;K"Battlefield"
+C;Y377;X1;K59026
+C;X2;K"Script\Battle\Battle-Monster-zhongli-59026.s"
+C;X3;K"Battlefield"
+C;Y378;X1;K59027
+C;X2;K"Script\Battle\Battle-Monster-guodu-59027.s"
+C;X3;K"Battlefield"
+C;Y379;X1;K59028
+C;X2;K"Script\Battle\Battle-Monster-guodu-59028.s"
+C;X3;K"Battlefield"
+C;Y380;X1;K59029
+C;X2;K"Script\Battle\Battle-Monster-zhanling-59029.s"
+C;X3;K"Battlefield"
+C;Y381;X1;K59030
+C;X2;K"Script\Battle\Battle-Monster-zhanling-59030.s"
+C;X3;K"Battlefield"
+C;Y382;X1;K59031
+C;X2;K"Script\Battle\Battle-Monster-zhongli-59031.s"
+C;X3;K"Battlefield"
+C;Y383;X1;K59032
+C;X2;K"Script\Battle\Battle-Monster-guodu-59032.s"
+C;X3;K"Battlefield"
+C;Y384;X1;K59033
+C;X2;K"Script\Battle\Battle-Monster-guodu-59033.s"
+C;X3;K"Battlefield"
+C;Y385;X1;K59034
+C;X2;K"Script\Battle\Battle-Monster-zhanling-59034.s"
+C;X3;K"Battlefield"
+C;Y386;X1;K59035
+C;X2;K"Script\Battle\Battle-Monster-zhanling-59035.s"
+C;X3;K"Battlefield"
+C;Y388;X1;K51251
+C;X2;K"Script\Ectype\Ectype-ShenLong-Monster-51251.s"
+C;X3;K"Dragon Island"
+C;Y389;X1;K51253
+C;X2;K"Script\Ectype\Ectype-ShenLong-Monster-51253.s"
+C;X3;K"Dragon Island"
+C;Y390;X1;K51254
+C;X2;K"Script\Ectype\Ectype-ShenLong-Monster-51254.s"
+C;X3;K"Dragon Island"
+C;Y391;X1;K51255
+C;X2;K"Script\Ectype\Ectype-ShenLong-Monster-51255.s"
+C;X3;K"Dragon Island"
+C;Y392;X1;K51256
+C;X2;K"Script\Ectype\Ectype-ShenLong-Monster-BOSS.s"
+C;X3;K"Dragon Island"
+C;Y393;X1;K51257
+C;X2;K"Script\Ectype\Ectype-ShenLong-Monster-BOSS.s"
+C;X3;K"Dragon Island"
+C;Y394;X1;K51258
+C;X2;K"Script\Ectype\Ectype-ShenLong-Monster-BOSS.s"
+C;X3;K"Dragon Island"
+C;Y395;X1;K51259
+C;X2;K"Script\Ectype\Ectype-ShenLong-Monster-BOSS.s"
+C;X3;K"Dragon Island"
+C;Y396;X1;K51260
+C;X2;K"Script\Ectype\Ectype-ShenLong-Monster-BOSS.s"
+C;X3;K"Dragon Island"
+C;Y397;X1;K51261
+C;X2;K"Script\Ectype\Ectype-ShenLong-Monster-BOSS.s"
+C;X3;K"Dragon Island"
+C;Y399;X1;K24043
+C;X2;K"Script\Monster\Frozen-Monster-24043.s"
+C;X3;K"Frozen Battlefield"
+C;Y400;X1;K51262
+C;X2;K"Script\Ectype\Ectype-ShenLong-Monster-51262.s"
+C;X3;K"Dragon Island"
+C;Y401;X1;K43323
+C;X2;K"Script\Monster\Monster-43323.s"
+C;X3;K"Morning Dew"
+C;Y403;X1;K51248
+C;X2;K"Script\Monster\Monster-51248.s"
+C;X3;K"Trial Adjudicator"
+C;Y404;X1;K51241
+C;X2;K"Script\Ectype\Ectype-shiliandongku-Monster-51241.s"
+C;X3;K"Trials"
+C;Y406;X1;K51321
+C;X2;K"Script\Ectype\nengyuanzhijing\Ectype-nengliangzhijing-Monster-xiaoguai.s"
+C;X3;K"Energy Well monsters"
+C;Y407;X1;K51322
+C;X2;K"Script\Ectype\nengyuanzhijing\Ectype-nengliangzhijing-Monster-xiaoguai.s"
+C;X3;K"Energy Well monsters"
+C;Y408;X1;K51323
+C;X2;K"Script\Ectype\nengyuanzhijing\Ectype-nengliangzhijing-Monster-xiaoguai.s"
+C;X3;K"Energy Well monsters"
+C;Y409;X1;K51350
+C;X2;K"Script\Ectype\nengyuanzhijing\Ectype-nengliangzhijing-Monster-zhouxiaoguai.s"
+C;X3;K"Energy Well monsters"
+C;Y410;X1;K51351
+C;X2;K"Script\Ectype\nengyuanzhijing\Ectype-nengliangzhijing-Monster-zhouxiaoguai.s"
+C;X3;K"Energy Well monsters"
+C;Y411;X1;K51352
+C;X2;K"Script\Ectype\nengyuanzhijing\Ectype-nengliangzhijing-Monster-zhouxiaoguai.s"
+C;X3;K"Energy Well monsters"
+C;Y412;X1;K51353
+C;X2;K"Script\Ectype\nengyuanzhijing\Ectype-nengliangzhijing-Monster-yuexiaoguai.s"
+C;X3;K"Energy Well monsters"
+C;Y413;X1;K51354
+C;X2;K"Script\Ectype\nengyuanzhijing\Ectype-nengliangzhijing-Monster-yuexiaoguai.s"
+C;X3;K"Energy Well monsters"
+C;Y414;X1;K51355
+C;X2;K"Script\Ectype\nengyuanzhijing\Ectype-nengliangzhijing-Monster-yuexiaoguai.s"
+C;X3;K"Energy Well monsters"
+C;Y415;X1;K51360
+C;X2;K"Script\Ectype\nengyuanzhijing\Ectype-nengliangzhijing-Monster-xiaoguai.s"
+C;X3;K"Energy Well monsters"
+C;Y416;X1;K51361
+C;X2;K"Script\Ectype\nengyuanzhijing\Ectype-nengliangzhijing-Monster-xiaoguai.s"
+C;X3;K"Energy Well monsters"
+C;Y417;X1;K51362
+C;X2;K"Script\Ectype\nengyuanzhijing\Ectype-nengliangzhijing-Monster-xiaoguai.s"
+C;X3;K"Energy Well monsters"
+C;Y418;X1;K51325
+C;X2;K"Script\Ectype\nengyuanzhijing\Ectype-nengliangzhijing-Monster-51325.s"
+C;X3;K"normal mode51325"
+C;Y419;X1;K51326
+C;X2;K"Script\Ectype\nengyuanzhijing\Ectype-nengliangzhijing-Monster-51326.s"
+C;X3;K"normal mode51326"
+C;Y420;X1;K51356
+C;X2;K"Script\Ectype\nengyuanzhijing\Ectype-nengliangzhijing-Monster-51356.s"
+C;X3;K"normal mode51356"
+C;Y421;X1;K51367
+C;X2;K"Script\Ectype\nengyuanzhijing\Ectype-nengliangzhijing-Monster-51367.s"
+C;X3;K"week mode51367"
+C;Y422;X1;K51368
+C;X2;K"Script\Ectype\nengyuanzhijing\Ectype-nengliangzhijing-Monster-51368.s"
+C;X3;K"week mode51368"
+C;Y423;X1;K51357
+C;X2;K"Script\Ectype\nengyuanzhijing\Ectype-nengliangzhijing-Monster-51357.s"
+C;X3;K"week mode51357"
+C;Y424;X1;K51369
+C;X2;K"Script\Ectype\nengyuanzhijing\Ectype-nengliangzhijing-Monster-51369.s"
+C;X3;K"month mode51369"
+C;Y425;X1;K51370
+C;X2;K"Script\Ectype\nengyuanzhijing\Ectype-nengliangzhijing-Monster-51370.s"
+C;X3;K"month mode51370"
+C;Y426;X1;K51358
+C;X2;K"Script\Ectype\nengyuanzhijing\Ectype-nengliangzhijing-Monster-51358.s"
+C;X3;K"month mode51358"
+C;Y432;X1;K31155
+C;X2;K"Script\Ectype\Ectype-jianyu-Monster-31155.s"
+C;X3;K"Tomb Stalker"
+C;Y433;X1;K31156
+C;X2;K"Script\Ectype\Ectype-jianyu-Monster-31156-31159.s"
+C;X3;K"Orc Bruno"
+C;Y434;X1;K31157
+C;X2;K"Script\Ectype\Ectype-jianyu-Monster-31156-31159.s"
+C;X3;K"Fallen Barsolo"
+C;Y435;X1;K31158
+C;X2;K"Script\Ectype\Ectype-jianyu-Monster-31156-31159.s"
+C;X3;K"Skull"
+C;Y436;X1;K31159
+C;X2;K"Script\Ectype\Ectype-jianyu-Monster-31156-31159.s"
+C;X3;K"Evil Sammore"
+C;Y437;X1;K31160
+C;X2;K"Script\Ectype\Ectype-jianyu-Monster-31160.s"
+C;X3;K"Earthshaker Hannibal"
+C;Y439;X1;K52005
+C;X2;K"Script\Hunli\Monster-52005.s"
+C;X3;K"Wedding Balloon 1"
+C;Y440;X1;K52006
+C;X2;K"Script\Hunli\Monster-52006.s"
+C;X3;K"Wedding Balloon 2"
+C;Y441;X1;K52007
+C;X2;K"Script\Hunli\Monster-52007.s"
+C;X3;K"Wedding Balloon 3"
+C;Y442;X1;K52020
+C;X2;K"Script\Hunli\Monster-52020.s"
+C;X3;K"Teddy Bear"
+C;Y443;X1;K52030
+C;X2;K"Script\Hunli\Monster-52030.s"
+C;X3;K"Candy Box"
+C;Y444;X1;K52040
+C;X2;K"Script\Hunli\Monster-52040.s"
+C;X3;K"Wedding Item 40"
+C;Y445;X1;K52041
+C;X2;K"Script\Hunli\Monster-52041.s"
+C;X3;K"Wedding Item 41"
+C;Y446;X1;K52042
+C;X2;K"Script\Hunli\Monster-52042.s"
+C;X3;K"Wedding Item 42"
+C;Y447;X1;K52031
+C;X2;K"Script\Hunli\Monster-52031.s"
+C;X3;K"Candy Box 2"
+C;Y448;X1;K52046
+C;X2;K"Script\Hunli\Monster-52046.s"
+C;X3;K"Wedding Cake"
+C;Y450;X1;K24050
+C;X2;K"Script\Monster\Monster-24050.s"
+C;X3;K"Behemoth"
+C;Y451;X1;K30052
+C;X2;K"Script\Monster\Monster-30052.s"
+C;X3;K"Behemoth"
+C;Y452;X1;K30053
+C;X2;K"Script\Monster\Monster-30053.s"
+C;X3;K"Behemoth"
+C;Y453;X1;K32172
+C;X2;K"Script\Monster\Guoqing-Monster-32172.s"
+C;X3;K"Groolin"
+C;Y455;X1;K51276
+C;X2;K"Script\Ectype\shenpanshenyuan\Ectype-shenpanshenyuan-Monster-51276.s"
+C;X3;K"Death Puppet1"
+C;Y456;X1;K51277
+C;X2;K"Script\Ectype\shenpanshenyuan\Ectype-shenpanshenyuan-Monster-51277.s"
+C;X3;K"Death Puppet2"
+C;Y457;X1;K51281
+C;X2;K"Script\Ectype\shenpanshenyuan\Ectype-shenpanshenyuan-Monster-51281.s"
+C;X3;K"Trapped Eurydice"
+C;Y458;X1;K51282
+C;X2;K"Script\Ectype\shenpanshenyuan\Ectype-shenpanshenyuan-Monster-51282.s"
+C;X3;K"Harpy Queen Falia"
+C;Y459;X1;K51283
+C;X2;K"Script\Ectype\shenpanshenyuan\Ectype-shenpanshenyuan-Monster-51283.s"
+C;X3;K"Light Latamantis "
+C;Y460;X1;K51285
+C;X2;K"Script\Ectype\shenpanshenyuan\Ectype-shenpanshenyuan-Monster-51285.s"
+C;X3;K"Netherworld Evil Dragon"
+C;Y461;X1;K51310
+C;X2;K"Script\Ectype\shenpanshenyuan\Ectype-shenpanshenyuan-Monster-51310.s"
+C;X3;K"Agony Source"
+C;Y463;X1;K55074
+C;X2;K"Script\Ectype\Maintask\90-Milya-Ectype-Monster-60074.s"
+C;X3;K"Divine Beatle Milia"
+C;Y464;X1;K55087
+C;X2;K"Script\Ectype\Maintask\90-Minghe-Ectype-monster-55087.s"
+C;X3;K"Styx Ghost"
+C;Y465;X1;K55076
+C;X2;K"Script\Ectype\Maintask\90-MainLine-Monster-60076.s"
+C;X3;K"Styx Water"
+C;Y466;X1;K55083
+C;X2;K"Script\Ectype\Maintask\90-other-Monster-60083.s"
+C;X3;K"Neatherworld Beast"
+C;Y467;X1;K55089
+C;X2;K"Script\Ectype\Maintask\90-MainLine-Monster-55089.s"
+C;X3;K"Mainline 90"
+C;Y469;X1;K55000
+C;X2;K"Script\Ectype\Maintask\Hellgate-nimo.s"
+C;X3;K"BOSS Nemo"
+C;Y470;X1;K55001
+C;X2;K"Script\Ectype\Maintask\Hellgate-3wave.s"
+C;X3;K"Tome Protector 1"
+C;Y471;X1;K55002
+C;X2;K"Script\Ectype\Maintask\Hellgate-3wave.s"
+C;X3;K"Tome Protector 2"
+C;Y472;X1;K55003
+C;X2;K"Script\Ectype\Maintask\Hellgate-3wave.s"
+C;X3;K"Tome Protector 3"
+C;Y473;X1;K55069
+C;X2;K"Script\Ectype\Maintask\90-MainLine-Monster-60069.s"
+C;X3;K"Mainline MDX"
+C;Y474;X1;K55118
+C;X2;K"Script\Ectype\Maintask\90-MainLine-Monster-55118.s"
+C;X3;K"Mainline MDX"
+C;Y475;X1;K55119
+C;X2;K"Script\Ectype\Maintask\90-MainLine-Monster-55119.s"
+C;X3;K"Mainline MDX"
+C;Y476;X1;K55120
+C;X2;K"Script\Ectype\Maintask\90-MainLine-Monster-55120.s"
+C;X3;K"Mainline MDX"
+C;Y477;X1;K55121
+C;X2;K"Script\Ectype\Maintask\90-MainLine-Monster-55121.s"
+C;X3;K"Mainline MDX"
+C;Y479;X1;K59081
+C;X2;K"Script\Battle\3Battle-Monster-zhongli-59081.s"
+C;X3;K"battlefield3"
+C;Y480;X1;K59082
+C;X2;K"Script\Battle\3Battle-Monster-guodu-59082.s"
+C;X3;K"battlefield3"
+C;Y481;X1;K59083
+C;X2;K"Script\Battle\3Battle-Monster-guodu-59083.s"
+C;X3;K"battlefield3"
+C;Y482;X1;K59084
+C;X2;K"Script\Battle\3Battle-Monster-zhanling-59084.s"
+C;X3;K"battlefield3"
+C;Y483;X1;K59085
+C;X2;K"Script\Battle\3Battle-Monster-zhanling-59085.s"
+C;X3;K"battlefield3"
+C;Y484;X1;K59086
+C;X2;K"Script\Battle\3Battle-Monster-zhongli-59086.s"
+C;X3;K"battlefield3"
+C;Y485;X1;K59087
+C;X2;K"Script\Battle\3Battle-Monster-guodu-59087.s"
+C;X3;K"battlefield3"
+C;Y486;X1;K59088
+C;X2;K"Script\Battle\3Battle-Monster-guodu-59088.s"
+C;X3;K"battlefield3"
+C;Y487;X1;K59089
+C;X2;K"Script\Battle\3Battle-Monster-zhanling-59089.s"
+C;X3;K"battlefield3"
+C;Y488;X1;K59090
+C;X2;K"Script\Battle\3Battle-Monster-zhanling-59090.s"
+C;X3;K"battlefield3"
+C;Y489;X1;K59091
+C;X2;K"Script\Battle\3Battle-Monster-zhongli-59091.s"
+C;X3;K"battlefield3"
+C;Y490;X1;K59092
+C;X2;K"Script\Battle\3Battle-Monster-guodu-59092.s"
+C;X3;K"battlefield3"
+C;Y491;X1;K59093
+C;X2;K"Script\Battle\3Battle-Monster-guodu-59093.s"
+C;X3;K"battlefield3"
+C;Y492;X1;K59094
+C;X2;K"Script\Battle\3Battle-Monster-zhanling-59094.s"
+C;X3;K"battlefield3"
+C;Y493;X1;K59095
+C;X2;K"Script\Battle\3Battle-Monster-zhanling-59095.s"
+C;X3;K"battlefield3"
+C;Y495;X1;K55059
+C;X2;K"Script\Ectype\Maintask\90-TMainLine-Monster-55059.s"
+C;X3;K"lizard"
+C;Y497;X1;K51380
+C;X2;K"Script\Ectype\Ectype-WorldTree-Monster-51380.s"
+C;X3;K"Garden of the World Tree"
+C;Y498;X1;K51383
+C;X2;K"Script\Ectype\Ectype-WorldTree-Monster-51383.s"
+C;X3;K"Garden of the World Tree"
+C;Y499;X1;K51385
+C;X2;K"Script\Ectype\Ectype-WorldTree-Monster-51385_51386.s"
+C;X3;K"Garden of the World Tree"
+C;Y500;X1;K51386
+C;X2;K"Script\Ectype\Ectype-WorldTree-Monster-51385_51386.s"
+C;X3;K"Garden of the World Tree"
+C;Y501;X1;K51392
+C;X2;K"Script\Ectype\Ectype-WorldTree-Monster-51392.s"
+C;X3;K"Garden of the World Tree"
+C;Y502;X1;K51393
+C;X2;K"Script\Ectype\Ectype-WorldTree-Monster-51393.s"
+C;X3;K"Garden of the World Tree"
+C;Y503;X1;K51399
+C;X2;K"Script\Ectype\Ectype-WorldTree-Monster-51399.s"
+C;X3;K"Garden of the World Tree"
+C;Y504;X1;K51405
+C;X2;K"Script\Ectype\Ectype-WorldTree-Monster-51405.s"
+C;X3;K"Garden of the World Tree"
+C;Y505;X1;K51406
+C;X2;K"Script\Ectype\Ectype-WorldTree-Monster-51406.s"
+C;X3;K"Garden of the World Tree"
+C;Y507;X1;K55073
+C;X2;K"Script\Monster\90-maintask-55073.s"
+C;X3;K"MD Mainline"
+C;Y509;X1;K51403
+C;X2;K"Script\Ectype\Ectype-WorldTree-Monster-51403.s"
+C;X3;K"Garden of the World Tree"
+C;Y510;X1;K51401
+C;X2;K"Script\Ectype\Ectype-WorldTree-Monster-51401.s"
+C;X3;K"Garden of the World Tree"
+C;Y511;X1;K51400
+C;X2;K"Script\Ectype\Ectype-WorldTree-Monster-51400.s"
+C;X3;K"Garden of the World Tree"
+C;Y513;X1;K55200
+C;X2;K"Script\Ectype\Ectype-yijiwaiwei-Monster-55200.s"
+C;X3;K"Outer Ruins"
+C;Y514;X1;K55193
+C;X2;K"Script\HuoDong\Shengdan\NPC-Christmas-monster.s"
+C;X3;K"N/A????"
+C;Y515;X1;K55192
+C;X2;K"Script\HuoDong\Shengdan\NPC-Christmas-monster-55192.s"
+C;X3;K"N/A????"
+C;Y516;X1;K55194
+C;X2;K"Script\HuoDong\Shengdan\NPC-Christmas-monster-55194.s"
+C;X3;K"N/A????"
+C;Y517;X1;K55197
+C;X2;K"Script\Ectype\Ectype-yijiwaiwei-monster-55197.s"
+C;X3;K"Lost Ruins"
+C;Y519;X1;K55174
+C;X2;K"Script\Monster\angel-Monster-55174.s"
+C;X3;K"Armadura Angel's small money bag"
+C;Y520;X1;K55175
+C;X2;K"Script\Monster\angel-Monster-55175.s"
+C;X3;K"Armadura Angel's big money bag"
+C;Y522;X1;K51481
+C;X2;K"Script\Ectype\Ectype-DE-Monster-51201.s"
+C;X3;K"Dragon Emperor easy mode"
+C;Y523;X1;K51483
+C;X2;K"Script\Ectype\Ectype-DE-Monster-51203.s"
+C;X3;K"Dragon Emperor easy mode"
+C;Y524;X1;K51482
+C;X2;K"Script\Ectype\Ectype-DE-Monster-51202.s"
+C;X3;K"Dragon Emperor easy mode"
+C;Y525;X1;K51484
+C;X2;K"Script\Ectype\Ectype-DE-Monster-51204.s"
+C;X3;K"Dragon Emperor easy mode"
+C;Y527;X1;K51498
+C;X2;K"Script\Ectype\Ectype-Pyramid-Monster-51229.s"
+C;X3;K"Giza Pyramid easy mode"
+C;Y528;X1;K51500
+C;X2;K"Script\Ectype\Ectype-Pyramid-Monster-51231.s"
+C;X3;K"Giza Pyramid easy mode"
+C;Y529;X1;K51490
+C;X2;K"Script\Ectype\Ectype-Pyramid-Monster-BOSS.s"
+C;X3;K"Giza Pyramid easy mode"
+C;Y530;X1;K51492
+C;X2;K"Script\Ectype\Ectype-Pyramid-Monster-BOSS.s"
+C;X3;K"Giza Pyramid easy mode"
+C;Y531;X1;K51493
+C;X2;K"Script\Ectype\Ectype-Pyramid-Monster-BOSS.s"
+C;X3;K"Giza Pyramid easy mode"
+C;Y532;X1;K51494
+C;X2;K"Script\Ectype\Ectype-Pyramid-Monster-BOSS.s"
+C;X3;K"Giza Pyramid easy mode"
+C;Y534;X1;K32216
+C;X2;K"Script\HuoDong\Spring\Monster-Spring-32216.s"
+C;X3;K"Firecrackers"
+C;Y535;X1;K32223
+C;X2;K"Script\HuoDong\Spring\Monster-Spring-32216.s"
+C;X3;K"Firecrackers"
+C;Y536;X1;K32224
+C;X2;K"Script\HuoDong\Spring\Monster-Spring-32216.s"
+C;X3;K"Firecrackers"
+C;Y538;X1;K32211
+C;X2;K"Script\HuoDong\Spring\Mon-32211.s"
+C;X3;K"Salute 1"
+C;Y539;X1;K32212
+C;X2;K"Script\HuoDong\Spring\Mon-32211.s"
+C;X3;K"Salute 2"
+C;Y540;X1;K32213
+C;X2;K"Script\HuoDong\Spring\Mon-32211.s"
+C;X3;K"Salute 3"
+C;Y542;X1;K51512
+C;X2;K"Script\Ectype\Maintask100\Swb-Mjmy-Monster-51512.s"
+C;X3;K"Nightmare Domain"
+C;Y543;X1;K51513
+C;X2;K"Script\Ectype\Maintask100\Swb-Mjmy-Monster-51513.s"
+C;X3;K"Nightmare Domain"
+C;Y544;X1;K51514
+C;X2;K"Script\Ectype\Maintask100\Swb-Mjmy-Monster-51514.s"
+C;X3;K"Nightmare Domain"
+C;Y545;X1;K51515
+C;X2;K"Script\Ectype\Maintask100\Swb-Mjmy-Monster-51515.s"
+C;X3;K"Nightmare Domain"
+C;Y546;X1;K51516
+C;X2;K"Script\Ectype\Maintask100\Swb-Mjmy-Monster-51516.s"
+C;X3;K"Nightmare Domain"
+C;Y547;X1;K51518
+C;X2;K"Script\Ectype\Maintask100\Swb-Mjmy-Monster-51518.s"
+C;X3;K"Nightmare Domain"
+C;Y548;X1;K51519
+C;X2;K"Script\Ectype\Maintask100\Swb-Mjmy-Monster-51519.s"
+C;X3;K"Nightmare Domain"
+C;Y550;X1;K51555
+C;X2;K"Script\Ectype\Maintask100\Zhenshizhijing-Monster-Wrath-51555.s"
+C;X3;K"Waking World"
+C;Y551;X1;K51551
+C;X2;K"Script\Ectype\Maintask100\Zhenshizhijing-Monster-Shenpanzhishi-51551.s"
+C;X3;K"Waking World"
+C;Y552;X1;K51552
+C;X2;K"Script\Ectype\Maintask100\Zhenshizhijing-Monster-Pride-51552.s"
+C;X3;K"Waking World"
+C;Y553;X1;K51553
+C;X2;K"Script\Ectype\Maintask100\Zhenshizhijing-Monster-Envy-51553.s"
+C;X3;K"Waking World"
+C;Y554;X1;K51592
+C;X2;K"Script\Ectype\Maintask100\Zhenshizhijing-Monster-Wrath-51592.s"
+C;X3;K"Waking World"
+C;Y555;X1;K51564
+C;X2;K"Script\Ectype\Maintask100\Zhenshizhijing-Monster-Sloth-51564.s"
+C;X3;K"Waking World"
+C;Y556;X1;K51565
+C;X2;K"Script\Ectype\Maintask100\Zhenshizhijing-Monster-Greed-51565.s"
+C;X3;K"Waking World"
+C;Y557;X1;K51568
+C;X2;K"Script\Ectype\Maintask100\Zhenshizhijing-Monster-Gluttony-51568.s"
+C;X3;K"Waking World"
+C;Y558;X1;K51572
+C;X2;K"Script\Ectype\Maintask100\Zhenshizhijing-Monster-Hotgirl-51572.s"
+C;X3;K"Waking World"
+C;Y559;X1;K51598
+C;X2;K"Script\Ectype\Maintask100\Zhenshizhijing-Monster-Hotgirl-51598.s"
+C;X3;K"Waking World"
+C;Y560;X1;K51571
+C;X2;K"Script\Ectype\Maintask100\Zhenshizhijing-Monster-Lust-51571.s"
+C;X3;K"Waking World"
+C;Y561;X1;K51566
+C;X2;K"Script\Ectype\Maintask100\Zhenshizhijing-Monster-Chest-51566.s"
+C;X3;K"Waking World"
+C;Y562;X1;K51575
+C;X2;K"Script\Ectype\Maintask100\Zhenshizhijing-Monster-Madi-51575.s"
+C;X3;K"Waking World"
+C;Y563;X1;K51593
+C;X2;K"Script\Ectype\Maintask100\Zhenshizhijing-Monster-Joke-51593.s"
+C;X3;K"Waking World"
+C;Y564;X1;K51586
+C;X2;K"Script\Ectype\Maintask100\Zhenshizhijing-Monster-Chanhui-51586.s"
+C;X3;K"Waking World"
+C;Y566;X1;K51573
+C;X2;K"Script\Ectype\Maintask100\Emogu-Mowuyizhi-Monster-51573.s"
+C;X3;K"Diabolic Valley"
+C;Y567;X1;K51574
+C;X2;K"Script\Ectype\Maintask100\Emogu-Mowuyizhilaoda-Monster-51574.s"
+C;X3;K"Diabolic Valley"
+C;Y570;X1;K59121
+C;X2;K"Script\Ectype\Maintask100\D-jianzhong-Monster-59121.s"
+C;X3;K"Swordgrave"
+C;Y571;X1;K59103
+C;X2;K"Script\Ectype\Maintask100\D-jianzhong-Monster-59103.s"
+C;X3;K"Swordgrave boss 1"
+C;Y572;X1;K59104
+C;X2;K"Script\Ectype\Maintask100\D-jianzhong-Monster-59104.s"
+C;X3;K"Swordgrave boss 2"
+C;Y573;X1;K59105
+C;X2;K"Script\Ectype\Maintask100\D-jianzhong-Monster-59105.s"
+C;X3;K"Swordgrave boss 3"
+C;Y574;X1;K59106
+C;X2;K"Script\Ectype\Maintask100\D-jianzhong-Monster-59106.s"
+C;X3;K"Swordgrave boss 4"
+C;Y575;X1;K59112
+C;X2;K"Script\Ectype\Maintask100\D-jianzhong-Monster-59112.s"
+C;X3;K"Bladesoul Collection Monster"
+C;Y577;X1;K59151
+C;X2;K"Script\Battle\kuafu-Monster-zhongli-59151.s"
+C;X3;K"Stone of Blessings"
+C;Y578;X1;K59152
+C;X2;K"Script\Battle\kuafu-Monster-guodu-59152.s"
+C;X3;K"Mani-Stone of Blessings"
+C;Y579;X1;K59153
+C;X2;K"Script\Battle\kuafu-Monster-guodu-59153.s"
+C;X3;K"Sol-Stone of Blessings"
+C;Y580;X1;K59154
+C;X2;K"Script\Battle\kuafu-Monster-zhanling-59154.s"
+C;X3;K"Mani-Stone of Blessings"
+C;Y581;X1;K59155
+C;X2;K"Script\Battle\kuafu-Monster-zhanling-59155.s"
+C;X3;K"Sol-Stone of Blessings"
+C;Y582;X1;K59156
+C;X2;K"Script\Battle\kuafu-Monster-zhongli-59156.s"
+C;X3;K"Inspiration of Gods"
+C;Y583;X1;K59157
+C;X2;K"Script\Battle\kuafu-Monster-guodu-59157.s"
+C;X3;K"Mani-Inspirations of Gods"
+C;Y584;X1;K59158
+C;X2;K"Script\Battle\kuafu-Monster-guodu-59158.s"
+C;X3;K"Sol-Inspirations of Gods"
+C;Y585;X1;K59159
+C;X2;K"Script\Battle\kuafu-Monster-zhanling-59159.s"
+C;X3;K"Mani-Inspirations of Gods"
+C;Y586;X1;K59160
+C;X2;K"Script\Battle\kuafu-Monster-zhanling-59160.s"
+C;X3;K"Sol-Inspirations of Gods"
+C;Y587;X1;K59161
+C;X2;K"Script\Battle\kuafu-Monster-zhongli-59161.s"
+C;X3;K"Chaos Crystal"
+C;Y588;X1;K59162
+C;X2;K"Script\Battle\kuafu-Monster-guodu-59162.s"
+C;X3;K"Mani-Crystal of Chaos"
+C;Y589;X1;K59163
+C;X2;K"Script\Battle\kuafu-Monster-guodu-59163.s"
+C;X3;K"Sol-Chaos Crystal"
+C;Y590;X1;K59164
+C;X2;K"Script\Battle\kuafu-Monster-zhanling-59164.s"
+C;X3;K"Mani-Crystal of Chaos"
+C;Y591;X1;K59165
+C;X2;K"Script\Battle\kuafu-Monster-zhanling-59165.s"
+C;X3;K"Sol-Chaos Crystal"
+C;Y593;X1;K59171
+C;X2;K"Script\Battle\kuafu-Monster-zhongli-59171.s"
+C;X3;K"Stone of Blessings"
+C;Y594;X1;K59172
+C;X2;K"Script\Battle\kuafu-Monster-guodu-59172.s"
+C;X3;K"Mani-Stone of Blessings"
+C;Y595;X1;K59173
+C;X2;K"Script\Battle\kuafu-Monster-guodu-59173.s"
+C;X3;K"Sol-Stone of Blessings"
+C;Y596;X1;K59174
+C;X2;K"Script\Battle\kuafu-Monster-zhanling-59174.s"
+C;X3;K"Mani-Stone of Blessings"
+C;Y597;X1;K59175
+C;X2;K"Script\Battle\kuafu-Monster-zhanling-59175.s"
+C;X3;K"Sol-Stone of Blessings"
+C;Y598;X1;K59176
+C;X2;K"Script\Battle\kuafu-Monster-zhongli-59176.s"
+C;X3;K"Inspiration of Gods"
+C;Y599;X1;K59177
+C;X2;K"Script\Battle\kuafu-Monster-guodu-59177.s"
+C;X3;K"Mani-Inspirations of Gods"
+C;Y600;X1;K59178
+C;X2;K"Script\Battle\kuafu-Monster-guodu-59178.s"
+C;X3;K"Sol-Inspirations of Gods"
+C;Y601;X1;K59179
+C;X2;K"Script\Battle\kuafu-Monster-zhanling-59179.s"
+C;X3;K"Mani-Inspirations of Gods"
+C;Y602;X1;K59180
+C;X2;K"Script\Battle\kuafu-Monster-zhanling-59180.s"
+C;X3;K"Sol-Inspirations of Gods"
+C;Y603;X1;K59181
+C;X2;K"Script\Battle\kuafu-Monster-zhongli-59181.s"
+C;X3;K"Chaos Crystal"
+C;Y604;X1;K59182
+C;X2;K"Script\Battle\kuafu-Monster-guodu-59182.s"
+C;X3;K"Mani-Crystal of Chaos"
+C;Y605;X1;K59183
+C;X2;K"Script\Battle\kuafu-Monster-guodu-59183.s"
+C;X3;K"Sol-Chaos Crystal"
+C;Y606;X1;K59184
+C;X2;K"Script\Battle\kuafu-Monster-zhanling-59184.s"
+C;X3;K"Mani-Crystal of Chaos"
+C;Y607;X1;K59185
+C;X2;K"Script\Battle\kuafu-Monster-zhanling-59185.s"
+C;X3;K"Sol-Chaos Crystal"
+C;Y609;X1;K59191
+C;X2;K"Script\Battle\kuafu-Monster-zhongli-59191.s"
+C;X3;K"Stone of Blessings"
+C;Y610;X1;K59192
+C;X2;K"Script\Battle\kuafu-Monster-guodu-59192.s"
+C;X3;K"Mani-Stone of Blessings"
+C;Y611;X1;K59193
+C;X2;K"Script\Battle\kuafu-Monster-guodu-59193.s"
+C;X3;K"Sol-Stone of Blessings"
+C;Y612;X1;K59194
+C;X2;K"Script\Battle\kuafu-Monster-zhanling-59194.s"
+C;X3;K"Mani-Stone of Blessings"
+C;Y613;X1;K59195
+C;X2;K"Script\Battle\kuafu-Monster-zhanling-59195.s"
+C;X3;K"Sol-Stone of Blessings"
+C;Y615;X1;K59201
+C;X2;K"Script\Battle\kuafu-Monster-zhongli-59201.s"
+C;X3;K"Chaos Crystal"
+C;Y616;X1;K59202
+C;X2;K"Script\Battle\kuafu-Monster-guodu-59202.s"
+C;X3;K"Mani-Crystal of Chaos"
+C;Y617;X1;K59203
+C;X2;K"Script\Battle\kuafu-Monster-guodu-59203.s"
+C;X3;K"Sol-Chaos Crystal"
+C;Y618;X1;K59204
+C;X2;K"Script\Battle\kuafu-Monster-zhanling-59204.s"
+C;X3;K"Mani-Crystal of Chaos"
+C;Y619;X1;K59205
+C;X2;K"Script\Battle\kuafu-Monster-zhanling-59205.s"
+C;X3;K"Sol-Chaos Crystal"
+C;Y623;X1;K32226
+C;X2;K"Script\HuoDong\Zhounianqing\mon-32226.s"
+C;X3;K"Chest dropped by Shadow"
+C;Y624;X1;K32227
+C;X2;K"Script\HuoDong\Zhounianqing\mon-32226.s"
+C;X3;K"Chest dropped by Shadow"
+C;Y625;X1;K55214
+C;X2;K"Script\Ectype\Maintask100\Ectype-shuishen-Monster-55214.s"
+C;X3;K"Main Quest: Slay Ebernorth"
+C;Y626;X1;K55215
+C;X2;K"Script\Ectype\Maintask100\Ectype-shuishen-Monster-55215.s"
+C;X3;K"Main Quest: Slay Ebernorth"
+C;Y627;X1;K55224
+C;X2;K"Script\Ectype\Maintask100\Ectype-shuishen-Monster-55224.s"
+C;X3;K"Main Quest: Slay Ebernorth"
+C;Y628;X1;K55217
+C;X2;K"Script\Ectype\Maintask100\Ectype-shuishen-Monster-55217.s"
+C;X3;K"Main Quest: Slay Ebernorth"
+C;Y629;X1;K55218
+C;X2;K"Script\Ectype\Maintask100\Ectype-shuishen-Monster-55218.s"
+C;X3;K"Main Quest: Slay Ebernorth"
+C;Y630;X1;K55219
+C;X2;K"Script\Ectype\Maintask100\Ectype-shuishen-Monster-55219.s"
+C;X3;K"Main Quest: Slay Ebernorth"
+C;Y631;X1;K55220
+C;X2;K"Script\Ectype\Maintask100\Ectype-shuishen-Monster-55220.s"
+C;X3;K"Main Quest: Slay Ebernorth"
+C;Y633;X1;K51641
+C;X2;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Monster-51641.s"
+C;X3;K"Marina"
+C;Y634;X1;K51642
+C;X2;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Monster-51642.s"
+C;X3;K"Marina"
+C;Y635;X1;K51643
+C;X2;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Monster-51643.s"
+C;X3;K"Marina"
+C;Y636;X1;K51644
+C;X2;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Monster-51644.s"
+C;X3;K"Marina"
+C;Y637;X1;K51645
+C;X2;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Monster-51645.s"
+C;X3;K"Marina"
+C;Y638;X1;K51646
+C;X2;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Monster-51646.s"
+C;X3;K"Marina"
+C;Y639;X1;K51647
+C;X2;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Monster-51647.s"
+C;X3;K"Marina"
+C;Y640;X1;K51648
+C;X2;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Monster-51648.s"
+C;X3;K"God of Sea"
+C;Y641;X1;K51650
+C;X2;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Monster-51650.s"
+C;X3;K"Underwater Treasure"
+C;Y642;X1;K51651
+C;X2;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Monster-51651.s"
+C;X3;K"God of Sea Treasure"
+C;Y643;X1;K51652
+C;X2;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Monster-51652.s"
+C;X3;K"Pillar"
+C;Y644;X1;K51653
+C;X2;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Monster-51653.s"
+C;X3;K"Pillar"
+C;Y645;X1;K51654
+C;X2;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Monster-51654.s"
+C;X3;K"Pillar"
+C;Y646;X1;K51655
+C;X2;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Monster-51655.s"
+C;X3;K"Pillar"
+C;Y647;X1;K51656
+C;X2;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Monster-51656.s"
+C;X3;K"Pillar"
+C;Y648;X1;K51657
+C;X2;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Monster-51657.s"
+C;X3;K"Pillar"
+C;Y649;X1;K51658
+C;X2;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Monster-51658.s"
+C;X3;K"Pillar"
+C;Y650;X1;K51660
+C;X2;K"Script\Ectype\haihuangpian\Ectype-haihuangpian-Monster-51660.s"
+C;X3;K"Athena"
+C;Y652;X1;K51602
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Monster-51602.s"
+C;X3;K"Ghoul"
+C;Y653;X1;K51603
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Monster-51603.s"
+C;X3;K"Ghoul"
+C;Y654;X1;K51607
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Monster-51607.s"
+C;X3;K"Evil Werewolf Guard"
+C;Y655;X1;K51608
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Monster-51608.s"
+C;X3;K"Maggot Larva"
+C;Y656;X1;K51611
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Monster-51611.s"
+C;X3;K"Corner Phantom"
+C;Y657;X1;K51613
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Monster-51613.s"
+C;X3;K"White Castle Guard"
+C;Y658;X1;K51614
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Monster-51614.s"
+C;X3;K"Black Castle Guard"
+C;Y660;X1;K51615
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Monster-51615.s"
+C;X3;K"Maggot Queen"
+C;Y661;X1;K51617
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Monster-51617.s"
+C;X3;K"Puppet Maid"
+C;Y662;X1;K51618
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Monster-51618.s"
+C;X3;K"Crazy Drunkard"
+C;Y663;X1;K51623
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Monster-51623.s"
+C;X3;K"Book of Demons"
+C;Y664;X1;K51624
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Monster-51624.s"
+C;X3;K"Psi"
+C;Y665;X1;K51625
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Monster-51625.s"
+C;X3;K"Delta"
+C;Y666;X1;K51626
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Monster-51626.s"
+C;X3;K"Epsilon"
+C;Y667;X1;K51627
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Monster-51627.s"
+C;X3;K"Omega"
+C;Y668;X1;K51628
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Monster-51628.s"
+C;X3;K"Phi"
+C;Y669;X1;K51629
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Monster-51629.s"
+C;X3;K"Sigma"
+C;Y670;X1;K51630
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Monster-51630.s"
+C;X3;K"Black Armor Knight"
+C;Y671;X1;K51631
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Monster-51631.s"
+C;X3;K"White Armor Knight"
+C;Y672;X1;K51632
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Monster-51632.s"
+C;X3;K"Iron Gate"
+C;Y673;X1;K51633
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Monster-51633.s"
+C;X3;K"Darkness Bringer"
+C;Y677;X1;K51703
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Monster-51703.s"
+C;X3;K"Shadow Manor Current Control Tower"
+C;Y678;X1;K51704
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Monster-51704.s"
+C;X3;K"Shadow Manor Current Control Tower"
+C;Y679;X1;K51705
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Monster-51705.s"
+C;X3;K"Shadow Manor Current Control Tower"
+C;Y680;X1;K51706
+C;X2;K"Script\Ectype\elinggubao\Ectype-elinggubao-Monster-51706.s"
+C;X3;K"Shadow Manor Current Control Tower"
+C;Y686;X1;K59206
+C;X2;K"Script\Battle\kuafu-Monster-zhongli-59206.s"
+C;X3;K"Stone of Blessings"
+C;Y687;X1;K59207
+C;X2;K"Script\Battle\kuafu-Monster-guodu-59207.s"
+C;X3;K"Mani-Stone of Blessings"
+C;Y688;X1;K59208
+C;X2;K"Script\Battle\kuafu-Monster-guodu-59208.s"
+C;X3;K"Sol-Stone of Blessings"
+C;Y689;X1;K59209
+C;X2;K"Script\Battle\kuafu-Monster-guodu-59209.s"
+C;X3;K"Mani-Stone of Blessings"
+C;Y690;X1;K59210
+C;X2;K"Script\Battle\kuafu-Monster-guodu-59210.s"
+C;X3;K"Sol-Stone of Blessings"
+C;Y691;X1;K59211
+C;X2;K"Script\Battle\kuafu-Monster-guodu-59211.s"
+C;X3;K"Chaos Crystal"
+C;Y692;X1;K59212
+C;X2;K"Script\Battle\kuafu-Monster-guodu-59212.s"
+C;X3;K"Mani-Crystal of Chaos"
+C;Y693;X1;K59213
+C;X2;K"Script\Battle\kuafu-Monster-guodu-59213.s"
+C;X3;K"Sol-Chaos Crystal"
+C;Y694;X1;K59214
+C;X2;K"Script\Battle\kuafu-Monster-guodu-59214.s"
+C;X3;K"Mani-Crystal of Chaos"
+C;Y695;X1;K59215
+C;X2;K"Script\Battle\kuafu-Monster-guodu-59215.s"
+C;X3;K"Sol-Chaos Crystal"
+C;Y697;X1;K52222
+C;X2;K"Script\Ectype\TiTan\Ectype-Titan-Monster-52222_52252_52272.s"
+C;X3;K"Titan Throne"
+C;Y698;X1;K52252
+C;X2;K"Script\Ectype\TiTan\Ectype-Titan-Monster-52222_52252_52272.s"
+C;X3;K"Titan Throne"
+C;Y699;X1;K52272
+C;X2;K"Script\Ectype\TiTan\Ectype-Titan-Monster-52222_52252_52272.s"
+C;X3;K"Titan Throne"
+C;Y700;X1;K52225
+C;X2;K"Script\Ectype\TiTan\Monster-52225.s"
+C;X3;K"Titan Throne"
+C;Y701;X1;K52255
+C;X2;K"Script\Ectype\TiTan\Ectype-Titan-Monster-JuRenBoss.s"
+C;X3;K"Titan Throne"
+C;Y702;X1;K52275
+C;X2;K"Script\Ectype\TiTan\Ectype-Titan-Monster-JuRenBoss.s"
+C;X3;K"Titan Throne"
+C;Y703;X1;K52226
+C;X2;K"Script\Ectype\TiTan\Ectype-Titan-Monster-52226.s"
+C;X3;K"Titan Throne"
+C;Y704;X1;K52256
+C;X2;K"Script\Ectype\TiTan\Ectype-Titan-Monster-nvwu.s"
+C;X3;K"Titan Throne"
+C;Y705;X1;K52276
+C;X2;K"Script\Ectype\TiTan\Ectype-Titan-Monster-nvwu.s"
+C;X3;K"Titan Throne"
+C;Y706;X1;K52227
+C;X2;K"Script\Ectype\TiTan\Ectype-Titan-Monster-nvwu.s"
+C;X3;K"Titan Throne"
+C;Y707;X1;K52257
+C;X2;K"Script\Ectype\TiTan\Ectype-Titan-Monster-nvwu.s"
+C;X3;K"Titan Throne"
+C;Y708;X1;K52277
+C;X2;K"Script\Ectype\TiTan\Ectype-Titan-Monster-nvwu.s"
+C;X3;K"Titan Throne"
+C;Y709;X1;K52228
+C;X2;K"Script\Ectype\TiTan\Ectype-Titan-Monster-nvwu.s"
+C;X3;K"Titan Throne"
+C;Y710;X1;K52258
+C;X2;K"Script\Ectype\TiTan\Ectype-Titan-Monster-nvwu.s"
+C;X3;K"Titan Throne"
+C;Y711;X1;K52278
+C;X2;K"Script\Ectype\TiTan\Ectype-Titan-Monster-nvwu.s"
+C;X3;K"Titan Throne"
+C;Y712;X1;K52224
+C;X2;K"Script\Ectype\TiTan\Monster-52224.s"
+C;X3;K"Titan Throne"
+C;Y713;X1;K52254
+C;X2;K"Script\Ectype\TiTan\Ectype-Titan-Monster-RenMaBoss.s"
+C;X3;K"Titan Throne"
+C;Y714;X1;K52274
+C;X2;K"Script\Ectype\TiTan\Ectype-Titan-Monster-RenMaBoss.s"
+C;X3;K"Titan Throne"
+C;Y715;X1;K52280
+C;X2;K"Script\Ectype\TiTan\Ectype-Titan-Monster-52280.s"
+C;X3;K"Kronos-Titan Throne"
+C;Y717;X1;K32246
+C;X2;K"Script\HuoDong\2010ChunJie\Monster-dahongbianpao-32246.s"
+C;X3;K"N/A2010????,??????"
+C;Y718;X1;K32247
+C;X2;K"Script\HuoDong\2010ChunJie\Monster-dahongbianpao-32246.s"
+C;X3;K"N/A2010????,??????"
+C;Y720;X1;K51737
+C;X2;K"Script\HuoDong\zhounianQ2\FQ2-monster-51737.s"
+C;X3;K"Dragon's Shadow"
+C;Y721;X1;K51747
+C;X2;K"Script\HuoDong\zhounianQ2\FQ4-monster-51747.s"
+C;X3;K"Blade of Terror -Quest Cleared"
+C;Y722;X1;K51746
+C;X2;K"Script\HuoDong\zhounianQ2\FQ4-monster-51746.s"
+C;X3;K"Dark Tortoise Shadow"
+C;Y724;X1;K59227
+C;X2;K"Script\Domain\Ectype-AtkCrystal-59227.s"
+C;X3;K"Attacker Territory Crystal"
+C;Y725;X1;K59228
+C;X2;K"Script\Domain\Ectype-DefCrystal-59228.s"
+C;X3;K"Defender Territory Crystal"
+C;Y726;X1;K59229
+C;X2;K"Script\Domain\Ectype-suoer-59229.s"
+C;X3;K"Thor"
+C;Y727;X1;K59240
+C;X2;K"Script\Domain\Ectype-first-59240.s"
+C;X3;K"N/ATerritory War??"
+C;Y728;X1;K59241
+C;X2;K"Script\Domain\Ectype-second-59241.s"
+C;X3;K"N/ATerritory War??"
+C;Y729;X1;K59242
+C;X2;K"Script\Domain\Ectype-third-59242.s"
+C;X3;K"N/ATerritory War??"
+C;Y730;X1;K59243
+C;X2;K"Script\Domain\Ectype-fouth-59243.s"
+C;X3;K"N/ATerritory War??"
+C;Y731;X1;K59244
+C;X2;K"Script\Domain\Ectype-leftmachine-59244.s"
+C;X3;K"N/A????????"
+C;Y732;X1;K59245
+C;X2;K"Script\Domain\Ectype-rightmachine-59245.s"
+C;X3;K"N/A????????"
+C;Y733;X1;K59252
+C;X2;K"Script\Domain\Ectype-Monster_59252_toumingguai.s"
+C;X3;K"N/A???????"
+C;Y734;X1;K59256
+C;X2;K"Script\Domain\Vehicle-59256.s"
+C;X3;K"N/AVessel Magic Butcher????"
+C;Y735;X1;K59257
+C;X2;K"Script\Domain\Vehicle-59257.s"
+C;X3;K"N/AVessel Magic Butcher????"
+C;Y736;X1;K59258
+C;X2;K"Script\Domain\Vehicle-59258.s"
+C;X3;K"N/AVessel Tank Killer????"
+C;Y737;X1;K59259
+C;X2;K"Script\Domain\Vehicle-59259.s"
+C;X3;K"N/AVessel Tank Killer????"
+C;Y738;X1;K59260
+C;X2;K"Script\Domain\Vehicle-59260.s"
+C;X3;K"N/AVessel Lord of Destruction????"
+C;Y739;X1;K59261
+C;X2;K"Script\Domain\Vehicle-59261.s"
+C;X3;K"N/AVessel Lord of Destruction????"
+C;Y740;X1;K59271
+C;X2;K"Script\Domain\Ectype-leftmachine-59262.s"
+C;X3;K"N/A??????"
+C;Y741;X1;K59272
+C;X2;K"Script\Domain\Ectype-leftmachine-59263.s"
+C;X3;K"N/A??????"
+C;Y742;X1;K59273
+C;X2;K"Script\Domain\Ectype-leftmachine-59264.s"
+C;X3;K"N/A??????"
+C;Y743;X1;K59265
+C;X2;K"Script\Domain\Ectype-rightmachine-59265.s"
+C;X3;K"N/A??????"
+C;Y744;X1;K59266
+C;X2;K"Script\Domain\Ectype-rightmachine-59266.s"
+C;X3;K"N/A??????"
+C;Y745;X1;K59267
+C;X2;K"Script\Domain\Ectype-rightmachine-59267.s"
+C;X3;K"N/A??????"
+C;Y746;X1;K59253
+C;X2;K"Script\Domain\Ectype-door-59253.s"
+C;X3;K"N/ATerritory War????Open "
+C;Y747;X1;K59270
+C;X2;K"Script\Domain\Ectype-door-59270.s"
+C;X3;K"N/ATerritory War????Open "
+C;Y748;X1;K59254
+C;X2;K"Script\Domain\Ectype-door-59254.s"
+C;X3;K"N/ATerritory War????Open "
+C;Y749;X1;K59255
+C;X2;K"Script\Domain\Ectype-door-59255.s"
+C;X3;K"N/ATerritory War????Open "
+C;Y750;X1;K59274
+C;X2;K"Script\Domain\Ectype-energy-59274.s"
+C;X3;K"Attacker Energy Crystal (Red)"
+C;Y751;X1;K59275
+C;X2;K"Script\Domain\Ectype-energy-59275.s"
+C;X3;K"Defender Energy Crystal (Red)"
+C;Y752;X1;K59276
+C;X2;K"Script\Domain\Ectype-energy-59276.s"
+C;X3;K"Attacker Energy Crystal (Blue)"
+C;Y753;X1;K59277
+C;X2;K"Script\Domain\Ectype-energy-59277.s"
+C;X3;K"Defender Energy Crystal (Blue)"
+C;Y754;X1;K59278
+C;X2;K"Script\Domain\Ectype-energy-59278.s"
+C;X3;K"Attacker Energy Crystal (Yellow)"
+C;Y755;X1;K59279
+C;X2;K"Script\Domain\Ectype-energy-59279.s"
+C;X3;K"Defender Energy Crystal (Yellow)"
+C;Y756;X1;K59280
+C;X2;K"Script\Domain\Ectype-energy-59280.s"
+C;X3;K"Attacker Energy Crystal (Gold)"
+C;Y757;X1;K59281
+C;X2;K"Script\Domain\Ectype-energy-59281.s"
+C;X3;K"Defender Energy Crystal (Gold)"
+C;Y758;X1;K59282
+C;X2;K"Script\Domain\Ectype-energy-59282.s"
+C;X3;K"Neutral Energy Crystal (Red)"
+C;Y759;X1;K59283
+C;X2;K"Script\Domain\Ectype-energy-59283.s"
+C;X3;K"Neutral Energy Crystal (Blue)"
+C;Y760;X1;K59284
+C;X2;K"Script\Domain\Ectype-energy-59284.s"
+C;X3;K"Neutral Energy Crystal (Yellow)"
+C;Y761;X1;K59285
+C;X2;K"Script\Domain\Ectype-energy-59285.s"
+C;X3;K"Neutral Energy Crystal (Gold)"
+C;Y762;X1;K30234
+C;X2;K"Script\Monster\monster-30234.s"
+C;X3;K"N/A????"
+C;Y763;X1;K30235
+C;X2;K"Script\Monster\Monster_30235.s"
+C;X3;K"N/A????"
+C;Y764;X1;K10762
+C;X2;K"Script\Monster\Monster_10762.s"
+C;X3;K"N/A????"
+C;Y765;X1;K10009
+C;X2;K"Script\Monster\Monster_10009.s"
+C;X3;K"N/A????"
+C;Y767;X1;K51779
+C;X2;K"Script\Ectype\Dixialingmu\DXLM2-monster-51779.s"
+C;X3;K"N/A??12?npc"
+C;Y768;X1;K51780
+C;X2;K"Script\Ectype\Dixialingmu\DXLM2-monster-51780.s"
+C;X3;K"N/A??8?npc"
+C;Y770;X1;K51787
+C;X2;K"Script\Ectype\Dixialingmu\DXLM2-Monster-Nuhou-51787.s"
+C;X3;K"N/A????"
+C;Y771;X1;K51806
+C;X2;K"Script\Ectype\Dixialingmu\DXLM2-BOSS-Chiyou-51806.s"
+C;X3;K"N/ABOSSChiyu????"
+C;Y772;X1;K51797
+C;X2;K"Script\Ectype\Dixialingmu\DXLM2-BOSS-Guiwang-51797.s"
+C;X3;K"Oni"
+C;Y773;X1;K51798
+C;X2;K"Script\Ectype\Dixialingmu\DXLM2-BOSS-Jihan-51798.s"
+C;X3;K"N/Aa,b?????"
+C;Y774;X1;K51799
+C;X2;K"Script\Ectype\Dixialingmu\DXLM2-BOSS-Lieyan-51799.s"
+C;X3;K"N/Aa,b?????"
+C;Y776;X1;K51775
+C;X2;K"Script\Ectype\Dixialingmu\51775-DXLM1-BOSS-Duzhu.s"
+C;X3;K"N/AOpen ????????13???"
+C;Y777;X1;K51788
+C;X2;K"Script\Ectype\Dixialingmu\51788-DXLM1-BOSS-Qimeng.s"
+C;X3;K"Ether Psyche"
+C;Y778;X1;K51773
+C;X2;K"Script\Ectype\Dixialingmu\51773-DXLM1-Monster-HeianJunyi.s"
+C;X3;K"N/A??580???????Open 3??"
+C;Y779;X1;K51823
+C;X2;K"Script\Ectype\Dixialingmu\51823-DXLM1-Monster-FuluanZhizhu.s"
+C;X3;K"N/A????5???"
+C;Y780;X1;K51847
+C;X2;K"Script\Ectype\Dixialingmu\51847-DXLM1-Monster-FuluanZhizhu.s"
+C;X3;K"N/A????25???"
+C;Y781;X1;K51822
+C;X2;K"Script\Ectype\Dixialingmu\51822-DXLM1-Monster-Zhizhu.s"
+C;X3;K"Spider"
+C;Y782;X1;K51774
+C;X2;K"Script\Ectype\Dixialingmu\DXLM1-Monster-Duzhu-51774.s"
+C;X3;K"N/A????591?????"
+C;Y783;X1;K51792
+C;X2;K"Script\Ectype\Dixialingmu\DXLM1-Monster-Yunyun-51792.s"
+C;X3;K"N/A????"
+C;Y784;X1;K51793
+C;X2;K"Script\Ectype\Dixialingmu\DXLM1-Monster-Yunyun-51793.s"
+C;X3;K"N/A????2"
+C;Y785;X1;K51794
+C;X2;K"Script\Ectype\Dixialingmu\DXLM1-Monster-Shiweizhang-51794.s"
+C;X3;K"N/AEnter 12?????????"
+C;Y786;X1;K51795
+C;X2;K"Script\Ectype\Dixialingmu\DXLM1-Monster-Shiwei-51795.s"
+C;X3;K"N/AEnter 12?????????"
+C;Y787;X1;K51796
+C;X2;K"Script\Ectype\Dixialingmu\DXLM1-Monster-Weishou-51796.s"
+C;X3;K"N/AEnter 12?????????"
+C;Y788;X1;K51819
+C;X2;K"Script\Ectype\Dixialingmu\DXLM1-BOSS-Wuxin-51802.s"
+C;X3;K"N/A7????BOSS??"
+C;Y789;X1;K51821
+C;X2;K"Script\Ectype\Dixialingmu\DXLM1-Monster-CJLuan-51821.s"
+C;X3;K"N/A20??Open ????? ???"
+C;Y790;X1;K51824
+C;X2;K"Script\Ectype\Dixialingmu\DXLM1-Monster-CJShuijing-51824.s"
+C;X3;K"N/A21??Open ?????,????"
+C;Y791;X1;K51825
+C;X2;K"Script\Ectype\Dixialingmu\DXLM1-Monster-CJBaoxiang-51825.s"
+C;X3;K"N/A??,?????"
+C;Y793;X1;K51800
+C;X2;K"Script\Ectype\Dixialingmu\DXLM3-BOSS-Fengyinshou-51800.s"
+C;X3;K"Beast of Pride"
+C;Y794;X1;K51801
+C;X2;K"Script\Ectype\Dixialingmu\DXLM3-BOSS-Duoluojianling-51801.s"
+C;X3;K"Fallen Sword Spirit "
+C;Y795;X1;K51826
+C;X2;K"Script\Ectype\Dixialingmu\51826-DXLM3-Monster-CJ-Suijing.s"
+C;X3;K"Mysterious Skyfall Shard"
+C;Y796;X1;K51836
+C;X2;K"Script\Ectype\Dixialingmu\DXLM3-Monster-Jinweihujun-51836.s"
+C;X3;K"Royal Guard "
+C;Y797;X1;K51837
+C;X2;K"Script\Ectype\Dixialingmu\DXLM3-Monster-Jinweitongjun-51837.s"
+C;X3;K"Royal Guard Captain "
+C;Y798;X1;K51838
+C;X2;K"Script\Ectype\Dixialingmu\DXLM3-Monster-Jinweidujun-51838.s"
+C;X3;K"Royal Guard Overseer "
+C;Y799;X1;K51805
+C;X2;K"Script\Ectype\Dixialingmu\DXLM3-BOSS-Haoxuanwang-51805.s"
+C;X3;K"Chaos Tyrant"
+C;Y800;X1;K51816
+C;X2;K"Script\Monster\Monster_51816.s"
+C;X3;K"N/A????"
+C;Y801;X1;K51817
+C;X2;K"Script\Monster\Monster_51817.s"
+C;X3;K"N/A????"
+C;Y802;X1;K40092
+C;X2;K"Script\Monster\Monster_40092.s"
+C;X3;K"N/A????"
+C;Y804;X1;K51820
+C;X2;K"Script\Ectype\Dixialingmu\51820-DXLM1-Luan.s"
+C;X3;K"Common Spider Egg"
+C;Y805;X1;K51851
+C;X2;K"Script\Ectype\Dixialingmu\51851-DXLM1-Monster-Yongyedeng.s"
+C;X3;K"Evernight Lamp"
+C;Y806;X1;K51778
+C;X2;K"Script\Ectype\Dixialingmu\51778-DXLM3-Monster-Gouhunyouling.s"
+C;X3;K"N/ASouleater Wraith??"
+C;Y808;X1;K51751
+C;X2;K"Script\Ectype\DXLM-Single\DXLMS-Monster-51751.s"
+C;X3;K"Spider"
+C;Y809;X1;K51752
+C;X2;K"Script\Ectype\DXLM-Single\DXLMS-Monster-51752.s"
+C;X3;K"Poisonous Beatle"
+C;Y810;X1;K51766
+C;X2;K"Script\Ectype\DXLM-Single\DXLMS-Monster-51753.s"
+C;X3;K"Darkwind Serpent"
+C;Y811;X1;K51754
+C;X2;K"Script\Ectype\DXLM-Single\DXLMS-Monster-51754.s"
+C;X3;K"Deceased Spirit"
+C;Y812;X1;K51755
+C;X2;K"Script\Ectype\DXLM-Single\DXLMS-Monster-51755.s"
+C;X3;K"Cursed Soul"
+C;Y813;X1;K51756
+C;X2;K"Script\Ectype\DXLM-Single\DXLMS-Monster-51756.s"
+C;X3;K"Begrudged Soul"
+C;Y814;X1;K51757
+C;X2;K"Script\Ectype\DXLM-Single\DXLMS-Monster-51757.s"
+C;X3;K"Elder Bird"
+C;Y815;X1;K51760
+C;X2;K"Script\Ectype\DXLM-Single\DXLMS-Monster-51760.s"
+C;X3;K"Sonaris"
+C;Y816;X1;K51761
+C;X2;K"Script\Ectype\DXLM-Single\DXLMS-Monster-51761.s"
+C;X3;K"Evil Spirit"
+C;Y817;X1;K51762
+C;X2;K"Script\Ectype\DXLM-Single\DXLMS-Monster-51762.s"
+C;X3;K"Evil Spirit"
+C;Y818;X1;K51765
+C;X2;K"Script\Ectype\DXLM-Single\DXLMS-Monster-51765.s"
+C;X3;K"Mechanic Pillar"
+C;Y819;X1;K51767
+C;X2;K"Script\Ectype\DXLM-Single\DXLMS-Monster-51767.s"
+C;X3;K"Soul Ectoplasm"
+C;Y820;X1;K51769
+C;X2;K"Script\Ectype\DXLM-Single\DXLMS-Monster-51769.s"
+C;X3;K"N/A??AI"
+C;Y821;X1;K51804
+C;X2;K"Script\Ectype\DXLM-Single\DXLMS-Monster-51804.s"
+C;X3;K"N/ATomb???-?"
+C;Y823;X1;K32272
+C;X2;K"Script\HuoDong\2011guoqing-Monster32272.s"
+C;X3;K"Calm Fradon "
+C;Y824;X1;K32273
+C;X2;K"Script\HuoDong\2011guoqing-Monster32273.s"
+C;X3;K"Brave Fradon "
+C;Y825;X1;K32274
+C;X2;K"Script\HuoDong\2011guoqing-Monster32274.s"
+C;X3;K"Reckless Fradon "
+C;Y826;X1;K32275
+C;X2;K"Script\Monster\Monster-32275.s"
+C;X3;K"N/A????"
+C;Y827;X1;K32276
+C;X2;K"Script\Monster\Monster-32276.s"
+C;X3;K"N/A????"
+C;Y829;X1;K30272
+C;X2;K"Script\Monster\Monster-30272.s"
+C;X3;K"Quest Monster"
+C;Y830;X1;K30273
+C;X2;K"Script\Monster\Monster-30273.s"
+C;X3;K"Quest Monster"
+C;Y832;X1;K55241
+C;X2;K"Script\Ectype\baicengta\Monster1-30-xiaoguai.s"
+C;X3;K"Tower 1-30 Minion"
+C;Y833;X1;K55242
+C;X2;K"Script\Ectype\baicengta\Monster1-30-xiaoguai.s"
+C;X3;K"Tower 1-30 Minion"
+C;Y834;X1;K55243
+C;X2;K"Script\Ectype\baicengta\Monster1-30-xiaoguai.s"
+C;X3;K"Tower 1-30 Minion"
+C;Y835;X1;K55244
+C;X2;K"Script\Ectype\baicengta\Monster1-30-xiaoguai.s"
+C;X3;K"Tower 1-30 Minion"
+C;Y836;X1;K55245
+C;X2;K"Script\Ectype\baicengta\Monster1-30-xiaoguai.s"
+C;X3;K"Tower 1-30 Minion"
+C;Y837;X1;K55246
+C;X2;K"Script\Ectype\baicengta\Monster31-60-xiaoguai.s"
+C;X3;K"Tower 31-60 Minion"
+C;Y838;X1;K55247
+C;X2;K"Script\Ectype\baicengta\Monster31-60-xiaoguai.s"
+C;X3;K"Tower 31-60 Minion"
+C;Y839;X1;K55248
+C;X2;K"Script\Ectype\baicengta\Monster31-60-xiaoguai.s"
+C;X3;K"Tower 31-60 Minion"
+C;Y840;X1;K55249
+C;X2;K"Script\Ectype\baicengta\Monster31-60-xiaoguai.s"
+C;X3;K"Tower 31-60 Minion"
+C;Y841;X1;K55250
+C;X2;K"Script\Ectype\baicengta\Monster31-60-xiaoguai.s"
+C;X3;K"Tower 31-60 Minion"
+C;Y842;X1;K55251
+C;X2;K"Script\Ectype\baicengta\Monster61-100-xiaoguai.s"
+C;X3;K"Tower 61-100 Minion"
+C;Y843;X1;K55252
+C;X2;K"Script\Ectype\baicengta\Monster61-100-xiaoguai.s"
+C;X3;K"Tower 61-100 Minion"
+C;Y844;X1;K55253
+C;X2;K"Script\Ectype\baicengta\Monster61-100-xiaoguai.s"
+C;X3;K"Tower 61-100 Minion"
+C;Y845;X1;K55254
+C;X2;K"Script\Ectype\baicengta\Monster61-100-xiaoguai.s"
+C;X3;K"Tower 61-100 Minion"
+C;Y846;X1;K55255
+C;X2;K"Script\Ectype\baicengta\Monster61-100-xiaoguai.s"
+C;X3;K"Tower 61-100 Minion"
+C;Y847;X1;K55256
+C;X2;K"Script\Ectype\baicengta\Monster61-100-xiaoguai.s"
+C;X3;K"Tower 61-100 Minion"
+C;Y849;X1;K59286
+C;X2;K"Script\Battle\New\Battle-Monster-59286.s"
+C;X3;K"Battlefield of Fairness"
+C;Y850;X1;K59287
+C;X2;K"Script\Battle\New\Battle-Monster-59287.s"
+C;X3;K"Battlefield of Fairness"
+C;Y851;X1;K59288
+C;X2;K"Script\Battle\New\Battle-Monster-59288.s"
+C;X3;K"Battlefield of Fairness"
+C;Y852;X1;K59289
+C;X2;K"Script\Battle\New\Battle-Monster-59289.s"
+C;X3;K"Battlefield of Fairness"
+C;Y853;X1;K59290
+C;X2;K"Script\Battle\New\Battle-Monster-59290.s"
+C;X3;K"Battlefield of Fairness"
+C;Y854;X1;K59291
+C;X2;K"Script\Battle\New\Battle-Monster-59291.s"
+C;X3;K"Battlefield of Fairness"
+C;Y855;X1;K59292
+C;X2;K"Script\Battle\New\Battle-Monster-59292.s"
+C;X3;K"Battlefield of Fairness"
+C;Y856;X1;K59293
+C;X2;K"Script\Battle\New\Battle-Monster-59293.s"
+C;X3;K"Battlefield of Fairness"
+C;Y857;X1;K59294
+C;X2;K"Script\Battle\New\Battle-Monster-59294.s"
+C;X3;K"Battlefield of Fairness"
+C;Y858;X1;K59295
+C;X2;K"Script\Battle\New\Battle-Monster-59295.s"
+C;X3;K"Battlefield of Fairness"
+C;Y859;X1;K59296
+C;X2;K"Script\Battle\New\Battle-Monster-59296.s"
+C;X3;K"Battlefield of Fairness"
+C;Y860;X1;K59297
+C;X2;K"Script\Battle\New\Battle-Monster-59297.s"
+C;X3;K"Battlefield of Fairness"
+C;Y861;X1;K59298
+C;X2;K"Script\Battle\New\Battle-Monster-59298.s"
+C;X3;K"Battlefield of Fairness"
+C;Y862;X1;K59299
+C;X2;K"Script\Battle\New\Battle-Monster-59299.s"
+C;X3;K"Battlefield of Fairness"
+C;Y863;X1;K59300
+C;X2;K"Script\Battle\New\Battle-Monster-59300.s"
+C;X3;K"Battlefield of Fairness"
+C;Y865;X1;K55271
+C;X2;K"Script\Ectype\baicengta\Monster-55271.s"
+C;X3;K"Tower 1-30 Elite"
+C;Y866;X1;K55272
+C;X2;K"Script\Ectype\baicengta\Monster1-30-daguai.s"
+C;X3;K"Tower 1-30 Elite"
+C;Y867;X1;K55273
+C;X2;K"Script\Ectype\baicengta\Monster1-30-daguai.s"
+C;X3;K"Tower 1-30 Elite"
+C;Y868;X1;K55274
+C;X2;K"Script\Ectype\baicengta\Monster-55274.s"
+C;X3;K"Tower 1-30 Elite"
+C;Y869;X1;K55275
+C;X2;K"Script\Ectype\baicengta\Monster1-30-daguai.s"
+C;X3;K"Tower 1-30 Elite"
+C;Y870;X1;K55276
+C;X2;K"Script\Ectype\baicengta\Monster-55276.s"
+C;X3;K"Tower 31-60 Elite"
+C;Y871;X1;K55277
+C;X2;K"Script\Ectype\baicengta\Monster-55277.s"
+C;X3;K"Tower 31-60 Elite"
+C;Y872;X1;K55278
+C;X2;K"Script\Ectype\baicengta\Monster31-60-daguai.s"
+C;X3;K"Tower 31-60 Elite"
+C;Y873;X1;K55279
+C;X2;K"Script\Ectype\baicengta\Monster31-60-daguai.s"
+C;X3;K"Tower 31-60 Elite"
+C;Y874;X1;K55280
+C;X2;K"Script\Ectype\baicengta\Monster31-60-daguai.s"
+C;X3;K"Tower 31-60 Elite"
+C;Y875;X1;K55281
+C;X2;K"Script\Ectype\baicengta\Monster61-100-daguai.s"
+C;X3;K"Tower 61-100 Elite"
+C;Y876;X1;K55282
+C;X2;K"Script\Ectype\baicengta\Monster61-100-daguai.s"
+C;X3;K"Tower 61-100 Elite"
+C;Y877;X1;K55283
+C;X2;K"Script\Ectype\baicengta\Monster61-100-daguai.s"
+C;X3;K"Tower 61-100 Elite"
+C;Y878;X1;K55284
+C;X2;K"Script\Ectype\baicengta\Monster61-100-daguai.s"
+C;X3;K"Tower 61-100 Elite"
+C;Y879;X1;K55285
+C;X2;K"Script\Ectype\baicengta\Monster61-100-daguai.s"
+C;X3;K"Tower 61-100 Elite"
+C;Y880;X1;K55286
+C;X2;K"Script\Ectype\baicengta\Monster-55286.s"
+C;X3;K"Tower 61-100 Elite"
+C;Y882;X1;K55291
+C;X2;K"Script\Ectype\baicengta\Monster-baicengboss.s"
+C;X3;K"Tower Boss"
+C;Y883;X1;K55296
+C;X2;K"Script\Ectype\baicengta\Monster-baicengboss.s"
+C;X3;K"Tower Boss"
+C;Y884;X1;K55311
+C;X2;K"Script\Ectype\baicengta\Monster-baicengboss.s"
+C;X3;K"Tower Boss"
+C;Y885;X1;K55313
+C;X2;K"Script\Ectype\baicengta\Monster-baicengboss.s"
+C;X3;K"Tower Boss"
+C;Y886;X1;K55331
+C;X2;K"Script\Ectype\baicengta\Monster-baicengboss.s"
+C;X3;K"Tower Boss"
+C;Y887;X1;K55332
+C;X2;K"Script\Ectype\baicengta\Monster-baicengboss.s"
+C;X3;K"Tower Boss"
+C;Y888;X1;K55333
+C;X2;K"Script\Ectype\baicengta\Monster-baicengboss.s"
+C;X3;K"Tower Boss"
+C;Y889;X1;K55351
+C;X2;K"Script\Ectype\baicengta\Monster-baicengboss.s"
+C;X3;K"Tower Boss"
+C;Y890;X1;K55319
+C;X2;K"Script\Ectype\baicengta\Monster-baicengboss.s"
+C;X3;K"Tower Boss"
+C;Y891;X1;K55517
+C;X2;K"Script\Ectype\baicengta\Monster-baicengboss.s"
+C;X3;K"Tower Boss"
+C;Y892;X1;K55371
+C;X2;K"Script\Ectype\baicengta\Monster-baicengboss.s"
+C;X3;K"Tower Boss"
+C;Y893;X1;K55607
+C;X2;K"Script\Ectype\baicengta\Monster-baicengboss.s"
+C;X3;K"Tower Boss"
+C;Y895;X1;K14071
+C;X2;K"Script\Monster\Monster_pet_low.s"
+C;X3;K"Devourer Plant - LV5"
+C;Y896;X1;K14072
+C;X2;K"Script\Monster\Monster_pet_low.s"
+C;X3;K"Desert Warrior Ant - LV7"
+C;Y897;X1;K14073
+C;X2;K"Script\Monster\Monster_pet_low.s"
+C;X3;K"Anubis Soldier-LV15"
+C;Y898;X1;K14074
+C;X2;K"Script\Monster\Monster_pet_low.s"
+C;X3;K"Ravager-LV17"
+C;Y899;X1;K14075
+C;X2;K"Script\Monster\Monster_pet_low.s"
+C;X3;K"Ranco-LV21"
+C;Y900;X1;K14076
+C;X2;K"Script\Monster\Monster_pet_low.s"
+C;X3;K"Seahorse Guardian-LV25"
+C;Y901;X1;K14077
+C;X2;K"Script\Monster\Monster_pet_low.s"
+C;X3;K"Bloodlust Whitebear-LV27"
+C;Y902;X1;K14078
+C;X2;K"Script\Monster\Monster_pet_low.s"
+C;X3;K"Melody Naga-LV31"
+C;Y903;X1;K14079
+C;X2;K"Script\Monster\Monster_pet_low.s"
+C;X3;K"Vile Terrorfish-LV35"
+C;Y904;X1;K14080
+C;X2;K"Script\Monster\Monster_pet_low.s"
+C;X3;K"Ocean Piranha-LV39"
+C;Y905;X1;K14081
+C;X2;K"Script\Monster\Monster_pet_low.s"
+C;X3;K"Seahorse Pikeman-LV43"
+C;Y906;X1;K14082
+C;X2;K"Script\Monster\Monster_pet_low.s"
+C;X3;K"Naga Warrior-LV47"
+C;Y907;X1;K14083
+C;X2;K"Script\Monster\Monster_pet_low.s"
+C;X3;K"Frozen Bloodvein-LV49"
+C;Y908;X1;K14084
+C;X2;K"Script\Monster\Monster_pet_mid.s"
+C;X3;K"Basilisk Guardian-LV51"
+C;Y909;X1;K14085
+C;X2;K"Script\Monster\Monster_pet_mid.s"
+C;X3;K"Necrotress-LV53"
+C;Y910;X1;K14086
+C;X2;K"Script\Monster\Monster_pet_mid.s"
+C;X3;K"Pharaoh Squire-LV57"
+C;Y911;X1;K14087
+C;X2;K"Script\Monster\Monster_pet_mid.s"
+C;X3;K"Forest Guardian-LV61"
+C;Y912;X1;K14088
+C;X2;K"Script\Monster\Monster_pet_mid.s"
+C;X3;K"Forest Defender-LV63"
+C;Y913;X1;K14089
+C;X2;K"Script\Monster\Monster_pet_mid.s"
+C;X3;K"Fiendish Antblade-LV67"
+C;Y914;X1;K14090
+C;X2;K"Script\Monster\Monster_pet_mid.s"
+C;X3;K"Minotaur-LV71"
+C;Y915;X1;K14091
+C;X2;K"Script\Monster\Monster_pet_mid.s"
+C;X3;K"Dryland Sunflower-LV81"
+C;Y916;X1;K14092
+C;X2;K"Script\Monster\Monster_pet_mid.s"
+C;X3;K"Thunder Leopard-LV83"
+C;Y917;X1;K14093
+C;X2;K"Script\Monster\Monster_pet_high.s"
+C;X3;K"Flame Lizard-LV90"
+C;Y918;X1;K14094
+C;X2;K"Script\Monster\Monster_pet_high.s"
+C;X3;K"Blazing Knight-LV95"
+C;Y919;X1;K14095
+C;X2;K"Script\Monster\Monster_pet_high.s"
+C;X3;K"Cursed Remnant-LV99"
+C;Y920;X1;K14096
+C;X2;K"Script\Monster\Monster_pet_high.s"
+C;X3;K"Asherisen Vanguard-LV101"
+C;Y921;X1;K14097
+C;X2;K"Script\Monster\Monster_pet_high.s"
+C;X3;K"Scorplion - LV110"
+C;Y922;X1;K14098
+C;X2;K"Script\Monster\Monster_pet_high.s"
+C;X3;K"Robot Monitor - LV117"
+C;Y923;X1;K14099
+C;X2;K"Script\Monster\Monster_pet_high.s"
+C;X3;K"Robot Guard - LV119"
+C;Y924;X1;K14100
+C;X2;K"Script\Monster\Monster_pet_high.s"
+C;X3;K"Rocky Giant - LV125"
+C;Y925;X1;K14101
+C;X2;K"Script\Monster\Monster_pet_high.s"
+C;X3;K"Executioner - LV125"
+C;Y927;X1;K30289
+C;X2;K"Script\Monster\Monster-30289.s"
+C;X3;K"N/A????"
+C;Y928;X1;K30290
+C;X2;K"Script\Monster\Monster-30290.s"
+C;X3;K"N/A????"
+C;Y929;X1;K21202
+C;X2;K"Script\Monster\Monster-21202.s"
+C;X3;K"N/A????"
+C;Y931;X1;K30309
+C;X2;K"Script\Ectype\Anxizhidi\monster-30309.s"
+C;X3;K"Crystal"
+C;Y932;X1;K30303
+C;X2;K"Script\Ectype\Anxizhidi\monster-30303.s"
+C;X3;K"Glacial Crystals"
+C;Y933;X1;K30281
+C;X2;K"Script\Ectype\Anxizhidi\monster-30281.s"
+C;X3;K"Chaos"
+C;Y934;X1;K30280
+C;X2;K"Script\Ectype\Anxizhidi\monster-30280.s"
+C;X3;K"Fire Death"
+C;Y935;X1;K30286
+C;X2;K"Script\Ectype\Anxizhidi\monster-30286.s"
+C;X3;K"Hades"
+C;Y936;X1;K30300
+C;X2;K"Script\Ectype\Anxizhidi\monster-30300.s"
+C;X3;K"Doorside Monster"
+C;Y937;X1;K30304
+C;X2;K"Script\Ectype\Anxizhidi\monster-30304.s"
+C;X3;K"Angel Crystal"
+C;Y939;X1;K30521
+C;X2;K"Script\Monster\Monster-30521.s"
+C;X3;K"Exalted 20 Main Quest"
+C;Y940;X1;K30522
+C;X2;K"Script\Monster\Monster-30522.s"
+C;X3;K"Exalted 20 Main Quest"
+C;Y941;X1;K30523
+C;X2;K"Script\Monster\Monster-30523.s"
+C;X3;K"Exalted 20 Main Quest"
+C;Y942;X1;K30517
+C;X2;K"Script\Monster\Monster-30517.s"
+C;X3;K"Exalted 20 Main Quest"
+C;Y943;X1;K30503
+C;X2;K"Script\Monster\Monster-30503.s"
+C;X3;K"Exalted 20 Main Quest"
+C;Y944;X1;K30504
+C;X2;K"Script\Monster\Monster-30504.s"
+C;X3;K"Exalted 20 Main Quest"
+C;Y945;X1;K30505
+C;X2;K"Script\Monster\Monster-30505.s"
+C;X3;K"Exalted 20 Main Quest"
+C;Y946;X1;K30512
+C;X2;K"Script\Monster\Monster-30512.s"
+C;X3;K"Exalted 20 Main Quest"
+C;Y947;X1;K30516
+C;X2;K"Script\Monster\Monster-30516.s"
+C;X3;K"Exalted 20 Main Quest"
+C;Y950;X1;K51860
+C;X2;K"Script\Ectype\Glory\51860-Boss3.s"
+C;X3;K"Assailing Devastator [Radiant Temple Boss]"
+C;Y951;X1;K51861
+C;X2;K"Script\Ectype\Glory\51861-Boss2.s"
+C;X3;K"God of Darkness [Radiant Temple Boss]"
+C;Y952;X1;K51862
+C;X2;K"Script\Ectype\Glory\51862-BOSS1.s"
+C;X3;K"Rose [Radiant Temple Boss]"
+C;Y953;X1;K51866
+C;X2;K"Script\Ectype\Glory\51866-Monster2.s"
+C;Y954;X1;K51867
+C;X2;K"Script\Ectype\Glory\51867-Monster31.s"
+C;Y955;X1;K51868
+C;X2;K"Script\Ectype\Glory\51868-Monster3.s"
+C;Y956;X1;K51870
+C;X2;K"Script\Ectype\Glory\51870-Monster41.s"
+C;Y957;X1;K51871
+C;X2;K"Script\Ectype\Glory\51871-Monster42.s"
+C;Y958;X1;K51874
+C;X2;K"Script\Ectype\Glory\51874-Butterfly.s"
+C;Y959;X1;K51876
+C;X2;K"Script\Ectype\Glory\51876-Effect1.s"
+C;Y960;X1;K51877
+C;X2;K"Script\Ectype\Glory\51877-EffectNPC.s"
+C;Y961;X1;K51883
+C;X2;K"Script\Ectype\Glory\51883-Five.s"
+C;Y962;X1;K51887
+C;X2;K"Script\Ectype\Glory\51887-EffectBOSS.s"
+C;Y963;X1;K51888
+C;X2;K"Script\Ectype\Glory\51887-EffectBOSS.s"
+C;Y964;X1;K51889
+C;X2;K"Script\Ectype\Glory\51887-EffectBOSS.s"
+C;Y965;X1;K51890
+C;X2;K"Script\Ectype\Glory\51887-EffectBOSS.s"
+C;Y966;X1;K51891
+C;X2;K"Script\Ectype\Glory\51887-EffectBOSS.s"
+C;Y967;X1;K51895
+C;X2;K"Script\Ectype\Glory\51883-Five.s"
+C;Y968;X1;K51896
+C;X2;K"Script\Ectype\Glory\51883-Five.s"
+C;Y969;X1;K51897
+C;X2;K"Script\Ectype\Glory\51883-Five.s"
+C;Y970;X1;K51898
+C;X2;K"Script\Ectype\Glory\51883-Five.s"
+C;Y971;X1;K51864
+C;X2;K"Script\Ectype\Glory\51864-north.s"
+C;Y972;X1;K51865
+C;X2;K"Script\Ectype\Glory\51865-south.s"
+C;Y973;X1;K51900
+C;X2;K"Script\Ectype\Glory\51900-BOSS4.S"
+C;X3;K"Darknight Rose [Radiant Temple Boss]"
+C;Y974;X1;K51872
+C;X2;K"Script\Ectype\Glory\51872-Left.s"
+C;Y975;X1;K51873
+C;X2;K"Script\Ectype\Glory\51873-Right.s"
+C;Y977;X1;K51857
+C;X2;K"Script\Ectype\Glory\51867-Monster31.s"
+C;Y978;X1;K51858
+C;X2;K"Script\Ectype\Glory\51868-Monster3.s"
+C;Y980;X1;K32284
+C;X2;K"Script\HuoDong\2012xinnian\monster-32284.s"
+C;X3;K"Spring Festival Event"
+C;Y981;X1;K32285
+C;X2;K"Script\HuoDong\2012xinnian\monster-32284.s"
+C;X3;K"Spring Festival Event"
+C;Y982;X1;K32286
+C;X2;K"Script\HuoDong\2012xinnian\monster-32284.s"
+C;X3;K"Spring Festival Event"
+C;Y983;X1;K32281
+C;X2;K"Script\HuoDong\2012xinnian\monster-32281-nianshou.s"
+C;X3;K"Spring Festival Event"
+C;Y985;X1;K51242
+C;X2;K"Script\Ectype\Ectype-shiliandongku-Monster-51242.s"
+C;X3;K"Trial Totem"
+C;Y986;X1;K51243
+C;X2;K"Script\Ectype\Ectype-shiliandongku-Monster-51242.s"
+C;X3;K"Trial Totem"
+C;Y987;X1;K51244
+C;X2;K"Script\Ectype\Ectype-shiliandongku-Monster-51242.s"
+C;X3;K"Trial Totem"
+C;Y988;X1;K51245
+C;X2;K"Script\Ectype\Ectype-shiliandongku-Monster-51242.s"
+C;X3;K"Trial Totem"
+C;Y989;X1;K51246
+C;X2;K"Script\Ectype\Ectype-shiliandongku-Monster-51242.s"
+C;X3;K"Trial Totem"
+C;Y990;X1;K51240
+C;X2;K"Script\Ectype\Ectype-shiliandongku-Monster-51240.s"
+C;X3;K"Abyss Trial Monster"
+C;Y992;X1;K12047
+C;X2;K"Script\Monster\Monster-12047.s"
+C;X3;K"Lunar Arc Chest"
+C;Y994;X1;K52295
+C;X2;K"Script\Ectype\GoldCoast\52295_mon1_1.s"
+C;X3;K"N/A????????????????"
+C;Y995;X1;K52296
+C;X2;K"Script\Ectype\GoldCoast\52295_mon1_1.s"
+C;Y996;X1;K52297
+C;X2;K"Script\Ectype\GoldCoast\52295_mon1_1.s"
+C;Y997;X1;K52307
+C;X2;K"Script\Ectype\GoldCoast\52307_mon2_2_1.s"
+C;X3;K"N/A????????????????"
+C;Y998;X1;K52298
+C;X2;K"Script\Ectype\GoldCoast\52298_mon2_2_2ss.s"
+C;X3;K"N/A??????????SS???"
+C;Y999;X1;K52299
+C;X2;K"Script\Ectype\GoldCoast\52298_mon2_2_2ss.s"
+C;Y1000;X1;K52300
+C;X2;K"Script\Ectype\GoldCoast\52298_mon2_2_2ss.s"
+C;Y1001;X1;K52319
+C;X2;K"Script\Ectype\GoldCoast\52319_mon3_1.s"
+C;X3;K"N/A??????????????"
+C;Y1002;X1;K52320
+C;X2;K"Script\Ectype\GoldCoast\52319_mon3_1.s"
+C;Y1003;X1;K52313
+C;X2;K"Script\Ectype\GoldCoast\52313_mon2_1_2ss.s"
+C;X3;K"N/A??????????SS???"
+C;Y1004;X1;K52314
+C;X2;K"Script\Ectype\GoldCoast\52314_mon2_1_2s.s"
+C;Y1005;X1;K52315
+C;X2;K"Script\Ectype\GoldCoast\52315_mon2_1_2.s"
+C;Y1006;X1;K52316
+C;X2;K"Script\Ectype\GoldCoast\52316_mon2_1_BOSS_SS.s"
+C;X3;K"N/A????????SS?BOSS"
+C;Y1007;X1;K52317
+C;X2;K"Script\Ectype\GoldCoast\52316_mon2_1_BOSS_SS.s"
+C;Y1008;X1;K52318
+C;X2;K"Script\Ectype\GoldCoast\52316_mon2_1_BOSS_SS.s"
+C;Y1009;X1;K52308
+C;X2;K"Script\Ectype\GoldCoast\52308_mon2_2_BOSS_SS.s"
+C;X3;K"N/A????????SS?BOSS"
+C;Y1010;X1;K52309
+C;X2;K"Script\Ectype\GoldCoast\52308_mon2_2_BOSS_SS.s"
+C;Y1011;X1;K52310
+C;X2;K"Script\Ectype\GoldCoast\52308_mon2_2_BOSS_SS.s"
+C;Y1012;X1;K52324
+C;X2;K"Script\Ectype\GoldCoast\52324_mon2_0.s"
+C;X3;K"N/A????????????"
+C;Y1013;X1;K52311
+C;X2;K"Script\Ectype\GoldCoast\52311_mon2_1_0.s"
+C;X3;K"N/A????????2_1_0????"
+C;Y1014;X1;K52312
+C;X2;K"Script\Ectype\GoldCoast\52311_mon2_1_0.s"
+C;Y1015;X1;K52321
+C;X2;K"Script\Ectype\GoldCoast\52321_3_BOSS_SS.s"
+C;X3;K"N/A??????SS?BOSS??"
+C;Y1016;X1;K52322
+C;X2;K"Script\Ectype\GoldCoast\52322_3_BOSS_S.s"
+C;X3;K"N/A??????S?BOSS??"
+C;Y1017;X1;K52323
+C;X2;K"Script\Ectype\GoldCoast\52323_3_BOSS.s"
+C;X3;K"Golden Coast Boss Record Complete"
+C;Y1018;X1;K52328
+C;X2;K"Script\Ectype\GoldCoast\52328_mon_h_1.s"
+C;X3;K"N/A??????????????"
+C;Y1019;X1;K52325
+C;X2;K"Script\Ectype\GoldCoast\52325_mon_h_2.s"
+C;X3;K"N/A?????????????"
+C;Y1020;X1;K52326
+C;X2;K"Script\Ectype\GoldCoast\52325_mon_h_2.s"
+C;Y1022;X1;K52351
+C;X2;K"Script\Ectype\magicyard\monster-52351-huomo1.s"
+C;X3;K"Magic Academy"
+C;Y1023;X1;K52352
+C;X2;K"Script\Ectype\magicyard\monster-52352-huomo2.s"
+C;X3;K"Magic Academy"
+C;Y1025;X1;K52357
+C;X2;K"Script\Ectype\magicyard\Monster-HexagramS.s"
+C;X3;K"Magic Academy"
+C;Y1026;X1;K52358
+C;X2;K"Script\Ectype\magicyard\Monster-HexagramS.s"
+C;X3;K"Magic Academy"
+C;Y1027;X1;K52359
+C;X2;K"Script\Ectype\magicyard\Monster-HexagramS.s"
+C;X3;K"Magic Academy"
+C;Y1028;X1;K52360
+C;X2;K"Script\Ectype\magicyard\Monster-HexagramS.s"
+C;X3;K"Magic Academy"
+C;Y1029;X1;K52361
+C;X2;K"Script\Ectype\magicyard\Monster-HexagramS.s"
+C;X3;K"Magic Academy"
+C;Y1030;X1;K52362
+C;X2;K"Script\Ectype\magicyard\Monster-HexagramS.s"
+C;X3;K"Magic Academy"
+C;Y1032;X1;K51381
+C;X2;K"Script\Ectype\Ectype-WorldTree-Monster-51381s.s"
+C;X3;K"Frenzy Fire Elemental"
+C;Y1033;X1;K51384
+C;X2;K"Script\Ectype\Ectype-WorldTree-Monster-51381s.s"
+C;X3;K"Elite Water Elemental"
+C;Y1034;X1;K51387
+C;X2;K"Script\Ectype\Ectype-WorldTree-Monster-51381s.s"
+C;X3;K"Dancing Moth"
+C;Y1035;X1;K51398
+C;X2;K"Script\Ectype\Ectype-WorldTree-Monster-51381s.s"
+C;X3;K"Brood of Nidhogg"
+C;Y1037;X1;K10411
+C;X2;K"Script\Monster\diantai\Monster-10411.s"
+C;X3;K"Radio quest monster drops"
+C;Y1038;X1;K10413
+C;X2;K"Script\Monster\diantai\Monster-10413.s"
+C;X3;K"Radio quest monster drops"
+C;Y1039;X1;K10412
+C;X2;K"Script\Monster\diantai\Monster-10412.s"
+C;X3;K"Radio quest monster drops"
+C;Y1040;X1;K10028
+C;X2;K"Script\Monster\diantai\Monster-10028.s"
+C;X3;K"Radio quest monster drops"
+C;Y1041;X1;K10027
+C;X2;K"Script\Monster\diantai\Monster-10027.s"
+C;X3;K"Radio quest monster drops"
+C;Y1042;X1;K10029
+C;X2;K"Script\Monster\diantai\Monster-10029.s"
+C;X3;K"Radio quest monster drops"
+C;Y1046;X1;K10092
+C;X2;K"Script\Monster\diantai\Monster-10092.s"
+C;X3;K"Radio quest monster drops"
+C;Y1047;X1;K10094
+C;X2;K"Script\Monster\diantai\Monster-10094.s"
+C;X3;K"Radio quest monster drops"
+C;Y1048;X1;K10097
+C;X2;K"Script\Monster\diantai\Monster-10097.s"
+C;X3;K"Radio quest monster drops"
+C;Y1049;X1;K10075
+C;X2;K"Script\Monster\diantai\Monster-10075.s"
+C;X3;K"Radio quest monster drops"
+C;Y1050;X1;K10076
+C;X2;K"Script\Monster\diantai\Monster-10076.s"
+C;X3;K"Radio quest monster drops"
+C;Y1051;X1;K10077
+C;X2;K"Script\Monster\diantai\Monster-10077.s"
+C;X3;K"Radio quest monster drops"
+C;Y1053;X1;K52372
+C;X2;K"Script\Monster\HD-caihonggu-52372.s"
+C;X3;K"Rainbow Chest"
+C;Y1054;X1;K52369
+C;X2;K"Script\Monster\HD-caihonggu-52369.s"
+C;X3;K"Tormented Minion"
+C;Y1056;X1;K53001
+C;X2;K"Script\Monster\mingyun\Monster-53001.s"
+C;X3;K"Treasure Hunt - Gate of Fate"
+C;Y1057;X1;K53002
+C;X2;K"Script\Monster\mingyun\Monster-53002.s"
+C;X3;K"Treasure Hunt - Gate of Fate"
+C;Y1058;X1;K53003
+C;X2;K"Script\Monster\mingyun\Monster-53003.s"
+C;X3;K"Treasure Hunt - Gate of Fate"
+C;Y1059;X1;K53004
+C;X2;K"Script\Monster\mingyun\Monster-53004.s"
+C;X3;K"Treasure Hunt - Gate of Fate"
+C;Y1060;X1;K53005
+C;X2;K"Script\Monster\mingyun\Monster-53005.s"
+C;X3;K"Treasure Hunt - Gate of Fate"
+C;Y1061;X1;K53006
+C;X2;K"Script\Monster\mingyun\Monster-53006.s"
+C;X3;K"Treasure Hunt - Gate of Fate"
+C;Y1062;X1;K53007
+C;X2;K"Script\Monster\mingyun\Monster-53007.s"
+C;X3;K"Treasure Hunt - Gate of Fate"
+C;Y1063;X1;K53014
+C;X2;K"Script\Monster\mingyun\Monster-53014.s"
+C;X3;K"Treasure Hunt - Gate of Fate"
+C;Y1064;X1;K53015
+C;X2;K"Script\Monster\mingyun\Monster-53015.s"
+C;X3;K"Treasure Hunt - Gate of Fate"
+C;Y1065;X1;K53016
+C;X2;K"Script\Monster\Monster-53016.s"
+C;X3;K"Treasure Hunt - Gate of Fate"
+C;Y1067;X1;K53102
+C;X2;K"Script\Monster\Monster-53102.s"
+C;X3;K"3.70 Main Quest"
+C;Y1068;X1;K53214
+C;X2;K"Script\Monster\Monster-53214.s"
+C;X3;K"3.70 Main Quest"
+C;Y1069;X1;K53114
+C;X2;K"Script\Monster\Monster-53114.s"
+C;X3;K"3.70 Main Quest"
+C;Y1070;X1;K53130
+C;X2;K"Script\Monster\Monster-53130.s"
+C;X3;K"3.70 Main Quest"
+C;Y1071;X1;K53124
+C;X2;K"Script\Monster\Monster-53124.s"
+C;X3;K"3.70 Main Quest"
+C;Y1072;X1;K53125
+C;X2;K"Script\Monster\Monster-53125.s"
+C;X3;K"3.70 Main Quest"
+C;Y1073;X1;K53131
+C;X2;K"Script\Monster\Monster-53131.s"
+C;X3;K"3.70 Main Quest"
+C;Y1074;X1;K53212
+C;X2;K"Script\Monster\Monster-53212.s"
+C;X3;K"3.70 Main Quest"
+C;Y1075;X1;K53129
+C;X2;K"Script\Monster\Monster-53129.s"
+C;X3;K"3.70 Main Quest"
+C;Y1076;X1;K53138
+C;X2;K"Script\Monster\Monster-53138.s"
+C;X3;K"3.70 Main Quest"
+C;Y1078;X1;K52422
+C;X2;K"Script\Ectype\ElfAltar\Mon12_52422_DeadSummon.s"
+C;X3;K"N/A?????????????????"
+C;Y1079;X1;K52395
+C;X2;K"Script\Ectype\ElfAltar\Mon11_52395_52396_52423count.s"
+C;X3;K"N/A???????????"
+C;Y1080;X1;K52396
+C;X2;K"Script\Ectype\ElfAltar\Mon11_52395_52396_52423count.s"
+C;X3;K"N/A???????????"
+C;Y1081;X1;K52394
+C;X2;K"Script\Ectype\ElfAltar\Mon11_52395_52396_52423count.s"
+C;X3;K"N/A???????????"
+C;Y1082;X1;K52423
+C;X2;K"Script\Ectype\ElfAltar\Mon11_52395_52396_52423count.s"
+C;X3;K"N/A???????????"
+C;Y1083;X1;K52408
+C;X2;K"Script\Ectype\ElfAltar\Mon21_52408_52409count.s"
+C;X3;K"N/A???????????"
+C;Y1084;X1;K52409
+C;X2;K"Script\Ectype\ElfAltar\Mon21_52408_52409count.s"
+C;X3;K"N/A???????????"
+C;Y1085;X1;K52418
+C;X2;K"Script\Ectype\ElfAltar\Mon32_SuperArcher_52418count.s"
+C;X3;K"N/A???????????"
+C;Y1086;X1;K52419
+C;X2;K"Script\Ectype\ElfAltar\Mon31_Protect_52419count.s"
+C;X3;K"N/A?????????????"
+C;Y1087;X1;K52380
+C;X2;K"Script\Ectype\ElfAltar\BOSS1_52380_52382_52383.s"
+C;X3;K"N/A??????BOSS1"
+C;Y1088;X1;K52382
+C;X2;K"Script\Ectype\ElfAltar\BOSS1_52380_52382_52383.s"
+C;X3;K"N/A??????BOSS1"
+C;Y1089;X1;K52383
+C;X2;K"Script\Ectype\ElfAltar\BOSS1_52380_52382_52383.s"
+C;X3;K"N/A??????BOSS1"
+C;Y1090;X1;K52437
+C;X2;K"Script\Ectype\ElfAltar\52437_Mon_Baoxiang.s"
+C;X3;K"N/A??????????"
+C;Y1091;X1;K52384
+C;X2;K"Script\Ectype\ElfAltar\BOSS2_52384_52386_52387.s"
+C;X3;K"N/A??????BOSS2"
+C;Y1092;X1;K52386
+C;X2;K"Script\Ectype\ElfAltar\BOSS2_52384_52386_52387.s"
+C;X3;K"N/A??????BOSS2"
+C;Y1093;X1;K52387
+C;X2;K"Script\Ectype\ElfAltar\BOSS2_52384_52386_52387.s"
+C;X3;K"N/A??????BOSS2"
+C;Y1094;X1;K52388
+C;X2;K"Script\Ectype\ElfAltar\BOSS3_52388_52390_52391.s"
+C;X3;K"N/A??????BOSS3"
+C;Y1095;X1;K52390
+C;X2;K"Script\Ectype\ElfAltar\BOSS3_52388_52390_52391.s"
+C;X3;K"N/A??????BOSS3"
+C;Y1096;X1;K52391
+C;X2;K"Script\Ectype\ElfAltar\BOSS3_52388_52390_52391.s"
+C;X3;K"N/A??????BOSS3"
+C;Y1097;X1;K52441
+C;X2;K"Script\Ectype\ElfAltar\Timer10sStart_52441.s"
+C;X3;K"N/A??????BOSS1??????"
+C;Y1098;X1;K52426
+C;X2;K"Script\Ectype\ElfAltar\Mon13_B0SS1_Bee_52426.s"
+C;X3;K"N/A??????BOSS1???????????BOSS1"
+C;Y1099;X1;K52429
+C;X2;K"Script\Ectype\ElfAltar\Mon_B0SS_TD_52429_52431-52436.s"
+C;X3;K"N/A??????BOSSII????TD?"
+C;Y1100;X1;K52431
+C;X2;K"Script\Ectype\ElfAltar\Mon_B0SS_TD_52429_52431-52436.s"
+C;X3;K"N/A??????BOSSII????TD?"
+C;Y1101;X1;K52432
+C;X2;K"Script\Ectype\ElfAltar\Mon_B0SS_TD_52429_52431-52436.s"
+C;X3;K"N/A??????BOSSII????TD?"
+C;Y1102;X1;K52433
+C;X2;K"Script\Ectype\ElfAltar\Mon_B0SS_TD_52429_52431-52436.s"
+C;X3;K"N/A??????BOSSII????TD?"
+C;Y1103;X1;K52434
+C;X2;K"Script\Ectype\ElfAltar\Mon_B0SS_TD_52429_52431-52436.s"
+C;X3;K"N/A??????BOSSII????TD?"
+C;Y1104;X1;K52435
+C;X2;K"Script\Ectype\ElfAltar\Mon_B0SS_TD_52429_52431-52436.s"
+C;X3;K"N/A??????BOSSII????TD?"
+C;Y1105;X1;K52436
+C;X2;K"Script\Ectype\ElfAltar\Mon_B0SS_TD_52429_52431-52436.s"
+C;X3;K"N/A??????BOSSII????TD?"
+C;Y1106;X1;K52439
+C;X2;K"Script\Ectype\ElfAltar\Mon21_BrokenWall_52439.s"
+C;X3;K"N/A??????????????"
+C;Y1107;X1;K52443
+C;X2;K"Script\Ectype\ElfAltar\52443_MagicColumn_InsideFire.s"
+C;X3;K"N/A???????????"
+C;Y1108;X1;K52444
+C;X2;K"Script\Ectype\ElfAltar\52444_MagicColumn_InsideIce.s"
+C;X3;K"N/A???????????"
+C;Y1109;X1;K52445
+C;X2;K"Script\Ectype\ElfAltar\52445_MagicColumn_InsideSoul.s"
+C;X3;K"N/A????????????"
+C;Y1110;X1;K52446
+C;X2;K"Script\Ectype\ElfAltar\52446_MagicColumn_OutsideFire.s"
+C;X3;K"N/A???????????"
+C;Y1111;X1;K52447
+C;X2;K"Script\Ectype\ElfAltar\52447_MagicColumn_OutsideIce.s"
+C;X3;K"N/A???????????"
+C;Y1112;X1;K52448
+C;X2;K"Script\Ectype\ElfAltar\52448_MagicColumn_OutsideSoul.s"
+C;X3;K"N/A????????????"
+C;Y1113;X1;K52449
+C;X2;K"Script\Ectype\ElfAltar\52449_Recover_OutsideIce.s"
+C;X3;K"N/A??????????????"
+C;Y1114;X1;K52456
+C;X2;K"Script\Ectype\ElfAltar\Mon23_B0SS2_Snowman_52456.s"
+C;X3;K"N/A??????BOSS2???????????BOSS2"
+C;Y1115;X1;K52381
+C;X2;K"Script\Ectype\ElfAltar\Summon_B0SS1_Lv3_52381.s"
+C;X3;K"[Fae Shrine] Summon BOSS1 Lv3 After Death"
+C;Y1116;X1;K52427
+C;X2;K"Script\Ectype\ElfAltar\Summon_B0SS1_Lv2_52427.s"
+C;X3;K"[Fae Shrine] Summon BOSS1 Lv2 After Death"
+C;Y1117;X1;K52467
+C;X2;K"Script\Ectype\ElfAltar\Timer1sStart_52467.s"
+C;X3;K"[Fae Shrine] BOSS2's Timer"
+C;Y1118;X1;K52385
+C;X2;K"Script\Ectype\ElfAltar\Summon_B0SS2_Lv3_52385.s"
+C;X3;K"[Fae Shrine] Summon BOSS2 Lv3 After Death"
+C;Y1119;X1;K52457
+C;X2;K"Script\Ectype\ElfAltar\Summon_B0SS2_Lv2_52457.s"
+C;X3;K"[Fae Shrine] Summon BOSS2 Lv2 After Death"
+C;Y1120;X1;K52389
+C;X2;K"Script\Ectype\ElfAltar\Summon_B0SS3_Lv3_52389.s"
+C;X3;K"[Fae Shrine] Summon BOSS3 Lv3 After Death"
+C;Y1121;X1;K52458
+C;X2;K"Script\Ectype\ElfAltar\Summon_B0SS3_Lv2_52458.s"
+C;X3;K"[Fae Shrine] Summon BOSS3 Lv2 After Death"
+C;Y1122;X1;K52471
+C;X2;K"Script\Ectype\ElfAltar\Mon33_B0SS3_Fairy_52471.s"
+C;X3;K"N/A[Fae Shrine] BOSS3???????????BOSS3"
+C;Y1123;X1;K52479
+C;X2;K"Script\Ectype\ElfAltar\Timer20sStart_52479.s"
+C;X3;K"N/A[Fae Shrine] BOSSLv1????"
+C;Y1125;X1;K21101
+C;X2;K"Script\Card\OnDead\GreenGather.s"
+C;X3;K"Moss Lizard-LV49"
+C;X4;K"Dropped Destiny materials"
+C;Y1126;X1;K21102
+C;X2;K"Script\Card\OnDead\GreenGather.s"
+C;X3;K"Wind Serpent-LV51"
+C;X4;K"Dropped Destiny materials"
+C;Y1127;X1;K21103
+C;X2;K"Script\Card\OnDead\GreenGather.s"
+C;X3;K"Capricorn Soldier-LV53"
+C;X4;K"Dropped Destiny materials"
+C;Y1128;X1;K21111
+C;X2;K"Script\Card\OnDead\GreenGather.s"
+C;X3;K"Diabolic Scorpion-LV55"
+C;X4;K"Dropped Destiny materials"
+C;Y1129;X1;K21163
+C;X2;K"Script\Card\OnDead\GreenGather.s"
+C;X3;K"Inferno Scout-LV71"
+C;X4;K"Dropped Destiny materials"
+C;Y1130;X1;K21171
+C;X2;K"Script\Card\OnDead\GreenGather.s"
+C;X3;K"Excavator Type 2-LV73"
+C;X4;K"Dropped Destiny materials"
+C;Y1131;X1;K21172
+C;X2;K"Script\Card\OnDead\GreenGather.s"
+C;X3;K"Excavator Type 3-LV75"
+C;X4;K"Dropped Destiny materials"
+C;Y1132;X1;K21173
+C;X2;K"Script\Card\OnDead\GreenGather.s"
+C;X3;K"Minotaur Gladiator-LV77"
+C;X4;K"Dropped Destiny materials"
+C;Y1133;X1;K21195
+C;X2;K"Script\Card\OnDead\GreenGather.s"
+C;X3;K"Abyss Wraith-LV93"
+C;X4;K"Dropped Destiny materials"
+C;Y1134;X1;K21196
+C;X2;K"Script\Card\OnDead\GreenGather.s"
+C;X3;K"Vile Phantom-LV95"
+C;X4;K"Dropped Destiny materials"
+C;Y1135;X1;K21197
+C;X2;K"Script\Card\OnDead\GreenGather.s"
+C;X3;K"Crypt Ant-LV97"
+C;X4;K"Dropped Destiny materials"
+C;Y1136;X1;K21198
+C;X2;K"Script\Card\OnDead\GreenGather.s"
+C;X3;K"Mysterious Guard-LV99"
+C;X4;K"Dropped Destiny materials"
+C;Y1137;X1;K21200
+C;X2;K"Script\Card\OnDead\GreenGather.s"
+C;X3;K"Bleat Slayer - LV104"
+C;X4;K"Dropped Destiny materials"
+C;Y1138;X1;K21201
+C;X2;K"Script\Card\OnDead\GreenGather.s"
+C;X3;K"Harpy - LV107"
+C;X4;K"Dropped Destiny materials"
+C;Y1139;X1;K21204
+C;X2;K"Script\Card\OnDead\GreenGather.s"
+C;X3;K"Scorplion - LV110"
+C;X4;K"Dropped Destiny materials"
+C;Y1140;X1;K21205
+C;X2;K"Script\Card\OnDead\GreenGather.s"
+C;X3;K"Frenzied Werewolf - LV113"
+C;X4;K"Dropped Destiny materials"
+C;Y1141;X1;K21221
+C;X2;K"Script\Card\OnDead\GreenGather.s"
+C;X3;K"Giant Slave Soldier - LV121"
+C;X4;K"Dropped Destiny materials"
+C;Y1142;X1;K21222
+C;X2;K"Script\Card\OnDead\GreenGather.s"
+C;X3;K"Giant Slave Elite - LV123"
+C;X4;K"Dropped Destiny materials"
+C;Y1143;X1;K21223
+C;X2;K"Script\Card\OnDead\GreenGather.s"
+C;X3;K"Giant Slave Lord - LV123"
+C;X4;K"Dropped Destiny materials"
+C;Y1144;X1;K21224
+C;X2;K"Script\Card\OnDead\GreenGather.s"
+C;X3;K"Rocky Giant - LV125"
+C;X4;K"Dropped Destiny materials"
+C;Y1145;X1;K12012
+C;X2;K"Script\Card\OnDead\GreenGather.s"
+C;X3;K"Asgard Officer - Exalted LV18"
+C;X4;K"Dropped Destiny materials"
+C;Y1146;X1;K12013
+C;X2;K"Script\Card\OnDead\GreenGather.s"
+C;X3;K"Asgard Warsoul - Exalted LV21"
+C;X4;K"Dropped Destiny materials"
+C;Y1147;X1;K12014
+C;X2;K"Script\Card\OnDead\GreenGather.s"
+C;X3;K"Asgard Warspirit - Exalted LV24"
+C;X4;K"Dropped Destiny materials"
+C;Y1148;X1;K12015
+C;X2;K"Script\Card\OnDead\GreenGather.s"
+C;X3;K"Asgard Marksman - Exalted LV27"
+C;X4;K"Dropped Destiny materials"
+C;Y1150;X1;K10045
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Gold Beetle-LV47"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1151;X1;K10041
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Demon Fireguard-LV49"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1152;X1;K10042
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Demon Disciple-LV51"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1153;X1;K10043
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Graverobber-LV53"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1154;X1;K10044
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Grave Raider-LV55"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1155;X1;K10046
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Pharaoh Squire-LV57"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1156;X1;K10047
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Bloodlust Werewolf-LV59"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1157;X1;K10181
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Asherisen Warrior-LV97"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1158;X1;K10182
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Asherisen Gladiator-LV99"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1159;X1;K10183
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Asherisen Vanguard-LV101"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1160;X1;K10184
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Asherisen Captain-LV101"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1161;X1;K10185
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Asherisen Elite - LV101"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1162;X1;K10931
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Lava Demon-LV91"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1163;X1;K10932
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Lava Berzerker-LV91"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1164;X1;K10933
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Whipper-LV93"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1165;X1;K10934
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Destroyer-LV93"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1166;X1;K10935
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Saboteur-LV95"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1167;X1;K10936
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Devastator-LV95"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1168;X1;K10937
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Grudging Soul-LV97"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1169;X1;K10938
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Cursed Remnant-LV99"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1170;X1;K12031
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Heartslaver - Exalted LV27"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1171;X1;K12032
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Irritated Flamefiend - Exalted LV16"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1172;X1;K12034
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Burning Berzerker - Exalted LV18"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1173;X1;K12035
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Void Berzerker - Exalted LV21"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1174;X1;K12036
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Nether Berzerker - Exalted LV24"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1175;X1;K21231
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Red Cave Cyclops - LV115"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1176;X1;K21232
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Black Cave Cyclops-LV117"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1177;X1;K21233
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Robot Monitor - LV117"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1178;X1;K21234
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Robot Watcher - LV119"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1179;X1;K12037
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Shadow Lobster - Exalted LV28"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1180;X1;K12038
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Abyss Pincer - Exalted LV31"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1181;X1;K12039
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Nether Starfish - Exalted LV34"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1182;X1;K12040
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Soulcracker Ray - Exalted LV37"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1183;X1;K12041
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Spiritual Walrus - Exalted LV40"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1184;X1;K20981
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Trapped Specter-LV55"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1185;X1;K20982
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Trapped Dark Soul-LV57"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1186;X1;K20983
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Trapped Soulreaper-LV59"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1187;X1;K20984
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Frenzy Scythe-LV61"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1188;X1;K20985
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Trapped Demon-LV63"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1189;X1;K20986
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Trapped Devil-LV65"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1190;X1;K21131
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Crypt Direwolf-LV67"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1191;X1;K21132
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Trapped Orc-LV69"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1192;X1;K21133
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Glacial Witch-LV71"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1193;X1;K21134
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Blazing Witch-LV71"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1194;X1;K21135
+C;X2;K"Script\Card\OnDead\RedNameKillMonster.s"
+C;X3;K"Crypt Diregator-LV73"
+C;X4;K"Kill red-named monsters to get Silver Cards"
+C;Y1196;X1;K22001
+C;X2;K"Script\Card\OnDead\DragonCard.s"
+C;X3;K"Eos-I"
+C;X4;K"Great Dragons drop Silver Cards"
+C;Y1197;X1;K22002
+C;X2;K"Script\Card\OnDead\DragonCard.s"
+C;X3;K"Alice-II"
+C;X4;K"Great Dragons drop Silver Cards"
+C;Y1198;X1;K22003
+C;X2;K"Script\Card\OnDead\DragonCard.s"
+C;X3;K"Eros-III"
+C;X4;K"Great Dragons drop Silver Cards"
+C;Y1199;X1;K22004
+C;X2;K"Script\Card\OnDead\DragonCard.s"
+C;X3;K"Naiads-IV"
+C;X4;K"Great Dragons drop Silver Cards"
+C;Y1200;X1;K22005
+C;X2;K"Script\Card\OnDead\DragonCard.s"
+C;X3;K"Calypso-V"
+C;X4;K"Great Dragons drop Silver Cards"
+C;Y1201;X1;K22006
+C;X2;K"Script\Card\OnDead\DragonCard.s"
+C;X3;K"Simoirs-VI"
+C;X4;K"Great Dragons drop Silver Cards"
+C;Y1202;X1;K22007
+C;X2;K"Script\Card\OnDead\DragonCard.s"
+C;X3;K"Achelous-VII"
+C;X4;K"Great Dragons drop Silver Cards"
+C;Y1203;X1;K22008
+C;X2;K"Script\Card\OnDead\DragonCard.s"
+C;X3;K"Axius-VIII"
+C;X4;K"Great Dragons drop Silver Cards"
+C;Y1204;X1;K22009
+C;X2;K"Script\Card\OnDead\DragonCard.s"
+C;X3;K"Glaucus-IX"
+C;X4;K"Great Dragons drop Silver Cards"
+C;Y1205;X1;K22010
+C;X2;K"Script\Card\OnDead\DragonCard.s"
+C;X3;K"Triton-X"
+C;X4;K"Great Dragons drop Silver Cards"
+C;Y1206;X1;K22011
+C;X2;K"Script\Card\OnDead\DragonCard.s"
+C;X3;K"Leucothea-XI"
+C;X4;K"Great Dragons drop Silver Cards"
+C;Y1207;X1;K22012
+C;X2;K"Script\Card\OnDead\DragonCard.s"
+C;X3;K"Nereids-XII"
+C;X4;K"Great Dragons drop Silver Cards"
+C;Y1208;X1;K22013
+C;X2;K"Script\Card\OnDead\DragonCard.s"
+C;X3;K"Gaia-XIII"
+C;X4;K"Great Dragons drop Silver Cards"
+C;Y1209;X1;K22014
+C;X2;K"Script\Card\OnDead\DragonCard.s"
+C;X3;K"Selene-XIV"
+C;X4;K"Great Dragons drop Silver Cards"
+C;Y1210;X1;K22015
+C;X2;K"Script\Card\OnDead\DragonCard.s"
+C;X3;K"Thanato-XV"
+C;X4;K"Great Dragons drop Silver Cards"
+C;Y1211;X1;K22016
+C;X2;K"Script\Card\OnDead\DragonCard.s"
+C;X3;K"Hypnos-XVI"
+C;X4;K"Great Dragons drop Silver Cards"
+C;Y1212;X1;K22017
+C;X2;K"Script\Card\OnDead\DragonCard.s"
+C;X3;K"Hecate-XVII"
+C;X4;K"Great Dragons drop Silver Cards"
+C;Y1213;X1;K22018
+C;X2;K"Script\Card\OnDead\DragonCard.s"
+C;X3;K"Syrinx-XVIII"
+C;X4;K"Great Dragons drop Silver Cards"
+C;Y1215;X1;K20991
+C;X2;K"Script\Card\OnDead\LordDropItemCard.s"
+C;X3;K"Ravager Lord-LV20"
+C;X4;K"Overlords drop Silver Cards"
+C;Y1216;X1;K20992
+C;X2;K"Script\Card\OnDead\LordDropItemCard.s"
+C;X3;K"Naga Lord-LV30"
+C;X4;K"Overlords drop Silver Cards"
+C;Y1217;X1;K21001
+C;X2;K"Script\Card\OnDead\LordDropItemCard.s"
+C;X3;K"Banshee Baroness LV35"
+C;X4;K"Overlords drop Silver Cards"
+C;Y1218;X1;K21002
+C;X2;K"Script\Card\OnDead\LordDropItemCard.s"
+C;X3;K"Piranha-LV35"
+C;X4;K"Overlords drop Silver Cards"
+C;Y1219;X1;K21003
+C;X2;K"Script\Card\OnDead\LordDropItemCard.s"
+C;X3;K"Ocean Giant Lord-LV40"
+C;X4;K"Overlords drop Silver Cards"
+C;Y1220;X1;K21004
+C;X2;K"Script\Card\OnDead\LordDropItemCard.s"
+C;X3;K"Terracotta Captain-LV40"
+C;X4;K"Overlords drop Silver Cards"
+C;Y1221;X1;K21005
+C;X2;K"Script\Card\OnDead\LordDropItemCard.s"
+C;X3;K"Seaserpent Lord-LV45"
+C;X4;K"Overlords drop Silver Cards"
+C;Y1222;X1;K21006
+C;X2;K"Script\Card\OnDead\LordDropItemCard.s"
+C;X3;K"Seahorse Lord-LV45"
+C;X4;K"Overlords drop Silver Cards"
+C;Y1223;X1;K21007
+C;X2;K"Script\Card\OnDead\LordDropItemCard.s"
+C;X3;K"Terracotta Soldier-LV45"
+C;X4;K"Overlords drop Silver Cards"
+C;Y1224;X1;K21008
+C;X2;K"Script\Card\OnDead\LordDropItemCard.s"
+C;X3;K"Gator Lord-LV50"
+C;X4;K"Overlords drop Silver Cards"
+C;Y1225;X1;K21009
+C;X2;K"Script\Card\OnDead\LordDropItemCard.s"
+C;X3;K"Medusa-LV60"
+C;X4;K"Overlords drop Silver Cards"
+C;Y1226;X1;K21010
+C;X2;K"Script\Card\OnDead\LordDropItemCard.s"
+C;X3;K"Werewolf Lord-LV60"
+C;X4;K"Overlords drop Silver Cards"
+C;Y1227;X1;K21011
+C;X2;K"Script\Card\OnDead\LordDropItemCard.s"
+C;X3;K"Jungle Defender-LV60"
+C;X4;K"Overlords drop Silver Cards"
+C;Y1228;X1;K21012
+C;X2;K"Script\Card\OnDead\LordDropItemCard.s"
+C;X3;K"Tribe Warder-LV65"
+C;X4;K"Overlords drop Silver Cards"
+C;Y1229;X1;K21013
+C;X2;K"Script\Card\OnDead\LordDropItemCard.s"
+C;X3;K"Death Lord-LV65"
+C;X4;K"Overlords drop Silver Cards"
+C;Y1230;X1;K21014
+C;X2;K"Script\Card\OnDead\LordDropItemCard.s"
+C;X3;K"Dwarf Lord-LV70"
+C;X4;K"Overlords drop Silver Cards"
+C;Y1231;X1;K21015
+C;X2;K"Script\Card\OnDead\LordDropItemCard.s"
+C;X3;K"King of Desert-LV71"
+C;X4;K"Overlords drop Silver Cards"
+C;Y1232;X1;K21016
+C;X2;K"Script\Card\OnDead\LordDropItemCard.s"
+C;X3;K"Kentaur Lord-LV75"
+C;X4;K"Overlords drop Silver Cards"
+C;Y1233;X1;K21017
+C;X2;K"Script\Card\OnDead\LordDropItemCard.s"
+C;X3;K"Ashura Vanguard-LV75"
+C;X4;K"Overlords drop Silver Cards"
+C;Y1234;X1;K21018
+C;X2;K"Script\Card\OnDead\LordDropItemCard.s"
+C;X3;K"Ashura Champion-LV79"
+C;X4;K"Overlords drop Silver Cards"
+C;Y1235;X1;K21019
+C;X2;K"Script\Card\OnDead\LordDropItemCard.s"
+C;X3;K"King Beetle-LV85"
+C;X4;K"Overlords drop Silver Cards"
+C;Y1236;X1;K21020
+C;X2;K"Script\Card\OnDead\LordDropItemCard.s"
+C;X3;K"Kingoni Grantara-LV85"
+C;X4;K"Overlords drop Silver Cards"
+C;Y1237;X1;K21021
+C;X2;K"Script\Card\OnDead\LordDropItemCard.s"
+C;X3;K"Yeti Chief-LV90"
+C;X4;K"Overlords drop Silver Cards"
+C;Y1238;X1;K21025
+C;X2;K"Script\Card\OnDead\LordDropItemCard.s"
+C;X3;K"Beast Grand Elder-LV115"
+C;X4;K"Overlords drop Silver Cards"
+C;Y1239;X1;K21026
+C;X2;K"Script\Card\OnDead\LordDropItemCard.s"
+C;X3;K"Titan Executioner-LV125"
+C;X4;K"Overlords drop Silver Cards"
+C;Y1241;X1;K30014
+C;X2;K"Script\Card\OnDead\PrestigeBoss.s"
+C;X3;K"Royal Dragonguard"
+C;X4;K"Boss drop Card item"
+C;Y1242;X1;K30015
+C;X2;K"Script\Card\OnDead\PrestigeBoss.s"
+C;X3;K"Dragon Emperor's General"
+C;X4;K"Boss drop Card item"
+C;Y1243;X1;K14200
+C;X2;K"Script\Card\OnDead\PrestigeBoss.s"
+C;X3;K"Spider Queen"
+C;X4;K"Boss drop Card item"
+C;Y1244;X1;K14201
+C;X2;K"Script\Card\OnDead\PrestigeBoss.s"
+C;X3;K"Dark Judge"
+C;X4;K"Boss drop Card item"
+C;Y1245;X1;K30001
+C;X2;K"Script\Card\OnDead\PrestigeBoss.s"
+C;X3;K"Overlord Octopus"
+C;X4;K"Boss drop Card item"
+C;Y1246;X1;K30002
+C;X2;K"Script\Card\OnDead\PrestigeBoss.s"
+C;X3;K"Wolfking Karth"
+C;X4;K"Boss drop Card item"
+C;Y1247;X1;K30011
+C;X2;K"Script\Card\OnDead\PrestigeBoss.s"
+C;X3;K"True Dragon Emperor"
+C;X4;K"Boss drop Card item"
+C;Y1248;X1;K30012
+C;X2;K"Script\Card\OnDead\PrestigeBoss.s"
+C;X3;K"Naga Queen"
+C;X4;K"Boss drop Card item"
+C;Y1249;X1;K30060
+C;X2;K"Script\Card\OnDead\PrestigeBoss.s"
+C;X3;K"Heartbroken"
+C;X4;K"Boss drop Card item"
+C;Y1250;X1;K21208
+C;X2;K"Script\Card\OnDead\PrestigeBoss.s"
+C;X3;K"Headcrusher Basaka"
+C;X4;K"Boss drop Card item"
+C;Y1251;X1;K21225
+C;X2;K"Script\Card\OnDead\PrestigeBoss.s"
+C;X3;K"Robot Giant - LV125"
+C;X4;K"Boss drop Card item"
+C;Y1252;X1;K21235
+C;X2;K"Script\Card\OnDead\PrestigeBoss.s"
+C;X3;K"Flamedragon Fenrir - LV120"
+C;X4;K"Boss drop Card item"
+C;Y1253;X1;K21245
+C;X2;K"Script\Card\OnDead\PrestigeBoss.s"
+C;X3;K"Ancient Black Dragon Moser - LV125"
+C;X4;K"Boss drop Card item"
+C;Y1254;X1;K12023
+C;X2;K"Script\Card\OnDead\PrestigeBoss.s"
+C;X3;K"Aeacus"
+C;X4;K"Boss drop Card item"
+C;Y1255;X1;K12033
+C;X2;K"Script\Card\OnDead\PrestigeBoss.s"
+C;X3;K"Nether Caesar Vanguard"
+C;X4;K"Boss drop Card item"
+C;Y1256;X1;K53210
+C;X2;K"Script\Card\OnDead\PrestigeBoss.s"
+C;X3;K"Silverwings Bigmoss"
+C;X4;K"Boss drop Card item"
+C;Y1257;X1;K12075
+C;X2;K"Script\Card\OnDead\PrestigeBoss.s"
+C;X3;K"Death Knight - Dyse"
+C;X4;K"Boss drop Card item"
+C;Y1258;X1;K12086
+C;X2;K"Script\Card\OnDead\PrestigeBoss.s"
+C;X3;K"Abyss - Dysteri"
+C;X4;K"Boss drop Card item"
+C;Y1260;X1;K53216
+C;X2;K"Script\Ectype\Cristalking\Monster-53216-SkyGda.s"
+C;X3;K"Physical Westerwind Guard"
+C;Y1261;X1;K53217
+C;X2;K"Script\Ectype\Cristalking\Monster-53217-SkyGdb.s"
+C;X3;K"Magic Westerwind Guard"
+C;Y1262;X1;K53218
+C;X2;K"Script\Ectype\Cristalking\Monster-53218-SkyGdDf.s"
+C;X3;K"Iron Runeguard"
+C;Y1263;X1;K53219
+C;X2;K"Script\Ectype\Cristalking\Monster-53219-SkyGdBg.s"
+C;X3;K"Ancient Westerwind"
+C;Y1264;X1;K53220
+C;X2;K"Script\Ectype\Cristalking\Monster-53220-SkyGdMg.s"
+C;X3;K"Arcane Runeguard"
+C;Y1265;X1;K53221
+C;X2;K"Script\Ectype\Cristalking\Monster-53221-SkyGdLk.s"
+C;X3;K"Lucky Runeguard"
+C;Y1266;X1;K53225
+C;X2;K"Script\Ectype\Cristalking\Monster-53225-MgcBossA.s"
+C;X3;K"Winter's Eidolon"
+C;Y1267;X1;K53226
+C;X2;K"Script\Ectype\Cristalking\Monster-53226-MgcBossB.s"
+C;X3;K"Spring's Eidolon"
+C;Y1268;X1;K53227
+C;X2;K"Script\Ectype\Cristalking\Monster-53227-MgcBossC.s"
+C;X3;K"Autumn's Eidolon"
+C;Y1269;X1;K53228
+C;X2;K"Script\Ectype\Cristalking\Monster-53228-MgcBossD.s"
+C;X3;K"Summer's Eidolon"
+C;Y1270;X1;K53241
+C;X2;K"Script\Ectype\Cristalking\Monster-53241-MgcKing.s"
+C;X3;K"Lord Boreas"
+C;Y1271;X1;K53242
+C;X2;K"Script\Ectype\Cristalking\Monster-53242-MgcReward.s"
+C;X3;K"Cardinal Treasure"
+C;Y1272;X1;K53243
+C;X2;K"Script\Ectype\Cristalking\Monster-53243-MgcRewardBoss.s"
+C;X3;K"Demonshard Chest"
+C;Y1273;X1;K53246
+C;X2;K"Script\Ectype\Cristalking\Monster-53246-EndReward.s"
+C;X3;K"Eurus' Treasure"
+C;Y1275;X1;K10001
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1276;X1;K10002
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1277;X1;K10003
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1278;X1;K10004
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1279;X1;K10006
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1280;X1;K10007
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1281;X1;K10761
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1282;X1;K10763
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1283;X1;K10764
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1284;X1;K10771
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1285;X1;K10772
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1286;X1;K10773
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1287;X1;K10774
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1288;X1;K10775
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1289;X1;K10776
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1290;X1;K10777
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1291;X1;K10778
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1292;X1;K10021
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1293;X1;K10022
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1294;X1;K10023
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1295;X1;K10024
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1296;X1;K10025
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1297;X1;K10026
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1298;X1;K10031
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1299;X1;K10032
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1300;X1;K10033
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1301;X1;K10034
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1302;X1;K10035
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1303;X1;K10036
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1304;X1;K10037
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1305;X1;K10051
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1306;X1;K10052
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1307;X1;K10053
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1308;X1;K10054
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1309;X1;K10055
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1310;X1;K10056
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1311;X1;K10057
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1312;X1;K10061
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1313;X1;K10062
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1314;X1;K10063
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1315;X1;K10064
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1316;X1;K10065
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1317;X1;K10066
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1318;X1;K10071
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1319;X1;K10072
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1320;X1;K10073
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1321;X1;K10074
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1322;X1;K10081
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1323;X1;K10082
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1324;X1;K10083
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1325;X1;K10084
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1326;X1;K10085
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1327;X1;K10086
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1328;X1;K10087
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1329;X1;K10088
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1330;X1;K10091
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1331;X1;K10093
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1332;X1;K10095
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1333;X1;K10096
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1334;X1;K10101
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1335;X1;K10107
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1336;X1;K10102
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1337;X1;K10103
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1338;X1;K10104
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1339;X1;K10105
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1340;X1;K10111
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1341;X1;K10112
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1342;X1;K10113
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1343;X1;K10114
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1344;X1;K10115
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1345;X1;K10116
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1346;X1;K10117
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1347;X1;K10371
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1348;X1;K10372
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1349;X1;K10373
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1350;X1;K20841
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1351;X1;K20842
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1352;X1;K20843
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1353;X1;K20851
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1354;X1;K20852
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1355;X1;K20853
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1356;X1;K10381
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1357;X1;K10382
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1358;X1;K10383
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1359;X1;K10391
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1360;X1;K10392
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1361;X1;K10393
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1362;X1;K10401
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1363;X1;K10402
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1364;X1;K10403
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1365;X1;K10741
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1366;X1;K10742
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1367;X1;K10743
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1368;X1;K10751
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1369;X1;K10752
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1370;X1;K10753
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1371;X1;K10171
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1372;X1;K10172
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1373;X1;K10173
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1374;X1;K10174
+C;X2;K"Script\Card\OnDead\GOW.s"
+C;X3;K"Arethusa's Request"
+C;Y1376;X1;K55600
+C;X2;K"Script\Card\OnDead\GOW-small.s"
+C;X3;K"Tainted Water Spirit"
+C;Y1377;X1;K55601
+C;X2;K"Script\Card\OnDead\GOW-badheart.s"
+C;X3;K"Arethusa's Inner Demon"
+C;Y1379;X1;K55604
+C;X2;K"Script\Card\OnDead\first.s"
+C;X3;K"First Gold Card"
+C;Y1381;X1;K32183
+C;X2;K"Script\Monster\Monster_biaoche.s"
+C;X3;K"Robbing Darts Awards"
+C;Y1382;X1;K32184
+C;X2;K"Script\Monster\Monster_biaoche.s"
+C;X3;K"Robbing Darts Awards"
+C;Y1383;X1;K32185
+C;X2;K"Script\Monster\Monster_biaoche.s"
+C;X3;K"Robbing Darts Awards"
+C;Y1384;X1;K32186
+C;X2;K"Script\Monster\Monster_biaoche.s"
+C;X3;K"Robbing Darts Awards"
+C;Y1386;X1;K59307
+C;X2;K"Script\Battle\New\59307-BattleField-Attack.s"
+C;X3;K"Battlefield Random BUFF"
+C;Y1387;X1;K59308
+C;X2;K"Script\Battle\New\59308-BattleField-Defence.s"
+C;Y1388;X1;K59309
+C;X2;K"Script\Battle\New\59309-BattleField-Speedup.s"
+C;Y1389;X1;K59310
+C;X2;K"Script\Battle\New\59410-BattleField-Recover.s"
+C;Y1391;X1;K11970
+C;X2;K"Script\HuoDong\mingyun\Monster_11970.s"
+C;X3;K"Golden Chest"
+C;Y1392;X1;K11971
+C;X2;K"Script\HuoDong\mingyun\Monster_11971.s"
+C;X3;K"Silver Chest"
+C;Y1393;X1;K11961
+C;X2;K"Script\HuoDong\mingyun\Monster_11961.s"
+C;X3;K"Resurrected Dragon Emperor First 3 Days"
+C;Y1394;X1;K11972
+C;X2;K"Script\HuoDong\mingyun\Monster_11972.s"
+C;X3;K"Resurrected Dragon Emperor Last 2 Days"
+C;Y1395;X1;K11901
+C;X2;K"Script\HuoDong\mingyun\Monster_hadisi.s"
+C;X3;K"Hades - 0"
+C;Y1396;X1;K11902
+C;X2;K"Script\HuoDong\mingyun\Monster_mingjielongjiang.s"
+C;X3;K"Nether Dragonlancer - 0"
+C;Y1397;X1;K11903
+C;X2;K"Script\HuoDong\mingyun\Monster_youminglongwei.s"
+C;X3;K"Nether Arrowguardian - 0"
+C;Y1398;X1;K11911
+C;X2;K"Script\HuoDong\mingyun\Monster_hadisi.s"
+C;X3;K"Hades - 1"
+C;Y1399;X1;K11912
+C;X2;K"Script\HuoDong\mingyun\Monster_mingjielongjiang.s"
+C;X3;K"Nether Dragonlancer - 1"
+C;Y1400;X1;K11913
+C;X2;K"Script\HuoDong\mingyun\Monster_youminglongwei.s"
+C;X3;K"Nether Arrowguardian - 1"
+C;Y1401;X1;K11921
+C;X2;K"Script\HuoDong\mingyun\Monster_hadisi.s"
+C;X3;K"Hades - 2"
+C;Y1402;X1;K11922
+C;X2;K"Script\HuoDong\mingyun\Monster_mingjielongjiang.s"
+C;X3;K"Nether Dragonlancer - 2"
+C;Y1403;X1;K11923
+C;X2;K"Script\HuoDong\mingyun\Monster_youminglongwei.s"
+C;X3;K"Nether Arrowguardian - 2"
+C;Y1404;X1;K11931
+C;X2;K"Script\HuoDong\mingyun\Monster_hadisi.s"
+C;X3;K"Hades - 3"
+C;Y1405;X1;K11932
+C;X2;K"Script\HuoDong\mingyun\Monster_mingjielongjiang.s"
+C;X3;K"Nether Dragonlancer - 3"
+C;Y1406;X1;K11933
+C;X2;K"Script\HuoDong\mingyun\Monster_youminglongwei.s"
+C;X3;K"Nether Arrowguardian - 3"
+C;Y1407;X1;K11941
+C;X2;K"Script\HuoDong\mingyun\Monster_hadisi.s"
+C;X3;K"Hades - 4"
+C;Y1408;X1;K11942
+C;X2;K"Script\HuoDong\mingyun\Monster_mingjielongjiang.s"
+C;X3;K"Nether Dragonlancer - 4"
+C;Y1409;X1;K11943
+C;X2;K"Script\HuoDong\mingyun\Monster_youminglongwei.s"
+C;X3;K"Nether Arrowguardian - 4"
+C;Y1410;X1;K11951
+C;X2;K"Script\HuoDong\mingyun\Monster_hadisi.s"
+C;X3;K"Hades - 5"
+C;Y1411;X1;K11952
+C;X2;K"Script\HuoDong\mingyun\Monster_mingjielongjiang.s"
+C;X3;K"Nether Dragonlancer - 5"
+C;Y1412;X1;K11953
+C;X2;K"Script\HuoDong\mingyun\Monster_youminglongwei.s"
+C;X3;K"Nether Arrowguardian - 5"
+C;Y1414;X1;K10421
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1415;X1;K10422
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1416;X1;K10423
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1417;X1;K10431
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1418;X1;K10432
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1419;X1;K10433
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1420;X1;K10441
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1421;X1;K10442
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1422;X1;K10443
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1423;X1;K10451
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1424;X1;K10452
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1425;X1;K10453
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1426;X1;K20861
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1427;X1;K20862
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1428;X1;K21206
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1429;X1;K21207
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1430;X1;K21241
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1431;X1;K21242
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1432;X1;K21243
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1433;X1;K21244
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1434;X1;K21251
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1435;X1;K21252
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1436;X1;K21253
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1437;X1;K21254
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1438;X1;K21255
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1439;X1;K21256
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1440;X1;K21261
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1441;X1;K21262
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1442;X1;K21263
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1443;X1;K21264
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1444;X1;K21271
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1445;X1;K21272
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1446;X1;K21273
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1447;X1;K21274
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1448;X1;K21281
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1449;X1;K21282
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1450;X1;K21283
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1451;X1;K21284
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1452;X1;K12021
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1453;X1;K12022
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1454;X1;K12024
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1455;X1;K12025
+C;X2;K"Script\Card\OnDead\TQ.s"
+C;X3;K"Exile's Entreaty"
+C;Y1457;X1;K55602
+C;X2;K"Script\Card\OnDead\TQ-small.s"
+C;X3;K"Cloudburn Watcher"
+C;Y1458;X1;K55603
+C;X2;K"Script\Card\OnDead\TQ-badheart.s"
+C;X3;K"Titan's Inner Demon"
+C;Y1460;X1;K24101
+C;X2;K"Script\Card\OnDead\xiaozhuque.s"
+C;X3;K"Scarlet Phoenix Heir"
+C;Y1461;X1;K24102
+C;X2;K"Script\Card\OnDead\xiaoqinglong.s"
+C;X3;K"Emerald Dragon Heir"
+C;Y1462;X1;K24103
+C;X2;K"Script\Card\OnDead\xiaobaihu.s"
+C;X3;K"White Tiger Heir"
+C;Y1463;X1;K24104
+C;X2;K"Script\Card\OnDead\xiaoxuanwu.s"
+C;X3;K"Obsidian Turtle Heir"
+C;Y1464;X1;K24105
+C;X2;K"Script\Card\OnDead\skillzhuque.s"
+C;X3;K"Scarlet Phoenix - Skill"
+C;Y1465;X1;K24106
+C;X2;K"Script\Card\OnDead\skillqinglong.s"
+C;X3;K"Emerald Dragon - Skill"
+C;Y1466;X1;K24107
+C;X2;K"Script\Card\OnDead\skillbaihu.s"
+C;X3;K"White Tiger - Skill"
+C;Y1467;X1;K24108
+C;X2;K"Script\Card\OnDead\skillxuanwu.s"
+C;X3;K"Dark Tortoise - Skill"
+C;Y1469;X1;K11977
+C;X2;K"Script\HuoDong\mingyun\Monster_11977.s"
+C;X3;K"Seafloor Gold Chest"
+C;Y1470;X1;K11978
+C;X2;K"Script\HuoDong\mingyun\Monster_11978.s"
+C;X3;K"Seafloor Silver Chest"
+C;Y1472;X1;K32295
+C;X2;K"Script\HuoDong\2012MidAutumn-NationalDay\32295-MidAutumnPickup.s"
+C;X3;K"2012 Mid-Autumn Gifting"
+C;Y1473;X1;K32296
+C;X2;K"Script\HuoDong\2012MidAutumn-NationalDay\32296-NationalDPickup.s"
+C;X3;K"2012 National Holiday Festivities"
+C;Y1475;X1;K32326
+C;X2;K"Script\HuoDong\2012Halloween\32326-Mon-Halloween.s"
+C;X3;K"2012 Halloween Event"
+C;Y1476;X1;K32327
+C;X2;K"Script\HuoDong\2012Halloween\32327-Mon-Halloween.s"
+C;X3;K"2012 Halloween Event"
+C;Y1478;X1;K53361
+C;X2;K"Script\Ectype\Disneyland\53361-Evil-count.s"
+C;X3;K"Fairground of the Battle of The Immortals"
+C;Y1479;X1;K53362
+C;X2;K"Script\Ectype\Disneyland\53362-Good-count.s"
+C;X3;K"Fairground of the Battle of The Immortals"
+C;Y1480;X1;K53363
+C;X2;K"Script\Ectype\Disneyland\53363-Drop.s"
+C;X3;K"Fairground of the Battle of The Immortals"
+C;Y1482;X1;K52631
+C;X2;K"Script\Ectype\shenpanshenyuan\Monster-52631.s"
+C;X3;K"Easy Judge Boss"
+C;Y1483;X1;K52606
+C;X2;K"Script\Ectype\shenpanshenyuan\Monster-52606.s"
+C;X3;K"Easy Judge"
+C;Y1484;X1;K52607
+C;X2;K"Script\Ectype\shenpanshenyuan\Monster-52607.s"
+C;X3;K"Easy Judge"
+C;Y1485;X1;K52632
+C;X2;K"Script\Ectype\shenpanshenyuan\Monster-52632.s"
+C;X3;K"Easy Judge Boss"
+C;Y1486;X1;K52633
+C;X2;K"Script\Ectype\shenpanshenyuan\Monster-52633-52634.s"
+C;X3;K"Easy Judge Boss"
+C;Y1487;X1;K52634
+C;X2;K"Script\Ectype\shenpanshenyuan\Monster-52633-52634.s"
+C;X3;K"Easy Judge Boss"
+C;Y1488;X1;K52640
+C;X2;K"Script\Ectype\shenpanshenyuan\Monster-52640.s"
+C;X3;K"Easy Judge Boss"
+C;Y1489;X1;K52639
+C;X2;K"Script\Ectype\shenpanshenyuan\Monster-52639.s"
+C;X3;K"Easy Judge Boss"
+C;Y1491;X1;K11979
+C;X2;K"Script\HuoDong\2012Nov-Dec-Xmas\11979_monster_Super.s"
+C;X3;K"Welcoming Chest"
+C;Y1492;X1;K11980
+C;X2;K"Script\HuoDong\2012Nov-Dec-Xmas\11980_monster_Normal.s"
+C;X3;K"Chest of Surprise"
+C;Y1494;X1;K11986
+C;X2;K"Script\Ectype\Disneyland\FireIntheHole\11986_monster_Drop.s"
+C;X3;K"Mummy LV1"
+C;Y1495;X1;K11987
+C;X2;K"Script\Ectype\Disneyland\FireIntheHole\11987_monster_Drop.s"
+C;X3;K"Mummy LV2"
+C;Y1496;X1;K11988
+C;X2;K"Script\Ectype\Disneyland\FireIntheHole\11988_monster_Drop.s"
+C;X3;K"Mummy LV3"
+C;Y1497;X1;K11998
+C;X2;K"Script\Ectype\Disneyland\FireIntheHole\11998_monster_count.s"
+C;X3;K"Bang-Up Time Pharaoh Squire"
+C;Y1499;X1;K55531
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1500;X1;K55532
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1501;X1;K55533
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1502;X1;K55534
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1503;X1;K55535
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1504;X1;K55536
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1505;X1;K55537
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1506;X1;K55538
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1507;X1;K55539
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1508;X1;K55540
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1509;X1;K55541
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1510;X1;K55542
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1511;X1;K55543
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1512;X1;K55544
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1513;X1;K55545
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1514;X1;K55546
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1515;X1;K55547
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1516;X1;K55548
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1517;X1;K55549
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1518;X1;K55550
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1519;X1;K55551
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1520;X1;K55552
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1521;X1;K55553
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1522;X1;K55554
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1523;X1;K55555
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1524;X1;K55556
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1525;X1;K55557
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1526;X1;K55558
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1527;X1;K55559
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1528;X1;K55560
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1529;X1;K55561
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1530;X1;K55562
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1531;X1;K55563
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1532;X1;K55564
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1533;X1;K55565
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1534;X1;K55566
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1535;X1;K55567
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1536;X1;K55568
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1537;X1;K55569
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1538;X1;K55570
+C;X2;K"Script\Ectype\baicengta\DEAD-GrandTeam.s"
+C;X3;K"Endless Stairs Elite Troop"
+C;Y1540;X1;K12071
+C;X2;K"Script\Monster\Monster-12071.s"
+C;X3;K"Main Quest Monster Loot"
+C;Y1542;X1;K52492
+C;X2;K"Script\Ectype\NoMercy\52492-95_monster_Lv1-1_count.s"
+C;X3;K"Heartless Canyon LV1-1 Monster Tally"
+C;Y1543;X1;K52493
+C;X2;K"Script\Ectype\NoMercy\52492-95_monster_Lv1-1_count.s"
+C;X3;K"Heartless Canyon LV1-1 Monster Tally"
+C;Y1544;X1;K52494
+C;X2;K"Script\Ectype\NoMercy\52492-95_monster_Lv1-1_count.s"
+C;X3;K"Heartless Canyon LV1-1 Monster Tally"
+C;Y1545;X1;K52495
+C;X2;K"Script\Ectype\NoMercy\52492-95_monster_Lv1-1_count.s"
+C;X3;K"Heartless Canyon LV1-1 Monster Tally"
+C;Y1546;X1;K52498
+C;X2;K"Script\Ectype\NoMercy\52498-501_monster_Lv2-1_count.s"
+C;X3;K"Heartless Canyon LV2-1 Monster Tally"
+C;Y1547;X1;K52499
+C;X2;K"Script\Ectype\NoMercy\52498-501_monster_Lv2-1_count.s"
+C;X3;K"Heartless Canyon LV2-1 Monster Tally"
+C;Y1548;X1;K52500
+C;X2;K"Script\Ectype\NoMercy\52498-501_monster_Lv2-1_count.s"
+C;X3;K"Heartless Canyon LV2-1 Monster Tally"
+C;Y1549;X1;K52501
+C;X2;K"Script\Ectype\NoMercy\52498-501_monster_Lv2-1_count.s"
+C;X3;K"Heartless Canyon LV2-1 Monster Tally"
+C;Y1550;X1;K52503
+C;X2;K"Script\Ectype\NoMercy\52503-06_monster_Lv3-1_count.s"
+C;X3;K"Heartless Canyon LV3-1 Monster Tally"
+C;Y1551;X1;K52504
+C;X2;K"Script\Ectype\NoMercy\52503-06_monster_Lv3-1_count.s"
+C;X3;K"Heartless Canyon LV3-1 Monster Tally"
+C;Y1552;X1;K52505
+C;X2;K"Script\Ectype\NoMercy\52503-06_monster_Lv3-1_count.s"
+C;X3;K"Heartless Canyon LV3-1 Monster Tally"
+C;Y1553;X1;K52506
+C;X2;K"Script\Ectype\NoMercy\52503-06_monster_Lv3-1_count.s"
+C;X3;K"Heartless Canyon LV3-1 Monster Tally"
+C;Y1555;X1;K52480
+C;X2;K"Script\Ectype\NoMercy\52480-82_BOSS_Dead_Drop.s"
+C;X3;K"Heartless Canyon Boss 1"
+C;Y1556;X1;K52481
+C;X2;K"Script\Ectype\NoMercy\52480-82_BOSS_Dead_Drop.s"
+C;X3;K"Heartless Canyon Boss 1"
+C;Y1557;X1;K52482
+C;X2;K"Script\Ectype\NoMercy\52480-82_BOSS_Dead_Drop.s"
+C;X3;K"Heartless Canyon Boss 1"
+C;Y1558;X1;K52483
+C;X2;K"Script\Ectype\NoMercy\52483-85_BOSS2_Dead_Drop.s"
+C;X3;K"Heartless Canyon Boss 2"
+C;Y1559;X1;K52484
+C;X2;K"Script\Ectype\NoMercy\52483-85_BOSS2_Dead_Drop.s"
+C;X3;K"Heartless Canyon Boss 2"
+C;Y1560;X1;K52485
+C;X2;K"Script\Ectype\NoMercy\52483-85_BOSS2_Dead_Drop.s"
+C;X3;K"Heartless Canyon Boss 2"
+C;Y1561;X1;K52486
+C;X2;K"Script\Ectype\NoMercy\52486-88_BOSS3_Dead_Drop.s"
+C;X3;K"Heartless Canyon Boss 3"
+C;Y1562;X1;K52487
+C;X2;K"Script\Ectype\NoMercy\52486-88_BOSS3_Dead_Drop.s"
+C;X3;K"Heartless Canyon Boss 3"
+C;Y1563;X1;K52488
+C;X2;K"Script\Ectype\NoMercy\52486-88_BOSS3_Dead_Drop.s"
+C;X3;K"Heartless Canyon Boss 3"
+C;Y1565;X1;K30615
+C;X2;K"Script\Monster\Monster-30615.s"
+C;X3;K"3.80 Main Quest"
+C;Y1567;X1;K32339
+C;X2;K"Script\HuoDong\SpiralSacred\DEAD-baoshu.s"
+C;X3;K"Spiral Monster Tally"
+C;Y1568;X1;K32340
+C;X2;K"Script\HuoDong\SpiralSacred\DEAD-baoshu.s"
+C;X3;K"Spiral Monster Tally"
+C;Y1569;X1;K32341
+C;X2;K"Script\HuoDong\SpiralSacred\DEAD-baoshu.s"
+C;X3;K"Spiral Monster Tally"
+C;Y1570;X1;K32342
+C;X2;K"Script\HuoDong\SpiralSacred\DEAD-baoshu.s"
+C;X3;K"Spiral Monster Tally"
+C;Y1571;X1;K32343
+C;X2;K"Script\HuoDong\SpiralSacred\DEAD-baoshu.s"
+C;X3;K"Spiral Monster Tally"
+C;Y1572;X1;K32344
+C;X2;K"Script\HuoDong\SpiralSacred\DEAD-baoshu.s"
+C;X3;K"Spiral Monster Tally"
+C;Y1573;X1;K32345
+C;X2;K"Script\HuoDong\SpiralSacred\DEAD-baoshu.s"
+C;X3;K"Spiral Monster Tally"
+C;Y1574;X1;K32346
+C;X2;K"Script\HuoDong\SpiralSacred\DEAD-baoshu.s"
+C;X3;K"Spiral Monster Tally"
+C;Y1575;X1;K32347
+C;X2;K"Script\HuoDong\SpiralSacred\DEAD-baoshu.s"
+C;X3;K"Spiral Monster Tally"
+C;Y1576;X1;K32348
+C;X2;K"Script\HuoDong\SpiralSacred\DEAD-baoshu.s"
+C;X3;K"Spiral Monster Tally"
+C;Y1578;X1;K32361
+C;X2;K"Script\HuoDong\2012Xmas-newyear\monster-23261-bobo.s"
+C;X3;K"Popo"
+C;Y1579;X1;K32362
+C;X2;K"Script\HuoDong\2012Xmas-newyear\monster-23262-XuexiongA.s"
+C;X3;K"Snow Bear"
+C;Y1580;X1;K32364
+C;X2;K"Script\HuoDong\2012Xmas-newyear\monster-23264-snowbox.s"
+C;X3;K"Frozendomain Chest"
+C;Y1582;X1;K30730
+C;X2;K"Script\Ectype\Field45Mask\Monster-30730.s"
+C;X3;K"3.80 Main Quest"
+C;Y1584;X1;K32350
+C;X2;K"Script\HuoDong\SpiralSacred\DEAD-baoxiang.s"
+C;X3;K"Spiral Treasure Chest"
+C;Y1585;X1;K32351
+C;X2;K"Script\HuoDong\SpiralSacred\DEAD-baoxiang.s"
+C;X3;K"Spiral Treasure Chest"
+C;Y1586;X1;K32352
+C;X2;K"Script\HuoDong\SpiralSacred\DEAD-baoxiang.s"
+C;X3;K"Spiral Treasure Chest"
+C;Y1587;X1;K32353
+C;X2;K"Script\HuoDong\SpiralSacred\DEAD-baozang.s"
+C;X3;K"Spiral Treasure Chest"
+C;Y1588;X1;K32354
+C;X2;K"Script\HuoDong\SpiralSacred\DEAD-item.s"
+C;X3;K"Spiral Treasure Chest"
+C;Y1590;X1;K30725
+C;X2;K"Script\Monster\Monster-30725.s"
+C;X3;K"3.80 Main Quest"
+C;Y1592;X1;K32379
+C;X2;K"Script\HuoDong\2012siegewar_32379.s"
+C;X3;K"Dyse's Treausre Chest"
+C;Y1593;X1;K32380
+C;X2;K"Script\HuoDong\2012siegewar_32379.s"
+C;X3;K"Dysteri's Chest"
+C;Y1595;X1;K32375
+C;X2;K"Script\HuoDong\32375-BOSS2.s"
+C;X3;K"Abyss - Dysteri"
+C;Y1596;X1;K32376
+C;X2;K"Script\HuoDong\32376-BOSS1.s"
+C;X3;K"Death Knight - Dyse"
+C;Y1597;X1;K32381
+C;X2;K"Script\HuoDong\32375-BOSS2.s"
+C;X3;K"Abyss - Dysteri"
+C;Y1598;X1;K32382
+C;X2;K"Script\HuoDong\32376-BOSS1.s"
+C;X3;K"Death Knight - Dyse"
+C;Y1599;X1;K32385
+C;X2;K"Script\HuoDong\32375-BOSS2.s"
+C;X3;K"Abyss - Dysteri"
+C;Y1600;X1;K32386
+C;X2;K"Script\HuoDong\32376-BOSS1.s"
+C;X3;K"Death Knight - Dyse"
+C;Y1602;X1;K32365
+C;X2;K"Script\HuoDong\2012Xmas-newyear\monster-32365s-racer.s"
+C;X3;K"Race"
+C;Y1603;X1;K32366
+C;X2;K"Script\HuoDong\2012Xmas-newyear\monster-32365s-racer.s"
+C;X3;K"Race"
+C;Y1604;X1;K32367
+C;X2;K"Script\HuoDong\2012Xmas-newyear\monster-32365s-racer.s"
+C;X3;K"Race"
+C;Y1605;X1;K32368
+C;X2;K"Script\HuoDong\2012Xmas-newyear\monster-32365s-racer.s"
+C;X3;K"Race"
+C;Y1606;X1;K32369
+C;X2;K"Script\HuoDong\2012Xmas-newyear\monster-32365s-racer.s"
+C;X3;K"Race"
+C;Y1607;X1;K32370
+C;X2;K"Script\HuoDong\2012Xmas-newyear\monster-32365s-racer.s"
+C;X3;K"Race"
+C;Y1608;X1;K32371
+C;X2;K"Script\HuoDong\2012Xmas-newyear\monster-32365s-racer.s"
+C;X3;K"Race"
+C;Y1609;X1;K32372
+C;X2;K"Script\HuoDong\2012Xmas-newyear\monster-32365s-racer.s"
+C;X3;K"Race"
+C;Y1611;X1;K32377
+C;X2;K"Script\HuoDong\32377-monster.s"
+C;X3;K"Fallen Paladin"
+C;Y1612;X1;K32378
+C;X2;K"Script\HuoDong\32378-monster.s"
+C;X3;K"Demon Gargoyle"
+C;Y1613;X1;K32383
+C;X2;K"Script\HuoDong\32377-monster.s"
+C;X3;K"Fallen Paladin"
+C;Y1614;X1;K32384
+C;X2;K"Script\HuoDong\32378-monster.s"
+C;X3;K"Demon Gargoyle"
+C;Y1615;X1;K32387
+C;X2;K"Script\HuoDong\32377-monster.s"
+C;X3;K"Fallen Paladin"
+C;Y1616;X1;K32388
+C;X2;K"Script\HuoDong\32378-monster.s"
+C;X3;K"Demon Gargoyle"
+C;Y1618;X1;K32390
+C;X2;K"Script\Ectype\DFW-2\monster-32390s-monN.s"
+C;X3;K"#1 Minion"
+C;Y1619;X1;K32391
+C;X2;K"Script\Ectype\DFW-2\monster-32390s-monN.s"
+C;X3;K"#2 Minion"
+C;Y1620;X1;K32392
+C;X2;K"Script\Ectype\DFW-2\monster-32392s-monU.s"
+C;X3;K"#3 Elite Monster"
+C;Y1621;X1;K32393
+C;X2;K"Script\Ectype\DFW-2\monster-32392s-monU.s"
+C;X3;K"#4 Elite Monster"
+C;Y1622;X1;K32394
+C;X2;K"Script\Ectype\DFW-2\monster-32394-Pboss.s"
+C;X3;K"#5 Mid Boss"
+C;Y1623;X1;K32395
+C;X2;K"Script\Ectype\DFW-2\monster-32395-Fboss.s"
+C;X3;K"#6 Quetzalcoatl"
+C;Y1624;X1;K32396
+C;X2;K"Script\Ectype\DFW-2\monster-32396-colTURE.s"
+C;X3;K"Monster Collection Real"
+C;Y1625;X1;K32397
+C;X2;K"Script\Ectype\DFW-2\monster-32397-colFALSE.s"
+C;X3;K"Monster Collection Fake"
+C;Y1626;X1;K32398
+C;X2;K"Script\Ectype\DFW-2\monster-32398-bigdice.s"
+C;X3;K"Exalted Dice"
+C;Y1627;X1;K32401
+C;X2;K"Script\Ectype\DFW-2\monster-32399s-dice.s"
+C;X3;K"Exalted Dice 1"
+C;Y1628;X1;K32402
+C;X2;K"Script\Ectype\DFW-2\monster-32399s-dice.s"
+C;X3;K"Exalted Dice 2"
+C;Y1629;X1;K32403
+C;X2;K"Script\Ectype\DFW-2\monster-32399s-dice.s"
+C;X3;K"Exalted Dice 3"
+C;Y1630;X1;K32404
+C;X2;K"Script\Ectype\DFW-2\monster-32399s-dice.s"
+C;X3;K"Exalted Dice 4"
+C;Y1631;X1;K32405
+C;X2;K"Script\Ectype\DFW-2\monster-32399s-dice.s"
+C;X3;K"Exalted Dice 5"
+C;Y1632;X1;K32406
+C;X2;K"Script\Ectype\DFW-2\monster-32399s-dice.s"
+C;X3;K"Exalted Dice 6"
+C;Y1633;X1;K32400
+C;X2;K"Script\Ectype\DFW-2\monster-32400-giftbox.s"
+C;X3;K"Spiral Chest"
+C;Y1634;X1;K32408
+C;X2;K"Script\Ectype\DFW-2\monster-32394-Pboss.s"
+C;X3;K"Citlalmina"
+C;Y1636;X1;K32409
+C;X2;K"Script\HuoDong\2013Chunjie\32409-nianshou.s"
+C;X3;K"New Year's Beast-LV70"
+C;Y1637;X1;K32410
+C;X2;K"Script\HuoDong\2013Chunjie\32409-nianshou.s"
+C;X3;K"New Year's Beast-LV100"
+C;Y1638;X1;K32411
+C;X2;K"Script\HuoDong\2013Chunjie\32409-nianshou.s"
+C;X3;K"New Year's Beast-LV120"
+C;Y1639;X1;K32412
+C;X2;K"Script\HuoDong\2013Chunjie\32409-nianshou.s"
+C;X3;K"New Year's Beast-Elysium LV20"
+C;Y1640;X1;K32413
+C;X2;K"Script\HuoDong\2013Chunjie\32409-nianshou.s"
+C;X3;K"New Year's Beast-Elysium LV45"
+C;Y1642;X1;K53249
+C;X2;K"Script\3V3project\monster-53249-elfbuff.s"
+C;X3;K"Speed up Buff"
+C;Y1644;X1;K32421
+C;X2;K"Script\HuoDong\201303baiyang\32421.s"
+C;X3;K"Fortify Chest"
+C;Y1645;X1;K32422
+C;X2;K"Script\HuoDong\201303baiyang\32422.s"
+C;X3;K"Summon Chest"
+C;Y1646;X1;K32423
+C;X2;K"Script\HuoDong\201303baiyang\32423.s"
+C;X3;K"Nirvana Chest"
+C;Y1647;X1;K32427
+C;X2;K"Script\HuoDong\201303baiyang\32427.s"
+C;X3;K"The Advent: Aries Envoy"
+C;Y1648;X1;K32428
+C;X2;K"Script\HuoDong\201303baiyang\32428.s"
+C;X3;K"The Return: Aries Envoy"
+C;Y1649;X1;K32429
+C;X2;K"Script\HuoDong\201303baiyang\32429.s"
+C;X3;K"The Finale: Aries Envoy"
+C;Y1651;X1;K53302
+C;X2;K"Script\HuoDong\2013zhounian\Monster-53302.s"
+C;X3;K"2013 Anniversary Celebration"
+C;Y1653;X1;K32432
+C;X2;K"Script\Monster\Monster-32432.s"
+C;X3;K"Nexus of Hunger"
+C;Y1654;X1;K32433
+C;X2;K"Script\Monster\Monster-32433.s"
+C;X3;K"Kamikaze Wraith"
+C;Y1655;X1;K32434
+C;X2;K"Script\Monster\Monster-32434.s"
+C;X3;K"Achinoth the Giant"
+C;Y1656;X1;K32435
+C;X2;K"Script\Monster\Monster-32435.s"
+C;X3;K"Insectomancer Dyss"
+C;Y1657;X1;K32436
+C;X2;K"Script\Monster\Monster-32436.s"
+C;X3;K"Flame Dragon's Kid Cassa"
+C;Y1658;X1;K32437
+C;X2;K"Script\Monster\Monster-32437.s"
+C;X3;K"Tainted Ocean Warrior"
+C;Y1660;X1;K32439
+C;X2;K"Script\Monster\Monster-32432.s"
+C;X3;K"Nexus of Hunger"
+C;Y1661;X1;K32440
+C;X2;K"Script\Monster\Monster-32433.s"
+C;X3;K"Kamikaze Wraith"
+C;Y1662;X1;K32441
+C;X2;K"Script\Monster\Monster-32434.s"
+C;X3;K"Achinoth the Giant"
+C;Y1663;X1;K32442
+C;X2;K"Script\Monster\Monster-32435.s"
+C;X3;K"Insectomancer Dyss"
+C;Y1664;X1;K32443
+C;X2;K"Script\Monster\Monster-32436.s"
+C;X3;K"Flame Dragon's Kid Cassa"
+C;Y1665;X1;K32444
+C;X2;K"Script\Monster\Monster-32437.s"
+C;X3;K"Tainted Ocean Warrior"
+C;Y1667;X1;K32445
+C;X2;K"Script\Monster\Monster-32432.s"
+C;X3;K"Nexus of Hunger"
+C;Y1668;X1;K32446
+C;X2;K"Script\Monster\Monster-32433.s"
+C;X3;K"Kamikaze Wraith"
+C;Y1669;X1;K32447
+C;X2;K"Script\Monster\Monster-32434.s"
+C;X3;K"Achinoth the Giant"
+C;Y1670;X1;K32448
+C;X2;K"Script\Monster\Monster-32435.s"
+C;X3;K"Insectomancer"
+C;Y1671;X1;K32449
+C;X2;K"Script\Monster\Monster-32436.s"
+C;X3;K"Flame Dragon's Kid Cassa"
+C;Y1672;X1;K32450
+C;X2;K"Script\Monster\Monster-32437.s"
+C;X3;K"Tainted Ocean Warrior"
+C;Y1674;X1;K32451
+C;X2;K"Script\Monster\Monster-32432.s"
+C;X3;K"Nexus of Hunger"
+C;Y1675;X1;K32452
+C;X2;K"Script\Monster\Monster-32433.s"
+C;X3;K"Kamikaze Wraith"
+C;Y1676;X1;K32453
+C;X2;K"Script\Monster\Monster-32434.s"
+C;X3;K"Achinoth the Giant"
+C;Y1677;X1;K32454
+C;X2;K"Script\Monster\Monster-32435.s"
+C;X3;K"Insectomancer Dyss"
+C;Y1678;X1;K32455
+C;X2;K"Script\Monster\Monster-32436.s"
+C;X3;K"Flame Dragon's Kid Cassa"
+C;Y1679;X1;K32456
+C;X2;K"Script\Monster\Monster-32437.s"
+C;X3;K"Tainted Ocean Warrior"
+C;Y1681;X1;K32457
+C;X2;K"Script\Monster\Monster-32432.s"
+C;X3;K"Nexus of Hunger"
+C;Y1682;X1;K32458
+C;X2;K"Script\Monster\Monster-32433.s"
+C;X3;K"Kamikaze Wraith"
+C;Y1683;X1;K32459
+C;X2;K"Script\Monster\Monster-32434.s"
+C;X3;K"Achinoth the Giant"
+C;Y1684;X1;K32460
+C;X2;K"Script\Monster\Monster-32435.s"
+C;X3;K"Insectomancer Dyss"
+C;Y1685;X1;K32461
+C;X2;K"Script\Monster\Monster-32436.s"
+C;X3;K"Flame Dragon's Kid Cassa"
+C;Y1686;X1;K32462
+C;X2;K"Script\Monster\Monster-32437.s"
+C;X3;K"Tainted Ocean Warrior"
+C;Y1687;X1;K32438
+C;X2;K"Script\Monster\Monster-32438.s"
+C;X3;K"Chest"
+C;Y1689;X1;K53303
+C;X2;K"Script\HuoDong\2013zhounian\Monster-53303.s"
+C;X3;K"2013 Anniversary Celebration Chest Loot"
+C;Y1691;X1;K10801
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Maiden Spirit - LV75"
+C;X4;K"Queen's Catacomb"
+C;Y1692;X1;K10802
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Wraith-LV75"
+C;X4;K"Queen's Catacomb"
+C;Y1693;X1;K10803
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Undead - LV75"
+C;X4;K"Queen's Catacomb"
+C;Y1694;X1;K10804
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Orbus-LV75"
+C;X4;K"Queen's Catacomb"
+C;Y1695;X1;K10805
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Undead Guardian - LV75"
+C;X4;K"Queen's Catacomb"
+C;Y1696;X1;K10811
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Sacred Scorpion - LV75"
+C;X4;K"Behemoth's Lair"
+C;Y1697;X1;K10812
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Necro Scorpion - LV75"
+C;X4;K"Behemoth's Lair"
+C;Y1698;X1;K10813
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Camouflage Spider - LV75"
+C;X4;K"Behemoth's Lair"
+C;Y1699;X1;K10814
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Divine Beetle-LV75"
+C;X4;K"Behemoth's Lair"
+C;Y1700;X1;K10815
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Sacred Beetle Queen - LV75"
+C;X4;K"Behemoth's Lair"
+C;Y1701;X1;K10821
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Anubis Soul - LV75"
+C;X4;K"Maze of Mystery"
+C;Y1702;X1;K10822
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Trogg Ant - LV75"
+C;X4;K"Maze of Mystery"
+C;Y1703;X1;K10823
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Mitos - LV75"
+C;X4;K"Maze of Mystery"
+C;Y1704;X1;K10824
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Mitos Warrior-LV75"
+C;X4;K"Maze of Mystery"
+C;Y1705;X1;K10825
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Mummy - LV75"
+C;X4;K"Maze of Mystery"
+C;Y1706;X1;K10831
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Undead's Eyes - LV75"
+C;X4;K"Hexagram Array"
+C;Y1707;X1;K10832
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Earth Element - LV75"
+C;X4;K"Hexagram Array"
+C;Y1708;X1;K10833
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Morris - LV75"
+C;X4;K"Hexagram Array"
+C;Y1709;X1;K10834
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Grand Morris-LV75"
+C;X4;K"Hexagram Array"
+C;Y1710;X1;K10835
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Mummy - LV75"
+C;X4;K"Hexagram Array"
+C;Y1711;X1;K11291
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Maiden Spirit - LV100"
+C;X4;K"Queen's Catacomb"
+C;Y1712;X1;K11292
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Wraith-LV100"
+C;X4;K"Queen's Catacomb"
+C;Y1713;X1;K11293
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Undead - LV100"
+C;X4;K"Queen's Catacomb"
+C;Y1714;X1;K11294
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Orbus-LV100"
+C;X4;K"Queen's Catacomb"
+C;Y1715;X1;K11295
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Undead Guardian - LV100"
+C;X4;K"Queen's Catacomb"
+C;Y1716;X1;K11301
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Sacred Scorpion - LV100"
+C;X4;K"Behemoth's Lair"
+C;Y1717;X1;K11302
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Necro Scorpion - LV100"
+C;X4;K"Behemoth's Lair"
+C;Y1718;X1;K11303
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Camouflage Spider - LV100"
+C;X4;K"Behemoth's Lair"
+C;Y1719;X1;K11304
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Divine Beetle-LV100"
+C;X4;K"Behemoth's Lair"
+C;Y1720;X1;K11305
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Sacred Beetle Queen - LV100"
+C;X4;K"Behemoth's Lair"
+C;Y1721;X1;K11311
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Anubis Soul - LV100"
+C;X4;K"Maze of Mystery"
+C;Y1722;X1;K11312
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Trogg Ant - LV100"
+C;X4;K"Maze of Mystery"
+C;Y1723;X1;K11313
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Mitos - LV100"
+C;X4;K"Maze of Mystery"
+C;Y1724;X1;K11314
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Mitos Warrior-LV100"
+C;X4;K"Maze of Mystery"
+C;Y1725;X1;K11315
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Mummy - LV100"
+C;X4;K"Maze of Mystery"
+C;Y1726;X1;K11321
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Undead's Eyes - LV100"
+C;X4;K"Hexagram Array"
+C;Y1727;X1;K11322
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Earth Element - LV100"
+C;X4;K"Hexagram Array"
+C;Y1728;X1;K11323
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Morris - LV100"
+C;X4;K"Hexagram Array"
+C;Y1729;X1;K11324
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Grand Morris-LV100"
+C;X4;K"Hexagram Array"
+C;Y1730;X1;K11325
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Mummy - LV100"
+C;X4;K"Hexagram Array"
+C;Y1731;X1;K11341
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Maiden Spirit - LV110"
+C;X4;K"Queen's Catacomb"
+C;Y1732;X1;K11342
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Wraith-LV110"
+C;X4;K"Queen's Catacomb"
+C;Y1733;X1;K11343
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Undead - LV110"
+C;X4;K"Queen's Catacomb"
+C;Y1734;X1;K11344
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Orbus-LV110"
+C;X4;K"Queen's Catacomb"
+C;Y1735;X1;K11345
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Undead Guardian - LV110"
+C;X4;K"Queen's Catacomb"
+C;Y1736;X1;K11351
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Sacred Scorpion - LV110"
+C;X4;K"Behemoth's Lair"
+C;Y1737;X1;K11352
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Necro Scorpion - LV110"
+C;X4;K"Behemoth's Lair"
+C;Y1738;X1;K11353
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Camouflage Spider - LV110"
+C;X4;K"Behemoth's Lair"
+C;Y1739;X1;K11354
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Divine Beetle-LV110"
+C;X4;K"Behemoth's Lair"
+C;Y1740;X1;K11355
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Sacred Beetle Queen - LV110"
+C;X4;K"Behemoth's Lair"
+C;Y1741;X1;K11361
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Anubis Soul - LV110"
+C;X4;K"Maze of Mystery"
+C;Y1742;X1;K11362
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Trogg Ant - LV110"
+C;X4;K"Maze of Mystery"
+C;Y1743;X1;K11363
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Mitos - LV110"
+C;X4;K"Maze of Mystery"
+C;Y1744;X1;K11364
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Mitos Warrior-LV110"
+C;X4;K"Maze of Mystery"
+C;Y1745;X1;K11365
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Mummy - LV110"
+C;X4;K"Maze of Mystery"
+C;Y1746;X1;K11371
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Undead's Eyes - LV110"
+C;X4;K"Hexagram Array"
+C;Y1747;X1;K11372
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Earth Element - LV110"
+C;X4;K"Hexagram Array"
+C;Y1748;X1;K11373
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Morris - LV110"
+C;X4;K"Hexagram Array"
+C;Y1749;X1;K11374
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Grand Morris-LV110"
+C;X4;K"Hexagram Array"
+C;Y1750;X1;K11375
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Mummy - LV110"
+C;X4;K"Hexagram Array"
+C;Y1751;X1;K11391
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Maiden Spirit - LV120"
+C;X4;K"Queen's Catacomb"
+C;Y1752;X1;K11392
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Wraith-LV120"
+C;X4;K"Queen's Catacomb"
+C;Y1753;X1;K11393
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Undead - LV120"
+C;X4;K"Queen's Catacomb"
+C;Y1754;X1;K11394
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Orbus-LV120"
+C;X4;K"Queen's Catacomb"
+C;Y1755;X1;K11395
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Undead Guardian - LV120"
+C;X4;K"Queen's Catacomb"
+C;Y1756;X1;K11401
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Sacred Scorpion - LV120"
+C;X4;K"Behemoth's Lair"
+C;Y1757;X1;K11402
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Necro Scorpion - LV120"
+C;X4;K"Behemoth's Lair"
+C;Y1758;X1;K11403
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Camouflage Spider - LV120"
+C;X4;K"Behemoth's Lair"
+C;Y1759;X1;K11404
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Divine Beetle-LV120"
+C;X4;K"Behemoth's Lair"
+C;Y1760;X1;K11405
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Sacred Beetle Queen - LV120"
+C;X4;K"Behemoth's Lair"
+C;Y1761;X1;K11411
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Anubis Soul - LV120"
+C;X4;K"Maze of Mystery"
+C;Y1762;X1;K11412
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Trogg Ant - LV120"
+C;X4;K"Maze of Mystery"
+C;Y1763;X1;K11413
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Mitos - LV120"
+C;X4;K"Maze of Mystery"
+C;Y1764;X1;K11414
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Mitos Warrior-LV120"
+C;X4;K"Maze of Mystery"
+C;Y1765;X1;K11415
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Mummy - LV120"
+C;X4;K"Maze of Mystery"
+C;Y1766;X1;K11421
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Undead's Eyes - LV120"
+C;X4;K"Hexagram Array"
+C;Y1767;X1;K11422
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Earth Element - LV120"
+C;X4;K"Hexagram Array"
+C;Y1768;X1;K11423
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Morris - LV120"
+C;X4;K"Hexagram Array"
+C;Y1769;X1;K11424
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Grand Morris-LV120"
+C;X4;K"Hexagram Array"
+C;Y1770;X1;K11425
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Mummy - LV120"
+C;X4;K"Hexagram Array"
+C;Y1771;X1;K11441
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Maiden Spirit - LV125"
+C;X4;K"Queen's Catacomb"
+C;Y1772;X1;K11442
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Wraith-LV125"
+C;X4;K"Queen's Catacomb"
+C;Y1773;X1;K11443
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Undead - LV125"
+C;X4;K"Queen's Catacomb"
+C;Y1774;X1;K11444
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Orbus-LV125"
+C;X4;K"Queen's Catacomb"
+C;Y1775;X1;K11445
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Undead Guardian - LV125"
+C;X4;K"Queen's Catacomb"
+C;Y1776;X1;K11451
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Sacred Scorpion - LV125"
+C;X4;K"Behemoth's Lair"
+C;Y1777;X1;K11452
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Necro Scorpion - LV125"
+C;X4;K"Behemoth's Lair"
+C;Y1778;X1;K11453
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Camouflage Spider - LV125"
+C;X4;K"Behemoth's Lair"
+C;Y1779;X1;K11454
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Divine Beetle-LV125"
+C;X4;K"Behemoth's Lair"
+C;Y1780;X1;K11455
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Sacred Beetle Queen - LV125"
+C;X4;K"Behemoth's Lair"
+C;Y1781;X1;K11461
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Anubis Soul - LV125"
+C;X4;K"Maze of Mystery"
+C;Y1782;X1;K11462
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Trogg Ant - LV125"
+C;X4;K"Maze of Mystery"
+C;Y1783;X1;K11463
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Mitos - LV125"
+C;X4;K"Maze of Mystery"
+C;Y1784;X1;K11464
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Mitos Warrior-LV125"
+C;X4;K"Maze of Mystery"
+C;Y1785;X1;K11465
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Mummy - LV125"
+C;X4;K"Maze of Mystery"
+C;Y1786;X1;K11471
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Undead's Eyes - LV125"
+C;X4;K"Hexagram Array"
+C;Y1787;X1;K11472
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Earth Element - LV125"
+C;X4;K"Hexagram Array"
+C;Y1788;X1;K11473
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Morris - LV125"
+C;X4;K"Hexagram Array"
+C;Y1789;X1;K11474
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Grand Morris-LV125"
+C;X4;K"Hexagram Array"
+C;Y1790;X1;K11475
+C;X2;K"Script\HuoDong\HD-jinzita-M-Allmonsters.s"
+C;X3;K"Mummy - LV125"
+C;X4;K"Hexagram Array"
+C;Y1792;X1;K11536
+C;X2;K"Script\HuoDong\HD-jinzita-M-B-mafa.s"
+C;X3;K"Warden Farma"
+C;X4;K"Corridor of Death"
+C;Y1793;X1;K11537
+C;X2;K"Script\HuoDong\HD-jinzita-M-B-mafa.s"
+C;X3;K"Warden Farma"
+C;X4;K"Corridor of Death"
+C;Y1794;X1;K11538
+C;X2;K"Script\HuoDong\HD-jinzita-M-B-mafa.s"
+C;X3;K"Warden Farma"
+C;X4;K"Corridor of Death"
+C;Y1795;X1;K11539
+C;X2;K"Script\HuoDong\HD-jinzita-M-B-mafa.s"
+C;X3;K"Warden Farma"
+C;X4;K"Corridor of Death"
+C;Y1796;X1;K11540
+C;X2;K"Script\HuoDong\HD-jinzita-M-B-mafa.s"
+C;X3;K"Warden Farma"
+C;X4;K"Corridor of Death"
+C;Y1797;X1;K11541
+C;X2;K"Script\HuoDong\HD-jinzita-M-B-mafa.s"
+C;X3;K"Warden Farma"
+C;X4;K"Corridor of Death"
+C;Y1799;X1;K11542
+C;X2;K"Script\HuoDong\HD-jinzita-M-B-faliao.s"
+C;X3;K"Devilworm Falio"
+C;X4;K"Pharaoh's Throne"
+C;Y1800;X1;K11543
+C;X2;K"Script\HuoDong\HD-jinzita-M-B-faliao.s"
+C;X3;K"Devilworm Falio"
+C;X4;K"Pharaoh's Throne"
+C;Y1801;X1;K11544
+C;X2;K"Script\HuoDong\HD-jinzita-M-B-faliao.s"
+C;X3;K"Devilworm Falio"
+C;X4;K"Pharaoh's Throne"
+C;Y1802;X1;K11545
+C;X2;K"Script\HuoDong\HD-jinzita-M-B-faliao.s"
+C;X3;K"Devilworm Falio"
+C;X4;K"Pharaoh's Throne"
+C;Y1803;X1;K11546
+C;X2;K"Script\HuoDong\HD-jinzita-M-B-faliao.s"
+C;X3;K"Devilworm Falio"
+C;X4;K"Pharaoh's Throne"
+C;Y1804;X1;K11547
+C;X2;K"Script\HuoDong\HD-jinzita-M-B-faliao.s"
+C;X3;K"Devilworm Falio"
+C;X4;K"Pharaoh's Throne"
+C;Y1806;X1;K11548
+C;X2;K"Script\HuoDong\HD-jinzita-M-11548-B-A1.S"
+C;X3;K"Shadow of the Past - Queen's Shadow"
+C;X4;K"Shadow of the Past"
+C;Y1807;X1;K11549
+C;X2;K"Script\HuoDong\HD-jinzita-M-11549-B-A2.S"
+C;X3;K"Shadow of the Past - Molmes"
+C;X4;K"Shadow of the Past"
+C;Y1808;X1;K11550
+C;X2;K"Script\HuoDong\HD-jinzita-M-11550-B-A3.S"
+C;X3;K"Shadow of the Past - Prince Arbyss"
+C;X4;K"Shadow of the Past"
+C;Y1809;X1;K11551
+C;X2;K"Script\HuoDong\HD-jinzita-M-11551-B-A4.S"
+C;X3;K"Shadow of the Past - Arch Heretic Britacesk"
+C;X4;K"Shadow of the Past"
+C;Y1810;X1;K11553
+C;X2;K"Script\HuoDong\HD-jinzita-M-11553-B-A5.S"
+C;X3;K"Shadow of the Past - Warden Farma"
+C;X4;K"Shadow of the Past"
+C;Y1811;X1;K11554
+C;X2;K"Script\HuoDong\HD-jinzita-M-11554-B-A6.S"
+C;X3;K"Shadow of the Past - Devilworm Falio"
+C;X4;K"Shadow of the Past"
+C;Y1813;X1;K11555
+C;X2;K"Script\HuoDong\HD-jinzita-M-11555-B-B1.S"
+C;X3;K"Legend of the Secret Room - Queen's Shadow"
+C;X4;K"Legend of the Secret Room"
+C;Y1814;X1;K11556
+C;X2;K"Script\HuoDong\HD-jinzita-M-11556-B-B2.S"
+C;X3;K"Legend of the Secret Room - Molmes"
+C;X4;K"Legend of the Secret Room"
+C;Y1815;X1;K11557
+C;X2;K"Script\HuoDong\HD-jinzita-M-11557-B-B3.S"
+C;X3;K"Legend of the Secret Room - Prince Arbyss"
+C;X4;K"Legend of the Secret Room"
+C;Y1816;X1;K11558
+C;X2;K"Script\HuoDong\HD-jinzita-M-11558-B-B4.S"
+C;X3;K"Legend of the Secret Room - Arch Heretic Britacesk"
+C;X4;K"Legend of the Secret Room"
+C;Y1817;X1;K11560
+C;X2;K"Script\HuoDong\HD-jinzita-M-11560-B-B5.S"
+C;X3;K"Legend of the Secret Room - Warden Farma"
+C;X4;K"Legend of the Secret Room"
+C;Y1818;X1;K11561
+C;X2;K"Script\HuoDong\HD-jinzita-M-11561-B-B6.S"
+C;X3;K"Legend of the Secret Room - Devilworm Falio"
+C;X4;K"Legend of the Secret Room"
+C;Y1820;X1;K11562
+C;X2;K"Script\HuoDong\HD-jinzita-M-11562-C-1A.S"
+C;X3;K"Queen's Chamber - Golden Chest"
+C;Y1821;X1;K11563
+C;X2;K"Script\HuoDong\HD-jinzita-M-11563-C-1B.S"
+C;X3;K"Queen's Chamber - Silver Chest"
+C;Y1822;X1;K11564
+C;X2;K"Script\HuoDong\HD-jinzita-M-11564-C-2A.S"
+C;X3;K"Behemoth's Lair - Golden Chest"
+C;Y1823;X1;K11565
+C;X2;K"Script\HuoDong\HD-jinzita-M-11565-C-2B.S"
+C;X3;K"Behemoth's Lair - Silver Chest"
+C;Y1824;X1;K11566
+C;X2;K"Script\HuoDong\HD-jinzita-M-11566-C-3A.S"
+C;X3;K"Maze of Mystery - Golden Chest"
+C;Y1825;X1;K11567
+C;X2;K"Script\HuoDong\HD-jinzita-M-11567-C-3B.S"
+C;X3;K"Maze of Mystery - Silver Chest"
+C;Y1826;X1;K11568
+C;X2;K"Script\HuoDong\HD-jinzita-M-11568-C-4A.S"
+C;X3;K"Hexagram Array - Golden Chest"
+C;Y1827;X1;K11569
+C;X2;K"Script\HuoDong\HD-jinzita-M-11569-C-4B.S"
+C;X3;K"Hexagram Array - Silver Chest"
+C;Y1828;X1;K11570
+C;X2;K"Script\HuoDong\HD-jinzita-M-11570-C-5A.S"
+C;X3;K"Corridor of Death - Golden Chest"
+C;Y1829;X1;K11571
+C;X2;K"Script\HuoDong\HD-jinzita-M-11571-C-5B.S"
+C;X3;K"Corridor of Death - Silver Chest"
+C;Y1830;X1;K11572
+C;X2;K"Script\HuoDong\HD-jinzita-M-11572-C-6A.S"
+C;X3;K"Pharaoh's Throne - Golden Chest"
+C;Y1831;X1;K11573
+C;X2;K"Script\HuoDong\HD-jinzita-M-11573-C-6B.S"
+C;X3;K"Pharaoh's Throne - Silver Chest"
+C;Y1832;X1;K11574
+C;X2;K"Script\HuoDong\HD-jinzita-M-11574-C-7A.S"
+C;X3;K"Legend of the Secret Room - Golden Chest"
+C;Y1833;X1;K11575
+C;X2;K"Script\HuoDong\HD-jinzita-M-11575-C-7B.S"
+C;X3;K"Legend of the Secret Room - Silver Chest"
+C;Y1834;X1;K11576
+C;X2;K"Script\HuoDong\HD-jinzita-M-11576-C-8A.S"
+C;X3;K"Shadow of the Past - Golden Chest"
+C;Y1835;X1;K11577
+C;X2;K"Script\HuoDong\HD-jinzita-M-11577-C-8B.S"
+C;X3;K"Shadow of the Past - Silver Chest"
+C;Y1837;X1;K11590
+C;X2;K"Script\HuoDong\HD-jinzita-M-11590-C-1C.S"
+C;X3;K"Queen's Chamber - Golden Chest"
+C;Y1838;X1;K11591
+C;X2;K"Script\HuoDong\HD-jinzita-M-11591-C-2C.S"
+C;X3;K"Behemoth's Lair - Golden Chest"
+C;Y1839;X1;K11592
+C;X2;K"Script\HuoDong\HD-jinzita-M-11592-C-3C.S"
+C;X3;K"Maze of Mystery - Golden Chest"
+C;Y1840;X1;K11593
+C;X2;K"Script\HuoDong\HD-jinzita-M-11593-C-4C.S"
+C;X3;K"Hexagram Array - Golden Chest"
+C;Y1841;X1;K11594
+C;X2;K"Script\HuoDong\HD-jinzita-M-11594-C-5C.S"
+C;X3;K"Corridor of Death - Golden Chest"
+C;Y1842;X1;K11595
+C;X2;K"Script\HuoDong\HD-jinzita-M-11595-C-6C.S"
+C;X3;K"Pharaoh's Throne - Golden Chest"
+C;Y1844;X1;K32463
+C;X2;K"Script\Ectype\Crystal\32463-3dead.s"
+C;X3;K"Quartz Grotto"
+C;Y1845;X1;K32465
+C;X2;K"Script\Ectype\Crystal\32465-axina-dead.s"
+C;X3;K"Quartz Grotto"
+C;Y1846;X1;K32467
+C;X2;K"Script\Ectype\Crystal\32467-axia-dead.s"
+C;X3;K"Quartz Grotto"
+C;Y1847;X1;K32471
+C;X2;K"Script\Ectype\Crystal\32471-2dead.s"
+C;X3;K"Quartz Grotto"
+C;Y1848;X1;K32482
+C;X2;K"Script\Ectype\Crystal\32482-21dead.s"
+C;X3;K"Quartz Grotto"
+C;Y1849;X1;K32485
+C;X2;K"Script\Ectype\Crystal\32485-4dead.s"
+C;X3;K"Quartz Grotto"
+C;Y1850;X1;K32486
+C;X2;K"Script\Ectype\Crystal\32486cry-31dead.s"
+C;X3;K"Quartz Grotto"
+C;Y1851;X1;K32505
+C;X2;K"Script\Ectype\Crystal\32505-baoxiang-dead.s"
+C;X3;K"Quartz Grotto"
+C;Y1852;X1;K32517
+C;X2;K"Script\Ectype\Crystal\32517-21dead.s"
+C;X3;K"Quartz Grotto"
+C;Y1853;X1;K32518
+C;X2;K"Script\Ectype\Crystal\32518-22dead.s"
+C;X3;K"Quartz Grotto"
+C;Y1854;X1;K32525
+C;X2;K"Script\Ectype\Crystal\32525cry1dead.s"
+C;X3;K"Quartz Grotto"
+C;Y1855;X1;K32478
+C;X2;K"Script\Ectype\Crystal\dead_32478_gear_ice.s"
+C;X3;K"Quartz Grotto"
+C;Y1856;X1;K32479
+C;X2;K"Script\Ectype\Crystal\dead_32479_gear_fire.s"
+C;X3;K"Quartz Grotto"
+C;Y1857;X1;K32495
+C;X2;K"Script\Ectype\Crystal\dead_32495_gear_ice.s"
+C;X3;K"Quartz Grotto"
+C;Y1858;X1;K32496
+C;X2;K"Script\Ectype\Crystal\dead_32496_gear_fire.s"
+C;X3;K"Quartz Grotto"
+C;Y1859;X1;K32500
+C;X2;K"Script\Ectype\Crystal\dead_32500_mon_huoyanzhizhu.s"
+C;X3;K"Quartz Grotto"
+C;Y1860;X1;K32508
+C;X2;K"Script\Ectype\Crystal\dead_32508_gear_ture.s"
+C;X3;K"Quartz Grotto"
+C;Y1861;X1;K32510
+C;X2;K"Script\Ectype\Crystal\dead_32510_mon_bingshuangzhixin.s"
+C;X3;K"Quartz Grotto"
+C;Y1862;X1;K32512
+C;X2;K"Script\Ectype\Crystal\dead_32512_mon_fenshen.s"
+C;X3;K"Quartz Grotto"
+C;Y1863;X1;K32513
+C;X2;K"Script\Ectype\Crystal\dead_32513_gear_false.s"
+C;X3;K"Quartz Grotto"
+C;Y1864;X1;K32524
+C;X2;K"Script\Ectype\Crystal\dead_32524_mon_dengshen.s"
+C;X3;K"Quartz Grotto"
+C;Y1865;X1;K32484
+C;X2;K"Script\Ectype\Crystal\32525cry1dead.s"
+C;X3;K"Quartz Grotto"
+C;Y1866;X1;K32506
+C;X2;K"Script\Ectype\Crystal\32506cry1dead.s"
+C;X3;K"Quartz Grotto"
+C;Y1867;X1;K32468
+C;X2;K"Script\Ectype\Crystal\32471-2dead.s"
+C;X3;K"Quartz Grotto"
+C;Y1868;X1;K32464
+C;X2;K"Script\Ectype\Crystal\32464-boss2-dead.s"
+C;X3;K"Quartz Grotto"
+C;Y1869;X1;K32488
+C;X2;K"Script\Ectype\Crystal\dead_32488_mon_2var.s"
+C;X3;K"Quartz Grotto"
+C;Y1870;X1;K32497
+C;X2;K"Script\Ectype\Crystal\dead_32497_mon_2var.s"
+C;X3;K"Quartz Grotto"
+C;Y1871;X1;K32498
+C;X2;K"Script\Ectype\Crystal\dead_32498_mon_2var.s"
+C;X3;K"Quartz Grotto"
+C;Y1872;X1;K32499
+C;X2;K"Script\Ectype\Crystal\dead_32499_mon_1var.s"
+C;X3;K"Quartz Grotto"
+C;Y1873;X1;K32503
+C;X2;K"Script\Ectype\Crystal\dead_32503_mon_1var.s"
+C;X3;K"Quartz Grotto"
+C;Y1874;X1;K32515
+C;X2;K"Script\Ectype\Crystal\dead_32515_mon_1var.s"
+C;X3;K"Quartz Grotto"
+C;Y1875;X1;K32529
+C;X2;K"Script\Ectype\Crystal\dead_32529_mon_1var.s"
+C;X3;K"Quartz Grotto"
+C;Y1876;X1;K32530
+C;X2;K"Script\Ectype\Crystal\dead_32530_mon_2var.s"
+C;X3;K"Quartz Grotto"
+C;Y1877;X1;K32504
+C;X2;K"Script\Ectype\Crystal\dead_32504_mon_1var.s"
+C;X3;K"Quartz Grotto"
+C;Y1878;X1;K32473
+C;X2;K"Script\Ectype\Crystal\dead_32473_mon_3var.s"
+C;X3;K"Quartz Grotto"
+C;Y1879;X1;K32514
+C;X2;K"Script\Ectype\Crystal\dead_32512_mon_fenshen.s"
+C;X3;K"Quartz Grotto"
+C;Y1880;X1;K32534
+C;X2;K"Script\Ectype\Crystal\dead_32504_mon_1var.s"
+C;X3;K"Quartz Grotto"
+C;Y1881;X1;K32536
+C;X2;K"Script\Ectype\Crystal\monster-32536-hot.s"
+C;X3;K"Warm Crystal"
+C;Y1882;X1;K32537
+C;X2;K"Script\Ectype\Crystal\monster-32537-cold.s"
+C;X3;K"Cold Crystal"
+C;Y1883;X1;K32466
+C;X2;K"Script\Ectype\Crystal\32466-boss4-dead.s"
+C;X3;K"Hidden Boss"
+C;Y1884;X1;K32545
+C;X2;K"Script\Ectype\Crystal\32545_mon_boss-yc.s"
+C;X3;K"Hidden Boss Summon"
+C;Y1887;X1;K53307
+C;X2;K"Script\Monster\Monster-53307.s"
+C;X3;K"N/A??BOSS????"
+C;Y1888;X1;K53308
+C;X2;K"Script\Monster\Monster-53308.s"
+C;X3;K"Astral Chest Loot"
+C;Y1889;X1;K32551
+C;X2;K"Script\HuoDong\201306shuangzi\caidan-Monster-32551.s"
+C;X3;K"Dim Easter Egg"
+C;Y1890;X1;K32552
+C;X2;K"Script\HuoDong\201306shuangzi\caidan-Monster-32552.s"
+C;X3;K"Common Easter Egg"
+C;Y1891;X1;K32553
+C;X2;K"Script\HuoDong\201306shuangzi\caidan-Monster-32553.s"
+C;X3;K"Special Easter Egg"
+C;Y1892;X1;K32554
+C;X2;K"Script\HuoDong\201306shuangzi\caidan-Monster-32554.s"
+C;X3;K"Amazing Easter Egg"
+C;Y1893;X1;K32555
+C;X2;K"Script\HuoDong\201306shuangzi\caidan-Monster-32555.s"
+C;X3;K"Glittering Easter Egg"
+C;Y1895;X1;K32546
+C;X2;K"Script\HuoDong\201306shuangzi\monster_32546.s"
+C;X3;K"Darkness under Light"
+C;Y1896;X1;K32547
+C;X2;K"Script\HuoDong\201306shuangzi\monster_32546.s"
+C;X3;K"Darkness under Light"
+C;Y1897;X1;K32548
+C;X2;K"Script\HuoDong\201306shuangzi\monster_32546.s"
+C;X3;K"Darkness under Light"
+C;Y1898;X1;K32549
+C;X2;K"Script\HuoDong\201306shuangzi\monster_32546.s"
+C;X3;K"Darkness under Light"
+C;Y1899;X1;K32550
+C;X2;K"Script\HuoDong\201306shuangzi\monster_32546.s"
+C;X3;K"Darkness under Light"
+C;Y1901;X1;K32556
+C;X2;K"Script\HuoDong\201306shuangzi\hermos-andanbaoxiang.s"
+C;X3;K"Dim Chest"
+C;Y1902;X1;K32557
+C;X2;K"Script\HuoDong\201306shuangzi\hermos-putongbaoxiang.s"
+C;X3;K"Common Chest"
+C;Y1903;X1;K32558
+C;X2;K"Script\HuoDong\201306shuangzi\hermos-tebiebaoxiang.s"
+C;X3;K"Special Chest"
+C;Y1904;X1;K32559
+C;X2;K"Script\HuoDong\201306shuangzi\hermos-xuanlibaoxiang.s"
+C;X3;K"Amazing Chest"
+C;Y1905;X1;K32560
+C;X2;K"Script\HuoDong\201306shuangzi\hermos-jinguangshanshanbaoxiang.s"
+C;X3;K"Glittering Chest"
+C;Y1906;X1;K32568
+C;X2;K"Script\HuoDong\201306shuangzi\monster-32568.s"
+C;X3;K"Twin Chests - Light"
+C;Y1907;X1;K32569
+C;X2;K"Script\HuoDong\201306shuangzi\monster-32569.s"
+C;X3;K"Twin Chests - Shadow"
+C;Y1909;X1;K55390
+C;X2;K"Script\HuoDong\kuaYQ\Monster-55390.s"
+C;X3;K"Interserver Tournament Boss Loot"
+C;Y1910;X1;K32580
+C;X2;K"Script\HuoDong\201307juxie\dead_32580_baoxiang.s"
+C;X3;K"Phantom Chest"
+E

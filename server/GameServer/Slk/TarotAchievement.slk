@@ -1,0 +1,338 @@
+ID;PWXL;N;E
+P;PGeneral
+P;P0
+P;P0.00
+P;P#,##0
+P;P#,##0.00
+P;P#,##0;;\-#,##0
+P;P#,##0;;[Red]\-#,##0
+P;P#,##0.00;;\-#,##0.00
+P;P#,##0.00;;[Red]\-#,##0.00
+P;P"$"#,##0;;"$"\-#,##0
+P;P"$"#,##0;;[Red]"$"\-#,##0
+P;P"$"#,##0.00;;"$"\-#,##0.00
+P;P"$"#,##0.00;;[Red]"$"\-#,##0.00
+P;P0%
+P;P0.00%
+P;P0.00E+00
+P;P##0.0E+0
+P;P#\ ?/?
+P;P#\ ??/??
+P;Pyyyy/m/d
+P;Pd\-mmm\-yy
+P;Pd\-mmm
+P;Pmmm\-yy
+P;Ph:mm\ AM/PM
+P;Ph:mm:ss\ AM/PM
+P;Ph:mm
+P;Ph:mm:ss
+P;Pyyyy/m/d\ h:mm
+P;Pmm:ss
+P;Pmm:ss.0
+P;P@
+P;P[h]:mm:ss
+P;P_ "$"* #,##0_ ;;_ "$"* \-#,##0_ ;;_ "$"* "-"_ ;;_ @_ 
+P;P_ * #,##0_ ;;_ * \-#,##0_ ;;_ * "-"_ ;;_ @_ 
+P;P_ "$"* #,##0.00_ ;;_ "$"* \-#,##0.00_ ;;_ "$"* "-"??_ ;;_ @_ 
+P;P_ * #,##0.00_ ;;_ * \-#,##0.00_ ;;_ * "-"??_ ;;_ @_ 
+P;P\$#,##0_);;\(\$#,##0\)
+P;P\$#,##0_);;[Red]\(\$#,##0\)
+P;P\$#,##0.00_);;\(\$#,##0.00\)
+P;P\$#,##0.00_);;[Red]\(\$#,##0.00\)
+P;Pm/d/yy
+P;Pyyyy"?"m"?"d"?"
+P;Ph"?"mm"?"
+P;Ph"?"mm"?"ss"?"
+P;Pyyyy"?"m"?"
+P;Pm"?"d"?"
+P;P??/??h"?"mm"?"
+P;P??/??h"?"mm"?"ss"?"
+P;Pd/mmm/yy
+P;Pd/mmm
+P;Pmmm/yy
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;F??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M240
+P;E??;M180
+F;P0;DG0G8;M285
+B;Y31;X8;D0 0 30 7
+O;L;S;D;V0;K47;T0;G100 0.001
+F;W1 1 10
+F;W2 2 35
+F;W3 3 103
+F;W4 4 15
+F;W5 5 24
+F;W6 6 14
+F;W7 7 12
+F;W8 8 16
+C;Y1;X1;AMC SYSTEM: :????128?
+C;X4;AMC SYSTEM: :0????,1????,2???,3???
+C;X1;K"Achievement ID"
+C;X2;K"Achievement Icon"
+C;X3;K"Achievement Intro"
+C;X4;K"Complete Qualification I"
+C;X5;K"Complete Qualification II"
+C;X6;K"Achievement Award ID"
+C;X7;K"Achievement Award Amount"
+C;X8;K"Achievement Award Intro"
+C;Y2;X1;K"AchievementID"
+C;X2;K"AchievementIcon"
+C;X3;K"AchievementInfo"
+C;X4;K"AchievementReq1"
+C;X5;K"AchievementReq2"
+C;X6;K"AwardItem"
+C;X7;K"AwardNum"
+C;X8;K"AwardInfo"
+C;Y3;X1;K1
+C;X2;K"UI\Icon\Card\tarot_tong_1.dds"
+C;X3;K"{#FFFFD323=First Bronze Card#}\nAcquire your first Bronze Card."
+C;X4;K"1;;1"
+C;X5;K0
+C;X6;K8
+C;X7;K10
+C;X8;K"{#ffebcd75=Used to Fortify Gear.#}"
+C;Y4;X1;K2
+C;X2;K"UI\Icon\Card\tarot_tong_10.dds"
+C;X3;K"{#FFFFD323=10th Bronze Card#}\nAcquire your 10th Bronze Card."
+C;X4;K"1;;10"
+C;X5;K0
+C;X6;K64405
+C;X7;K5
+C;X8;K"{#ffebcd75=Grants 30 min. of Double\nEXP time.#}"
+C;Y5;X1;K3
+C;X2;K"UI\Icon\Card\tarot_tong_100.dds"
+C;X3;K"{#FFFFD323=100th Bronze Card#}\nAcquire your 100th Bronze Card."
+C;X4;K"1;;100"
+C;X5;K0
+C;X6;K2221
+C;X7;K5
+C;X8;K"{#ffebcd75=Assists when Fortifying\nGear.#}"
+C;Y6;X1;K4
+C;X2;K"UI\Icon\Card\tarot_tong_500.dds"
+C;X3;K"{#FFFFD323=500th Bronze Card#}\nAcquire your 500th Bronze Card."
+C;X4;K"1;;500"
+C;X5;K0
+C;X6;K59840
+C;X7;K1
+C;X8;K"{#ffebcd75=Can be traded with Jule in\nAtlantis for a bound LV4\nGem of any type.#}"
+C;Y7;X1;K5
+C;X2;K"UI\Icon\Card\tarot_yin_1.dds"
+C;X3;K"{#FFFFD323=First Silver Card#}\nAcquire your first Silver Card."
+C;X4;K"2;;1"
+C;X5;K0
+C;X6;K2337
+C;X7;K1
+C;X8;K"{#ffebcd75=Fortifies a piece of +6 Gear\nto +7.#}"
+C;Y8;X1;K6
+C;X2;K"UI\Icon\Card\tarot_yin_10.dds"
+C;X3;K"{#FFFFD323=10th Silver Card#}\nAcquire your 10th Silver Card."
+C;X4;K"2;;10"
+C;X5;K0
+C;X6;K5631
+C;X7;K1
+C;X8;K"{#ffebcd75=Can be embedded in the\nCosmos to increase the\nlevel of a Cosmos Skill.#}"
+C;Y9;X1;K7
+C;X2;K"UI\Icon\Card\tarot_yin_100.dds"
+C;X3;K"{#FFFFD323=100th Silver Card#}\nAcquire your 100th Silver Card."
+C;X4;K"2;;100"
+C;X5;K0
+C;X6;K5632
+C;X7;K1
+C;X8;K"{#ffebcd75=Can be embedded in the\nCosmos to increase the\nlevel of a Cosmos Skill.#}"
+C;Y10;X1;K8
+C;X2;K"UI\Icon\Card\tarot_jin_1.dds"
+C;X3;K"{#FFFFD323=First Gold Card#}\nAcquire your first Gold Card."
+C;X4;K"3;;1"
+C;X5;K0
+C;X6;K64482
+C;X7;K1
+C;X8;K"{#ffebcd75=Increases your Fate EnergyLimit by 10.#}"
+C;Y11;X1;K9
+C;X2;K"UI\Icon\Card\tarot_jin_10.dds"
+C;X3;K"{#FFFFD323=10th Gold Card#}\nAcquire your 10th Gold Card."
+C;X4;K"3;;10"
+C;X5;K0
+C;X6;K64482
+C;X7;K1
+C;X8;K"{#ffebcd75=Increases your Fate EnergyLimit by 10.#}"
+C;Y12;X1;K10
+C;X2;K"UI\Icon\Card\tarot_suoyou_100.dds"
+C;X3;K"{#FFFFD323=100th Card#}\nAcquire your 100th Fate Card."
+C;X4;K"0;;100"
+C;X5;K0
+C;X6;K64481
+C;X7;K1
+C;X8;K"{#ffebcd75=Unlocks your next Fate\nCard Slot.#}"
+C;Y13;X1;K11
+C;X2;K"UI\Icon\Card\tarot_suoyou_500.dds"
+C;X3;K"{#FFFFD323=500th Card#}\nAcquire your 500th Fate Card."
+C;X4;K"0;;500"
+C;X5;K0
+C;X6;K64481
+C;X7;K1
+C;X8;K"{#ffebcd75=Unlocks your next Fate\nCard Slot.#}"
+C;Y14;X1;K12
+C;X2;K"UI\Icon\Card\tarot_suoyou_1000.dds"
+C;X3;K"{#FFFFD323=1000th Card#}\nAcquire your 1000th Fate Card."
+C;X4;K"0;;1000"
+C;X5;K0
+C;X6;K64481
+C;X7;K1
+C;X8;K"{#ffebcd75=Unlocks your next Fate\nCard Slot.#}"
+C;Y15;X1;K13
+C;X2;K"UI\Icon\Card\tarot_ytldshy.dds"
+C;X3;K"{#FFFFD323=Sea of Atlantis#}\nAcquire Bronze Cards from all monsters in\nSea of Atlantis, Atlantic Ocean, Bermuda\nIslands, and Great Abyss."
+C;X4;K0
+C;X5;K"114;;115;;116;;117;;118;;119;;120;;121;;122;;123;;124;;125;;126;;127;;128;;129;;130;;131;;132;;133;;134;;135;;136;;137;;217;;218;;219"
+C;X6;K64350
+C;X7;K1
+C;X8;K"{#ffebcd75=Grants your character an\nadditional 5 points of\nPotential.#}"
+C;Y16;X1;K14
+C;X2;K"UI\Icon\Card\tarot_fhd.dds"
+C;X3;K"{#FFFFD323=Easter Island#}\nAcquire Bronze Cards from all monsters in\nEaster Island North and South."
+C;X4;K0
+C;X5;K"242;;243;;244;;245;;246;;247"
+C;X6;K64350
+C;X7;K1
+C;X8;K"{#ffebcd75=Grants your character an\nadditional 5 points of\nPotential.#}"
+C;Y17;X1;K15
+C;X2;K"UI\Icon\Card\tarot_rymj.dds"
+C;X3;K"{#FFFFD323=Aegean#}\nAcquire Bronze Cards from all monsters in\nAegean North, Proper, and South."
+C;X4;K0
+C;X5;K"230;;231;;232;;234;;235;;236;;237;;238"
+C;X6;K64350
+C;X7;K1
+C;X8;K"{#ffebcd75=Grants your character an\nadditional 5 points of\nPotential.#}"
+C;Y18;X1;K16
+C;X2;K"UI\Icon\Card\tarot_ldzm.dds"
+C;X3;K"{#FFFFD323=Myth of Dragon Emperor#}\nAcquire Bronze Cards from all monsters in\nDragon Emperor's Catacomb and Dragon\nEmperor's Crypt."
+C;X4;K0
+C;X5;K"105;;106;;107;;109;;220;;221;;222;;223;;224;;225;;226;;227;;228;;229"
+C;X6;K64350
+C;X7;K1
+C;X8;K"{#ffebcd75=Grants your character an\nadditional 5 points of\nPotential.#}"
+C;Y19;X1;K17
+C;X2;K"UI\Icon\Card\tarot_mydl.dds"
+C;X3;K"{#FFFFD323=Moya Continent#}\nAcquire Bronze Cards from all monsters in\nViking Steppe, Nordic Lands, and\nDwarves' Forest."
+C;X4;K0
+C;X5;K"196;;197;;198;;199;;200;;201;;202;;203;;204;;205;;206;;207;;208;;209;;210;;211;;212;;213;;214;;215;;216"
+C;X6;K64350
+C;X7;K1
+C;X8;K"{#ffebcd75=Grants your character an\nadditional 5 points of\nPotential.#}"
+C;Y20;X1;K18
+C;X2;K"UI\Icon\Card\tarot_ajwm.dds"
+C;X3;K"{#FFFFD323=Egyptian Civilization#}\nAcquire Bronze Cards from all monsters in\nNile River West, Khufu Desert, and King's\nGorge."
+C;X4;K0
+C;X5;K"138;;139;;140;;141;;142;;143;;144;;181;;182;;183;;184;;185;;186;;187;;188;;189;;190;;191;;192;;193;;194;;195"
+C;X6;K64350
+C;X7;K1
+C;X8;K"{#ffebcd75=Grants your character an\nadditional 5 points of\nPotential.#}"
+C;Y21;X1;K19
+C;X2;K"UI\Icon\Card\tarot_jhdk.dds"
+C;X3;K"{#FFFFD323=Soulbound Cave#}\nAcquire Bronze Cards from all monsters in\nSoulbound Cave Levels 1 and Level 2."
+C;X4;K0
+C;X5;K"170;;171;;172;;173;;174;;175;;176;;177;;178;;179;;180"
+C;X6;K64350
+C;X7;K1
+C;X8;K"{#ffebcd75=Grants your character an\nadditional 5 points of\nPotential.#}"
+C;Y22;X1;K20
+C;X2;K"UI\Icon\Card\tarot_mjzm.dds"
+C;X3;K"{#FFFFD323=Gate of Netherworld#}\nAcquire Bronze Cards from all monsters in\nBurning Land, Valley of Ashes, and Land\nof the Dead."
+C;X4;K0
+C;X5;K"275;;276;;277;;278;;279;;280;;281;;282;;283;;284;;285;;286;;287;;288;;289;;290;;291"
+C;X6;K64350
+C;X7;K1
+C;X8;K"{#ffebcd75=Grants your character an\nadditional 5 points of\nPotential.#}"
+C;Y23;X1;K21
+C;X2;K"UI\Icon\Card\tarot_jssy.dds"
+C;X3;K"{#FFFFD323=Rocky Abyss#}\nAcquire Bronze Cards from all monsters in\nRocky Abyss Levels 1 to 9."
+C;X4;K0
+C;X5;K"248;;249;;250;;251;;252;;253;;254;;255;;256;;257;;258;;259;;260;;261;;262;;263;;264;;265;;266;;267;;268;;269;;270;;271;;272;;273;;274"
+C;X6;K64350
+C;X7;K1
+C;X8;K"{#ffebcd75=Grants your character an\nadditional 5 points of\nPotential.#}"
+C;Y24;X1;K22
+C;X2;K"UI\Icon\Card\tarot_mayadalu.dds"
+C;X3;K"{#FFFFD323=Maya Continent#}\nAcquire Bronze Cards from all monsters in\nGrand Rift, Angkor Encampment, Angkor\nJungle, and Angkor Temple."
+C;X4;K0
+C;X5;K"239;;240;;241;;145;;146;;147;;148;;149;;150;;151;;152;;153;;154;;155;;156;;157;;158;;159;;160;;161;;162;;163;;164;;165;;166;;167;;168;;169"
+C;X6;K64350
+C;X7;K1
+C;X8;K"{#ffebcd75=Grants your character an\nadditional 5 points of\nPotential.#}"
+C;Y25;X1;K23
+C;X2;K"UI\Icon\Card\tarot_szgd.dds"
+C;X3;K"{#FFFFD323=Deity Realm#}\nAcquire Bronze Cards from all monsters in\nOlympus, Pantheon, Giant Kingdom, and\nDragon Lair."
+C;X4;K0
+C;X5;K"292;;293;;294;;295;;296;;297;;298;;299;;300;;301;;302;;303;;304;;305;;306;;307;;308;;309;;310;;311;;312;;313;;314"
+C;X6;K64350
+C;X7;K1
+C;X8;K"{#ffebcd75=Grants your character an\nadditional 5 points of\nPotential.#}"
+C;Y26;X1;K24
+C;X2;K"UI\Icon\Card\tarot_sxzd.dds"
+C;X3;K"{#FFFFD323=Dimensional Lands#}\nAcquire Bronze Cards from all monsters in\nObsidian Turtle's, Emerald Dragon's, and\nWhite Tiger's maps, and Killing Grounds."
+C;X4;K0
+C;X5;K"315;;316;;317;;318;;319;;320;;321;;322;;323;;324;;325;;326;;327;;328;;329;;330;;331;;332"
+C;X6;K64350
+C;X7;K1
+C;X8;K"{#ffebcd75=Grants your character an\nadditional 5 points of\nPotential.#}"
+C;Y27;X1;K25
+C;X2;K"UI\Icon\Card\tarot_smzz.dds"
+C;X3;K"{#FFFFD323=War of Immortals#}\nAcquire Bronze Cards from all monsters in\nElysium, Asgard, Twilight Battlefield, and\nHades' Temple."
+C;X4;K0
+C;X5;K"333;;334;;335;;336;;337;;338;;339;;340;;341;;342;;343;;344;;345;;346;;347;;348;;349;;350"
+C;X6;K64350
+C;X7;K1
+C;X8;K"{#ffebcd75=Grants your character an\nadditional 5 points of\nPotential.#}"
+C;Y28;X1;K26
+C;X2;K"UI\Icon\Card\tarot_sksl.dds"
+C;X3;K"{#FFFFD323=Chrono Chain#}\nAcquire Bronze Cards from all monsters in\nTwilight Zone and Sunken Atlantis."
+C;X4;K0
+C;X5;K"351;;352;;353;;354;;355;;356;;357;;358;;359"
+C;X6;K64350
+C;X7;K1
+C;X8;K"{#ffebcd75=Grants your character an\nadditional 5 points of\nPotential.#}"
+C;Y29;X1;K27
+C;X2;K"UI\Icon\Card\tarot_myjb.dds"
+C;X3;K"{#FFFFD323=Bonds of Fate#}\nAcquire Bronze Cards from all monsters in\nFate's Expanse and Titan Estate."
+C;X4;K0
+C;X5;K"360;;361;;362;;363;;364;;365;;366;;367"
+C;X6;K64350
+C;X7;K1
+C;X8;K"{#ffebcd75=Grants your character an\nadditional 5 points of\nPotential.#}"
+C;Y30;X1;K28
+C;X2;K"UI\Icon\Card\tarot_hjcs.dds"
+C;X3;K"{#FFFFD323=New Beginning#}\nAcquire Bronze Cards from all monsters in\nCelestial Spire, The Last Bastion, and\nInfernal Depths."
+C;X4;K0
+C;X5;K"368;;369;;370;;371;;372;;373;;374;;375;;376;;377;;378;;379"
+C;X6;K64350
+C;X7;K1
+C;X8;K"{#ffebcd75=Grants your character an\nadditional 5 points of\nPotential.#}"
+C;Y31;X1;K29
+C;X2;K"UI\Icon\Card\tarot_ljjq.dds"
+C;X3;K"{#FFFFD323=Loki's Rise#}\nAcquire Bronze Cards from all monsters in\nCrystal Realm and Grand Maelstrom."
+C;X4;K0
+C;X5;K"380;;381;;382;;383;;384;;385;;386;;387"
+C;X6;K64350
+C;X7;K1
+C;X8;K"{#ffebcd75=Grants your character an\nadditional 5 points of\nPotential.#}"
+E
